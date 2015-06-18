@@ -60,6 +60,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [generate](https://github.com/generate-cr/generate) - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
 
 ## Testing
+  - [minitest](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions for Crystal
   - [mocks](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
   - [timecop.cr](https://github.com/waterlink/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem](https://github.com/travisjeffery/timecop)
   - [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
