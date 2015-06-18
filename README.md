@@ -10,6 +10,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Contents
   - [Awesome Crystal](#awesome-crystal)
+    - [Configuration](#configuration)
     - [Database Drivers](#database-drivers)
     - [HTTP](#http)
     - [Multimedia](#multimedia)
@@ -25,6 +26,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [Resources](#resources)
   - [Tools](#tools)
     - [IDEs](#ides)
+
+## Configuration
+  - [crystal-toml](https://github.com/manastech/crystal-toml) - A TOML parser for Crystal
 
 ## Database Drivers
   - [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C Driver
@@ -56,6 +60,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Third-party APIs
   - [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
+  - [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
   - [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
 
 ## Virtualization
