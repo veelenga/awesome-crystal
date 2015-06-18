@@ -14,6 +14,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Database Drivers](#database-drivers)
     - [HTTP](#http)
     - [Multimedia](#multimedia)
+    - [Network Messaging](#network-messaging)
     - [ORM/ODM Extensions](#ormodm-extensions)
     - [Package Management](#package-management)
     - [Programming Languages](#programming-languages)
@@ -41,7 +42,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [crul](https://github.com/porras/crul) - Command line HTTP client
 
 ## Multimedia
-  - [crsfml](https://github.com/BlaXpirit/crsfml) - Crystal bindings to Simple and Fast Multimedia Library (through CSFML)
+  - [crsfml](https://github.com/BlaXpirit/crsfml) - Crystal bindings to [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
+
+## Network Messaging
+  - [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
 
 ## ORM/ODM Extensions
   - [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation for Crystal
@@ -56,7 +60,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [generate](https://github.com/generate-cr/generate) - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
 
 ## Testing
-  - [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing HTTP::Client requests
+  - [mocks](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
+  - [timecop.cr](https://github.com/waterlink/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem](https://github.com/travisjeffery/timecop)
+  - [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ## Third-party APIs
   - [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
