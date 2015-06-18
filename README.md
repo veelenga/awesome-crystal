@@ -55,6 +55,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing HTTP::Client requests
 
 ## Third-party APIs
+  - [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
   - [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
 
 ## Virtualization
