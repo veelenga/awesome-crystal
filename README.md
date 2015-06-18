@@ -63,6 +63,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Web Frameworks
   - [Amatista](https://github.com/werner/amatista) - A web framework to create quick applications
   - [Amethyst](https://github.com/Codcore/Amethyst) - A Rails inspired web-framework for Crystal language
+  - [Frank](https://github.com/manastech/frank) - A small Sinatra clone for Crystal
   - [Moonshine](https://github.com/dhruvrajvanshi/Moonshine) - A minimal web framework
 
 # Community
