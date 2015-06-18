@@ -44,6 +44,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## HTTP
   - [crul](https://github.com/porras/crul) - Command line HTTP client
+  - [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/joyent/http-parser)
 
 ## Multimedia
   - [crsfml](https://github.com/BlaXpirit/crsfml) - Crystal bindings to [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
