@@ -25,6 +25,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Third-party APIs](#third-party-apis)
     - [Virtualization](#virtualization)
     - [Web Frameworks](#web-frameworks)
+    - [Web Servers](#web-servers)
   - [Community](#community)
   - [Resources](#resources)
   - [Tools](#tools)
@@ -88,6 +89,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [Amethyst](https://github.com/Codcore/Amethyst) - A Rails inspired web-framework for Crystal language
   - [Frank](https://github.com/manastech/frank) - A small Sinatra clone for Crystal
   - [Moonshine](https://github.com/dhruvrajvanshi/Moonshine) - A minimal web framework
+
+## Web Servers
+  - [prax.cr](https://github.com/ysbaddaden/prax.cr) - Rack proxy server for development
 
 # Community
   - [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
