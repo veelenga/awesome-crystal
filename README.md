@@ -4,33 +4,30 @@ A curated list of awesome Crystal code and resources. Inspired by [awesome-aweso
 
 The goal is to have projects mostly stable and useful for users.
 
-## Contributing
+Contributions are welcome. Please take a quick look at the [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/CONTRIBUTING.md) first.
 
-Please take a quick look at the [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/CONTRIBUTING.md) first.
-
-## Contents
-  - [Awesome Crystal](#awesome-crystal)
-    - [Cashing](#cashing)
-    - [Configuration](#configuration)
-    - [Database Drivers](#database-drivers)
-    - [Data Generators](#data-generators)
-    - [Implementations/Compilers](#implementationscompilers)
-    - [HTTP](#http)
-    - [Multimedia](#multimedia)
-    - [Network Messaging](#network-messaging)
-    - [ORM/ODM Extensions](#ormodm-extensions)
-    - [Package Management](#package-management)
-    - [Project generators](#project-generators)
-    - [Testing](#testing)
-    - [Third-party APIs](#third-party-apis)
-    - [Virtualization](#virtualization)
-    - [Web Frameworks](#web-frameworks)
-    - [Web Servers](#web-servers)
-  - [Community](#community)
-  - [Services and Apps](#services-and-apps)
-  - [Resources](#resources)
-  - [Tools](#tools)
-    - [Editor Plugins](#editor-plugins)
+- [Awesome Crystal](#awesome-crystal)
+  - [Cashing](#cashing)
+  - [Configuration](#configuration)
+  - [Database Drivers](#database-drivers)
+  - [Data Generators](#data-generators)
+  - [Implementations/Compilers](#implementationscompilers)
+  - [HTTP](#http)
+  - [Multimedia](#multimedia)
+  - [Network Messaging](#network-messaging)
+  - [ORM/ODM Extensions](#ormodm-extensions)
+  - [Package Management](#package-management)
+  - [Project generators](#project-generators)
+  - [Testing](#testing)
+  - [Third-party APIs](#third-party-apis)
+  - [Virtualization](#virtualization)
+  - [Web Frameworks](#web-frameworks)
+  - [Web Servers](#web-servers)
+- [Community](#community)
+- [Services and Apps](#services-and-apps)
+- [Resources](#resources)
+- [Tools](#tools)
+  - [Editor Plugins](#editor-plugins)
 
 ## Cashing
   - [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
