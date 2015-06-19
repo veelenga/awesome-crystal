@@ -13,6 +13,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Cashing](#cashing)
     - [Configuration](#configuration)
     - [Database Drivers](#database-drivers)
+    - [Data Generators](#data-generators)
     - [HTTP](#http)
     - [Multimedia](#multimedia)
     - [Network Messaging](#network-messaging)
@@ -41,6 +42,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
   - [crystal-redis](https://github.com/stefanwille/crystal-redis) - A Redis client
   - [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings for Crystal
+
+## Data Generators
+  - [random.cr](https://github.com/scidom/random.cr) - Random number generation, provides interface for the [SIMD-oriented Fast Mersenne Twister (dSFMT)](http://www.math.sci.hiroshima-u.ac.jp/~%20m-mat/MT/SFMT/index.html)
 
 ## HTTP
   - [crul](https://github.com/porras/crul) - Command line HTTP client
@@ -74,6 +78,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
   - [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
   - [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
+  - [zlib.cr](https://github.com/datanoise/zlib.cr) - API to handle Zlib Deflate/Inflate stream and GZFile API
 
 ## Virtualization
   - [rcpu](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
