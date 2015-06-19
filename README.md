@@ -6,7 +6,7 @@ The goal is to have projects mostly stable and useful for users.
 
 ## Contributing
 
-Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first.
+Please take a quick look at the [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/CONTRIBUTING.md) first.
 
 ## Contents
   - [Awesome Crystal](#awesome-crystal)
