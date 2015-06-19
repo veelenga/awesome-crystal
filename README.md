@@ -27,6 +27,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Web Frameworks](#web-frameworks)
     - [Web Servers](#web-servers)
   - [Community](#community)
+  - [Services and Apps](#services-and-apps)
   - [Resources](#resources)
   - [Tools](#tools)
     - [Editor Plugins](#editor-plugins)
@@ -98,11 +99,14 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [Reddit](https://www.reddit.com/domain/crystal-lang.org/)
   - [Stackoverflow](http://stackoverflow.com/tags/crystal-lang/info)
 
+# Services and Apps
+  - [carc.in](http://carc.in/) - A web service that runs your code and displays the result
+
 # Resources
   - [crystal-lang](http://crystal-lang.org) - official language site
 
 # Tools
-  
+
 ## Editor Plugins
   - Atom
     - [language-crystal-actual](https://atom.io/packages/language-crystal-actual) - Crystal language support in Atom
