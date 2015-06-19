@@ -1,4 +1,4 @@
-# Awesome Crystal
+# Awesome Crystal [![Build Status](https://travis-ci.org/veelenga/awesome-crystal.svg)](https://travis-ci.org/veelenga/awesome-crystal)
 
 A curated list of awesome Crystal code and resources. Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
