@@ -27,7 +27,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [Community](#community)
   - [Resources](#resources)
   - [Tools](#tools)
-    - [IDEs](#ides)
+    - [Editor Plugins](#editor-plugins)
 
 ## Cashing
   - [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
@@ -93,8 +93,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [crystal-lang](http://crystal-lang.org) - official language site
 
 # Tools
-  - IDEs
+  
+## Editor Plugins
+  - Atom
     - [language-crystal-actual](https://atom.io/packages/language-crystal-actual) - Crystal language support in Atom
     - [linter-crystal](https://atom.io/packages/linter-crystal) - lint Crystal using the Crystal compiler in Atom
+  - Sublime
     - [sublime-crystal](https://github.com/manastech/sublime-crystal) - Crystal syntax highlighting for Sublime Text
+  - Vim
     - [vim-crystal](https://github.com/rhysd/vim-crystal) - vim filetype support for Crystal
