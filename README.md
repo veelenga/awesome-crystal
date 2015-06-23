@@ -55,6 +55,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Mics
   - [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation for Crystal language
+  - [emoji.cr](Future type implementation for Crystal language) - Emoji library for Crystal
 
 ## Multimedia
   - [crsfml](https://github.com/BlaXpirit/crsfml) - Crystal bindings to [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
