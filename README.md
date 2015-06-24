@@ -8,6 +8,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 - [Awesome Crystal](#awesome-crystal)
   - [Cashing](#cashing)
+  - [CLI Builders](#cli-builders)
   - [Configuration](#configuration)
   - [Database Drivers](#database-drivers)
   - [Data Generators](#data-generators)
@@ -32,6 +33,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Cashing
   - [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
+
+## CLI Builders
+  - [clik](https://github.com/trans/clik) - Easy command line interfaces for Crystal
 
 ## Configuration
   - [crystal-toml](https://github.com/manastech/crystal-toml) - A TOML parser for Crystal
