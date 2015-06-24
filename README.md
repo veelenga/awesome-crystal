@@ -60,6 +60,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   - [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/joyent/http-parser)
 
 ## Misc
+  - [bson.cr](https://github.com/jeromegn/bson.cr) - Wrapper around libbson with a nice API
   - [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation for Crystal language
   - [emoji.cr](https://github.com/veelenga/emoji.cr.git) - Emoji library for Crystal
 
