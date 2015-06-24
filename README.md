@@ -47,6 +47,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   - [random.cr](https://github.com/scidom/random.cr) - Random number generation, provides interface for the [SIMD-oriented Fast Mersenne Twister (dSFMT)](http://www.math.sci.hiroshima-u.ac.jp/~%20m-mat/MT/SFMT/index.html)
 
 ## Implementations/Compilers
+  - [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
   - [crystal](https://github.com/manastech/crystal) - Crystal itself is written in Crystal
 
 ## HTTP
