@@ -4,36 +4,39 @@ A curated list of awesome Crystal code and resources. Inspired by [awesome-aweso
 
 The goal is to have projects mostly stable and useful for users.
 
-## Contributing
+Contributions are welcome. Please take a quick look at the [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/CONTRIBUTING.md) first.
 
-Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first.
-
-## Contents
-  - [Awesome Crystal](#awesome-crystal)
-    - [Cashing](#cashing)
-    - [Configuration](#configuration)
-    - [Database Drivers](#database-drivers)
-    - [Data Generators](#data-generators)
-    - [Implementations/Compilers](#implementationscompilers)
-    - [HTTP](#http)
-    - [Multimedia](#multimedia)
-    - [Network Messaging](#network-messaging)
-    - [ORM/ODM Extensions](#ormodm-extensions)
-    - [Package Management](#package-management)
-    - [Project generators](#project-generators)
-    - [Testing](#testing)
-    - [Third-party APIs](#third-party-apis)
-    - [Virtualization](#virtualization)
-    - [Web Frameworks](#web-frameworks)
-    - [Web Servers](#web-servers)
-  - [Community](#community)
-  - [Services and Apps](#services-and-apps)
-  - [Resources](#resources)
-  - [Tools](#tools)
-    - [Editor Plugins](#editor-plugins)
+- [Awesome Crystal](#awesome-crystal)
+  - [Cashing](#cashing)
+  - [CLI Builders](#cli-builders)
+  - [Configuration](#configuration)
+  - [Database Drivers](#database-drivers)
+  - [Data Generators](#data-generators)
+  - [Implementations/Compilers](#implementationscompilers)
+  - [HTTP](#http)
+  - [Misc](#misc)
+  - [Multimedia](#multimedia)
+  - [Network Messaging](#network-messaging)
+  - [ORM/ODM Extensions](#ormodm-extensions)
+  - [Package Management](#package-management)
+  - [Project generators](#project-generators)
+  - [Security](#security)
+  - [Testing](#testing)
+  - [Third-party APIs](#third-party-apis)
+  - [Virtualization](#virtualization)
+  - [Web Frameworks](#web-frameworks)
+  - [Web Servers](#web-servers)
+- [Community](#community)
+- [Services and Apps](#services-and-apps)
+- [Resources](#resources)
+- [Tools](#tools)
+  - [Editor Plugins](#editor-plugins)
 
 ## Cashing
   - [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
+
+## CLI Builders
+  - [clik](https://github.com/trans/clik) - Easy command line interfaces for Crystal
 
 ## Configuration
   - [crystal-toml](https://github.com/manastech/crystal-toml) - A TOML parser for Crystal
@@ -49,11 +52,17 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [random.cr](https://github.com/scidom/random.cr) - Random number generation, provides interface for the [SIMD-oriented Fast Mersenne Twister (dSFMT)](http://www.math.sci.hiroshima-u.ac.jp/~%20m-mat/MT/SFMT/index.html)
 
 ## Implementations/Compilers
+  - [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
   - [crystal](https://github.com/manastech/crystal) - Crystal itself is written in Crystal
 
 ## HTTP
   - [crul](https://github.com/porras/crul) - Command line HTTP client
   - [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/joyent/http-parser)
+
+## Misc
+  - [bson.cr](https://github.com/jeromegn/bson.cr) - Wrapper around libbson with a nice API
+  - [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation for Crystal language
+  - [emoji.cr](https://github.com/veelenga/emoji.cr.git) - Emoji library for Crystal
 
 ## Multimedia
   - [crsfml](https://github.com/BlaXpirit/crsfml) - Crystal bindings to [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
@@ -69,6 +78,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Project generators
   - [generate](https://github.com/generate-cr/generate) - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
+
+## Security
+  - [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
 
 ## Testing
   - [minitest](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions for Crystal
