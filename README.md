@@ -20,6 +20,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   - [ORM/ODM Extensions](#ormodm-extensions)
   - [Package Management](#package-management)
   - [Project generators](#project-generators)
+  - [Security](#security)
   - [Testing](#testing)
   - [Third-party APIs](#third-party-apis)
   - [Virtualization](#virtualization)
@@ -76,6 +77,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Project generators
   - [generate](https://github.com/generate-cr/generate) - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
+
+## Security
+  - [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
 
 ## Testing
   - [minitest](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions for Crystal
