@@ -24,6 +24,19 @@ class Readme
     refs
   end
 
+  def get_groups
+    set = find("//ul[li]") as XML::NodeSet
+    groups = set.map do |node|
+      n = XML.parse(node.to_s).xpath("//li/a[1]/text()") as XML::NodeSet
+      n.map { |el| el.text as String}
+    end
+    # FIXME: Crystal Markdown does not support inner lists
+    # Should be fixed in future
+    groups.shift # table of contents
+    groups.pop   # editor plugins
+    groups
+  end
+
   private def to_html(markdown)
     XML.parse(%[
     <html>

@@ -4,7 +4,7 @@ require "uri"
 readme = Readme.new("./README.md")
 
 # Enable for debug purpose
-# File.write("readme.html", readme.html)
+File.write("readme.html", readme.html)
 
 describe "List of Crystal Awesomeness" do
   it "has references to awesomeness" do
@@ -49,6 +49,11 @@ describe "List of Crystal Awesomeness" do
   end
 
   it "has alphabetical order" do
-    #TODO:
+    readme.get_groups.each do |group|
+      sorted = group.sort
+      group.each_with_index do |awesome, i|
+        awesome.should eq sorted[i]
+      end
+    end
   end
 end

@@ -45,11 +45,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [random.cr](https://github.com/scidom/random.cr) - Random number generation, provides interface for the [SIMD-oriented Fast Mersenne Twister (dSFMT)](http://www.math.sci.hiroshima-u.ac.jp/~%20m-mat/MT/SFMT/index.html)
 
 ## Database Drivers
- * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C Driver
  * [crystal-mysql](https://github.com/waterlink/crystal-mysql) - Basic MySQL bindings for Crystal
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
  * [crystal-redis](https://github.com/stefanwille/crystal-redis) - A Redis client
  * [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings for Crystal
+ * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C Driver
 
 ## Implementations/Compilers
  * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
