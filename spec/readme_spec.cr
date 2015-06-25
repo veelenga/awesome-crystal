@@ -21,7 +21,7 @@ describe "List of Crystal Awesomeness" do
   end
 
   it "hasn't duplicated references" do
-    refs = readme.get_refs.map do |ref|
+    refs = readme.get_refs(/github/).map do |ref|
       uri = URI.parse(ref)
       host = uri.host
       path = uri.path
