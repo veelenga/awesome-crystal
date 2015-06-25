@@ -21,21 +21,17 @@ describe "List of Crystal Awesomeness" do
   end
 
   it "hasn't duplicated references" do
-    refs = readme.get_refs(/github/).map do |ref|
-      uri = URI.parse(ref)
-      host = uri.host
-      path = uri.path
-      if host
-        "#{host.downcase}#{path.downcase if path}"
-      else
-        ref
-      end
-    end
     prev = nil
-    refs.sort.each do |ref|
-      ref.should_not eq prev
-      prev = ref
+    readme.get_refs(/github/).map do |ref|
+      uri = URI.parse(ref)
+      host = uri.host as String
+      path = uri.path as String | Nil
+      "#{host.downcase}#{path.downcase if path}"
     end
+      .sort.each do |ref|
+        ref.should_not eq prev
+        prev = ref
+      end
   end
 
   it "has lower case names" do
