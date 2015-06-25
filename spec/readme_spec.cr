@@ -4,25 +4,42 @@ require "uri"
 readme = Readme.new("./README.md")
 
 # Enable for debug purpose
-# File.write("test.html", readme.html)
+# File.write("readme.html", readme.html)
 
-describe "List of Crystal Awesomness" do
+describe "List of Crystal Awesomeness" do
+  it "has references to awesomeness" do
+    readme.get_refs(/github/).empty?.should be_false
+  end
+
   it "has references in 'https://github.com/path' format" do
-    set = readme.find("//li/a/@href") as XML::NodeSet
-    set.each do |node|
-      ref = node.text as String
-      if ref =~ /github.com/
-        uri = URI.parse(ref)
-        uri.scheme.should eq "https"
-        uri.host.should eq "github.com"
-        uri.path.should_not be nil
+    readme.get_refs(/github/).each do |ref|
+      uri = URI.parse(ref)
+      uri.scheme.should eq "https"
+      uri.host.should eq "github.com"
+      uri.path.should_not be nil
+    end
+  end
+
+  it "hasn't duplicated references" do
+    refs = readme.get_refs.map do |ref|
+      uri = URI.parse(ref)
+      host = uri.host
+      path = uri.path
+      if host
+        "#{host.downcase}#{path.downcase if path}"
+      else
+        ref
       end
+    end
+    prev = nil
+    refs.sort.each do |ref|
+      ref.should_not eq prev
+      prev = ref
     end
   end
 
   it "has lower case names" do
-    set = readme.find("//ul/li/a") as XML::NodeSet
-    set.each do |node|
+    readme.get_awesomeness.each do |node|
       name = node.text as String
       ref = node.text as String
       if ref =~ /github.com/
@@ -31,14 +48,7 @@ describe "List of Crystal Awesomness" do
     end
   end
 
-  it "has h1 headers in alphabetical order" do
-    set = readme.find("//h1") as XML::NodeSet
-    headers = set.map do |node|
-      node.text as String
-    end
-    sorted = headers.sort
-    headers.each_with_index do  |header, i|
-      header.should eq sorted[i]
-    end
+  it "has alphabetical order" do
+    #TODO:
   end
 end
