@@ -16,7 +16,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [HTTP](#http)
   * [Misc](#misc)
   * [Multimedia](#multimedia)
-  * [Network Messaging](#network-messaging)
+  * [Networking](#networking)
   * [ORM/ODM Extensions](#ormodm-extensions)
   * [Package Management](#package-management)
   * [Project generators](#project-generators)
@@ -67,8 +67,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Multimedia
  * [crsfml](https://github.com/BlaXpirit/crsfml) - Crystal bindings to [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
 
-## Network Messaging
+## Networking
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
+ * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Library that provides binding for libssh2 library
 
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation for Crystal
