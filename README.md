@@ -117,6 +117,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-lang](http://crystal-lang.org) - official language site
 
 # Services and Apps
+ * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [carc.in](http://carc.in/) - A web service that runs your code and displays the result
  * [crystalshards](https://crystalshards.herokuapp.com/) - A web service that lists all available Crystal shards
 
