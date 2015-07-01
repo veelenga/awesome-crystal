@@ -1,6 +1,6 @@
 # Awesome Crystal [![Build Status](https://travis-ci.org/veelenga/awesome-crystal.svg)](https://travis-ci.org/veelenga/awesome-crystal)
 
-A curated list of awesome Crystal code and resources. Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+A curated list of awesome Crystal code and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
 The goal is to have projects mostly stable and useful for users.
 
