@@ -7,7 +7,7 @@ The goal is to have projects mostly stable and useful for users.
 Contributions are welcome. Please take a quick look at the [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/CONTRIBUTING.md) first.
 
 * [Awesome Crystal](#awesome-crystal)
-  * [Cashing](#cashing)
+  * [Caching](#caching)
   * [Cli Builders](#cli-builders)
   * [Configuration](#configuration)
   * [Database Drivers](#database-drivers)
@@ -32,7 +32,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 * [Tools](#tools)
   * [Editor Plugins](#editor-plugins)
 
-## Cashing
+## Caching
  * [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
 
 ## Cli Builders
