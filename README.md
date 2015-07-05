@@ -111,6 +111,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [prax.cr](https://github.com/ysbaddaden/prax.cr) - Rack proxy server for development
 
 # Community
+ * [Crystal Shards on Twitter](https://twitter.com/shardscrystal)
  * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
  * [Reddit](https://www.reddit.com/domain/crystal-lang.org/)
  * [Stackoverflow](http://stackoverflow.com/tags/crystal-lang/info)
