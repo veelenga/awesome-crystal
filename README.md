@@ -12,6 +12,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Configuration](#configuration)
   * [Database Drivers](#database-drivers)
   * [Data Generators](#data-generators)
+  * [Environment Management](#environment-management)
   * [Implementations/Compilers](#implementationscompilers)
   * [HTTP](#http)
   * [Misc](#misc)
@@ -43,6 +44,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Data Generators
  * [random.cr](https://github.com/scidom/random.cr) - Random number generation, provides interface for the [SIMD-oriented Fast Mersenne Twister (dSFMT)](http://www.math.sci.hiroshima-u.ac.jp/~%20m-mat/MT/SFMT/index.html)
+
+## Environment Management
+ * [crenv](https://github.com/pine613/crenv) - Crystal version manager
 
 ## Database Drivers
  * [crystal-mysql](https://github.com/waterlink/crystal-mysql) - Basic MySQL bindings for Crystal
