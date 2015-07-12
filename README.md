@@ -23,6 +23,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Project generators](#project-generators)
   * [Security](#security)
   * [Testing](#testing)
+  * [Template Engine](#template-engine)
   * [Third-party APIs](#third-party-apis)
   * [Virtualization](#virtualization)
   * [Web Frameworks](#web-frameworks)
@@ -95,6 +96,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [spec2.cr](https://github.com/waterlink/spec2.cr) - Enhanced testing library for Crystal
  * [timecop.cr](https://github.com/waterlink/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
+
+## Template Engine
+  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
 
 ## Third-party APIs
  * [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
