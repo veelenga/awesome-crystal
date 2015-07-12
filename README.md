@@ -104,6 +104,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Third-party APIs
  * [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
+ * [soundcloud-crystal](https://github.com/sferik/soundcloud-crystal) - A library to access the SoundCloud API
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
  * [zlib.cr](https://github.com/datanoise/zlib.cr) - API to handle Zlib Deflate/Inflate stream and GZFile API
 
