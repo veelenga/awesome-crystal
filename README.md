@@ -98,8 +98,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ## Template Engine
-  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
   * [Bunny](https://github.com/samsheff/Bunny) - A simple HTML templating language for Crystal, same syntax as erb
+  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
 
 ## Third-party APIs
  * [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
@@ -129,9 +129,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-lang](http://crystal-lang.org) - official language site
 
 # Services and Apps
- * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [carc.in](http://carc.in/) - A web service that runs your code and displays the result
  * [crystalshards](https://crystalshards.herokuapp.com/) - A web service that lists all available Crystal shards
+ * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [docrystal](http://www.docrystal.org) - A web application that hosts documentation for Crystal packages
 
 # Tools
