@@ -99,6 +99,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Template Engine
   * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
+  * [Bunny](https://github.com/samsheff/Bunny) - A simple HTML templating language for Crystal, same syntax as erb
 
 ## Third-party APIs
  * [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
