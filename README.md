@@ -68,6 +68,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL for the Crystal language (abusing macros)
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Wrapper around libbson with a nice API
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation for Crystal language
+ * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms for the Crystal language
  * [emoji.cr](https://github.com/veelenga/emoji.cr.git) - Emoji library for Crystal
 
 ## Multimedia
