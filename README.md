@@ -126,6 +126,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Crystal Shards on Twitter](https://twitter.com/shardscrystal)
  * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
  * [Reddit](https://www.reddit.com/domain/crystal-lang.org/)
+ * [Slack Group](http://crystal.pine.moe/en/)
  * [Stackoverflow](http://stackoverflow.com/tags/crystal-lang/info)
 
 # Resources
