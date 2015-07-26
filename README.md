@@ -127,6 +127,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
  * [Reddit](https://www.reddit.com/domain/crystal-lang.org/)
  * [Stackoverflow](http://stackoverflow.com/tags/crystal-lang/info)
+ * [Slack Group](http://crystal.pine.moe/en/)
 
 # Resources
  * [crystal-lang](http://crystal-lang.org) - official language site
