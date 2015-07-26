@@ -62,6 +62,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## HTTP
  * [crul](https://github.com/porras/crul) - Command line HTTP client
+ * [crystal-routing](https://github.com/bcardiff/crystal-routing) - Extensible library to deal with http request and string based routing
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/joyent/http-parser)
 
 ## Misc
