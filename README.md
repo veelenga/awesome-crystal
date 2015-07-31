@@ -70,7 +70,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Wrapper around libbson with a nice API
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation for Crystal language
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms for the Crystal language
- * [emoji.cr](https://github.com/veelenga/emoji.cr.git) - Emoji library for Crystal
+ * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library for Crystal
+ * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
 
 ## Multimedia
  * [crsfml](https://github.com/BlaXpirit/crsfml) - Crystal bindings to [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
