@@ -52,7 +52,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Database Drivers
  * [crystal-mysql](https://github.com/waterlink/crystal-mysql) - Basic MySQL bindings for Crystal
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
- * [crystal-redis](https://github.com/stefanwille/crystal-redis) - A Redis client
+ * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client for Crystal
  * [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings for Crystal
  * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C Driver
 
