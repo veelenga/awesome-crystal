@@ -21,6 +21,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [ORM/ODM Extensions](#ormodm-extensions)
   * [Package Management](#package-management)
   * [Project generators](#project-generators)
+  * [Search](#search)
   * [Security](#security)
   * [Testing](#testing)
   * [Template Engine](#template-engine)
@@ -89,6 +90,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Project generators
  * [generate](https://github.com/generate-cr/generate) - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
+
+## Search
+ * [stretchy](https://github.com/samsheff/Stretchy) - Elasticsearch client for Crystal
 
 ## Security
  * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
