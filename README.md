@@ -151,6 +151,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * Atom
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) - Crystal language support in Atom
    * [linter-crystal](https://atom.io/packages/linter-crystal) - lint Crystal using the Crystal compiler in Atom
+ * Emacs
+   * [emacs-crystal-mode](https://github.com/jpellerin/emacs-crystal-mode) - Crystal language support for Emacs
  * Sublime
    * [sublime-crystal](https://github.com/manastech/sublime-crystal) - Crystal syntax highlighting for Sublime Text
  * Vim
