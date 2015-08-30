@@ -8,10 +8,11 @@
   - Contribute links to the packages/projects you are familiar with
   - Search existed entry/suggestion before making a new one
   - Make an individual commit for each suggestion in a pull request
+  - **Run specs (`crystal spec`) before commiting or pushing your suggestion**
 
 ### List quality rules
 
-  - List items should be sorted alphabetically
+  - List items should be sorted alphabetically 
   - Each item should be limited to one link
   - The link should be the name of the package or project
   - Description should be clear and concise
