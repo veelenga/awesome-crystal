@@ -84,6 +84,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation for Crystal
+ * [amethyst-model](https://github.com/drujensen/amethyst-model)- ORM Model for the Amethyst Framework
 
 ## Package Management
  * [shards](https://github.com/ysbaddaden/shards) - Dependency manager for the Crystal
