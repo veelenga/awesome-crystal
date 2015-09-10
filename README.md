@@ -72,9 +72,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Wrapper around libbson with a nice API
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation for Crystal language
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms for the Crystal language
+ * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library for Crystal
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface for Crystal
+ * [zlib.cr](https://github.com/datanoise/zlib.cr) - Bindings for ZLib library
 
 ## Multimedia
  * [crsfml](https://github.com/BlaXpirit/crsfml) - Crystal bindings to [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
@@ -117,7 +119,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
  * [soundcloud-crystal](https://github.com/sferik/soundcloud-crystal) - A library to access the SoundCloud API
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
- * [zlib.cr](https://github.com/datanoise/zlib.cr) - Bindings for ZLib library
 
 ## Virtualization
  * [rcpu](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
