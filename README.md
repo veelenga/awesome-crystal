@@ -117,6 +117,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [airbrake-crystal](https://github.com/kyrylo/airbrake-crystal) - A Crystal notifier for [Airbrake](https://airbrake.io)
  * [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
+ * [shorturl.cr](https://github.com/veelenga/shorturl.cr) - A library to use URL shortening services
  * [soundcloud-crystal](https://github.com/sferik/soundcloud-crystal) - A library to access the SoundCloud API
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
 
