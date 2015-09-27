@@ -153,6 +153,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Editor Plugins
  * Atom
+   * [crystal-tools](https://atom.io/packages/crystal-tools) - Enables built in tools in Crystal compiler
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) - Crystal language support in Atom
    * [linter-crystal](https://atom.io/packages/linter-crystal) - lint Crystal using the Crystal compiler in Atom
  * Emacs
