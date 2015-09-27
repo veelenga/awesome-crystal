@@ -135,6 +135,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 # Community
  * [Crystal Shards on Twitter](https://twitter.com/shardscrystal)
+ * [Crystal weekly newsletters](http://www.crystalweekly.com/)
  * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
  * [Reddit](https://www.reddit.com/domain/crystal-lang.org/)
  * [Slack Group](http://crystal.pine.moe/en/)
@@ -159,6 +160,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * Emacs
    * [emacs-crystal-mode](https://github.com/jpellerin/emacs-crystal-mode) - Crystal language support for Emacs
  * Sublime
-   * [sublime-crystal](https://github.com/manastech/sublime-crystal) - Crystal syntax highlighting for Sublime Text
+   * [sublime-crystal](https://github.com/manastech/sublime-crystal) - Crystal syntax highlighting for sublime Text
  * Vim
    * [vim-crystal](https://github.com/rhysd/vim-crystal) - vim filetype support for Crystal
