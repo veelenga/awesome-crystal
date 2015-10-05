@@ -70,6 +70,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Misc
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL for the Crystal language (abusing macros)
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Wrapper around libbson with a nice API
+ * [crdoc](https://github.com/rhysd/crdoc) - CLI tool to search and open documentation for Crystal language
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation for Crystal language
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms for the Crystal language
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
