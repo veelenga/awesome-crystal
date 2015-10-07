@@ -103,6 +103,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
 
 ## Testing
+ * [matchi](https://github.com/fixcr/matchi) - Collection of expectation matchers
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions for Crystal
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
  * [power_assert.cr](https://github.com/rosylilly/power_assert.cr) - Powerful assertion for Crystal
