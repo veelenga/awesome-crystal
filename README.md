@@ -130,6 +130,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [amatista](https://github.com/werner/amatista) - A web framework to create quick applications
  * [amethyst](https://github.com/Codcore/Amethyst) - A Rails inspired web-framework for Crystal language
  * [carbon-crystal](https://github.com/benoist/carbon-crystal) - A framework with Rails in mind
+ * [chocolate](https://github.com/Grabli66/chocolate) - Simple web framework and template engine
  * [frank](https://github.com/manastech/frank) - A small Sinatra clone for Crystal
  * [moonshine](https://github.com/dhruvrajvanshi/Moonshine) - A minimal web framework
 
