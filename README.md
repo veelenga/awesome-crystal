@@ -66,6 +66,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cryload](https://github.com/Sdogruyol/cryload) - HTTP benchmarking tool written in Crystal
  * [crystal-routing](https://github.com/bcardiff/crystal-routing) - Extensible library to deal with http request and string based routing
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/joyent/http-parser)
+ * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
 
 ## Misc
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL for the Crystal language (abusing macros)
