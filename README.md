@@ -23,6 +23,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Project generators](#project-generators)
   * [Search](#search)
   * [Security](#security)
+  * [Task management](#task-management)
   * [Testing](#testing)
   * [Template Engine](#template-engine)
   * [Third-party APIs](#third-party-apis)
@@ -102,6 +103,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Security
  * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
+
+## Task management
+ * [lake](https://github.com/adlerhsieh/lake) - Rake-like task management for Crystal programs
 
 ## Testing
  * [matchi](https://github.com/fixcr/matchi) - Collection of expectation matchers
