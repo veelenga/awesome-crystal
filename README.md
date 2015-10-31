@@ -71,9 +71,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Misc
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL for the Crystal language (abusing macros)
- * [bson.cr](https://github.com/jeromegn/bson.cr) - Wrapper around libbson with a nice API
  * [crdoc](https://github.com/rhysd/crdoc) - CLI tool to search and open documentation for Crystal language
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation for Crystal language
+ * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms for the Crystal language
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library for Crystal
@@ -86,6 +86,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Networking
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
+ * [bson.cr](https://github.com/jeromegn/bson.cr) - Wrapper around libbson with a nice API
+ * [msgpack-crystal](https://github.com/benoist/msgpack-crystal) - MessagePack for Crystal
  * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Library that provides binding for libssh2 library
 
 ## ORM/ODM Extensions
@@ -110,6 +112,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Testing
  * [matchi](https://github.com/fixcr/matchi) - Collection of expectation matchers
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions for Crystal
+ * [mock](https://github.com/porras/mock) - Mocking library for Crystal, inspired by the API of rspec-mocks
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
  * [power_assert.cr](https://github.com/rosylilly/power_assert.cr) - Powerful assertion for Crystal
  * [spec2.cr](https://github.com/waterlink/spec2.cr) - Enhanced testing library for Crystal
@@ -158,6 +161,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystalshards](https://crystalshards.herokuapp.com/) - A web service that lists all available Crystal shards
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [docrystal](http://www.docrystal.org) - A web application that hosts documentation for Crystal packages
+ * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
 
 # Tools
 
