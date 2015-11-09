@@ -103,7 +103,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Search
  * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
- * [stretchy](https://github.com/samsheff/Stretchy) - Elasticsearch client for Crystal
 
 ## Security
  * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
