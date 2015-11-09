@@ -102,6 +102,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [generate](https://github.com/generate-cr/generate) - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
 
 ## Search
+ * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
  * [stretchy](https://github.com/samsheff/Stretchy) - Elasticsearch client for Crystal
 
 ## Security
