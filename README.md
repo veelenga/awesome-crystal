@@ -66,7 +66,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crul](https://github.com/porras/crul) - Command line HTTP client
  * [cryload](https://github.com/Sdogruyol/cryload) - HTTP benchmarking tool written in Crystal
  * [crystal-routing](https://github.com/bcardiff/crystal-routing) - Extensible library to deal with http request and string based routing
- * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/joyent/http-parser)
+ * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
  * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
 
 ## Misc
@@ -161,7 +161,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [carc.in](http://carc.in/) - A web service that runs your code and displays the result
  * [crystalshards](https://crystalshards.herokuapp.com/) - A web service that lists all available Crystal shards
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
- * [docrystal](http://www.docrystal.org) - A web application that hosts documentation for Crystal packages
+ * [docrystal](http://docrystal.org/) - A web application that hosts documentation for Crystal packages
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
 
 # Tools
