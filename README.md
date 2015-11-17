@@ -46,7 +46,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-toml](https://github.com/manastech/crystal-toml) - A TOML parser for Crystal
 
 ## Data Generators
- * [random.cr](https://github.com/scidom/random.cr) - Random number generation, provides interface for the [SIMD-oriented Fast Mersenne Twister (dSFMT)](http://www.math.sci.hiroshima-u.ac.jp/~%20m-mat/MT/SFMT/index.html)
+ * [random.cr](https://github.com/scidom/random.cr) - Random number generation, provides interface for the SIMD-oriented Fast Mersenne Twister (dSFMT)
 
 ## Environment Management
  * [crenv](https://github.com/pine613/crenv) - Crystal version manager
