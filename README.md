@@ -108,6 +108,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
 
 ## Task management
+ * [crake](https://github.com/MakeNowJust/crake) - Rake-like build utility library. It is just a library, so it does not provide CLI
  * [lake](https://github.com/adlerhsieh/lake) - Rake-like task management for Crystal programs
 
 ## Testing
