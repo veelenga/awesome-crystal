@@ -80,6 +80,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library for Crystal
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface for Crystal
+ * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
  * [zlib.cr](https://github.com/datanoise/zlib.cr) - Bindings for ZLib library
 
 ## Multimedia
