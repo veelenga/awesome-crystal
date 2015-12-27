@@ -143,6 +143,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [amethyst](https://github.com/Codcore/Amethyst) - A Rails inspired web-framework for Crystal language
  * [carbon-crystal](https://github.com/benoist/carbon-crystal) - A framework with Rails in mind
  * [chocolate](https://github.com/Grabli66/chocolate) - Simple web framework and template engine
+ * [frost](https://github.com/ysbaddaden/frost) - Full featured MVC Web Framework for the Crystal programming language, largely inspired by Ruby on Rails
  * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework for Crystal. Inspired by Sinatra
  * [moonshine](https://github.com/dhruvrajvanshi/Moonshine) - A minimal web framework
 
