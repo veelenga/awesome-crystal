@@ -148,6 +148,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [moonshine](https://github.com/dhruvrajvanshi/Moonshine) - A minimal web framework
 
 ## Web Servers
+ * [fast-http-server](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server.
  * [kamber](https://github.com/f/kamber) - Blog server based on Kemal
  * [prax.cr](https://github.com/ysbaddaden/prax.cr) - Rack proxy server for development
 
