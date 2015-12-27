@@ -40,10 +40,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
 
 ## Cli Builders
- * [clik](https://github.com/trans/clik) - Easy command line interfaces for Crystal
+ * [clik](https://github.com/trans/clik) - Easy command line interfaces
 
 ## Configuration
- * [crystal-toml](https://github.com/manastech/crystal-toml) - A TOML parser for Crystal
+ * [crystal-toml](https://github.com/manastech/crystal-toml) - TOML parser
 
 ## Data Generators
  * [random.cr](https://github.com/scidom/random.cr) - Random number generation, provides interface for the SIMD-oriented Fast Mersenne Twister (dSFMT)
@@ -52,10 +52,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crenv](https://github.com/pine613/crenv) - Crystal version manager
 
 ## Database Drivers
- * [crystal-mysql](https://github.com/waterlink/crystal-mysql) - Basic MySQL bindings for Crystal
+ * [crystal-mysql](https://github.com/waterlink/crystal-mysql) - Basic MySQL bindings
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
- * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client for Crystal
- * [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings for Crystal
+ * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
+ * [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings
  * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C Driver
 
 ## Implementations/Compilers
@@ -64,23 +64,23 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## HTTP
  * [crul](https://github.com/porras/crul) - Command line HTTP client
- * [cryload](https://github.com/Sdogruyol/cryload) - HTTP benchmarking tool written in Crystal
+ * [cryload](https://github.com/Sdogruyol/cryload) - HTTP benchmarking tool
  * [crystal-routing](https://github.com/bcardiff/crystal-routing) - Extensible library to deal with http request and string based routing
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
  * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
 
 ## Misc
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL for the Crystal language (abusing macros)
- * [crdoc](https://github.com/rhysd/crdoc) - CLI tool to search and open documentation for Crystal language
+ * [crdoc](https://github.com/rhysd/crdoc) - CLI tool to search and open documentation
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
- * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation for Crystal language
+ * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
- * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms for the Crystal language
+ * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
- * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library for Crystal
+ * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
- * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface for Crystal
+ * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
  * [zlib.cr](https://github.com/datanoise/zlib.cr) - Bindings for ZLib library
 
@@ -90,11 +90,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Networking
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Wrapper around libbson with a nice API
- * [msgpack-crystal](https://github.com/benoist/msgpack-crystal) - MessagePack for Crystal
+ * [msgpack-crystal](https://github.com/benoist/msgpack-crystal) - MessagePack library
  * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Library that provides binding for libssh2 library
 
 ## ORM/ODM Extensions
- * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation for Crystal
+ * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
  * [amethyst-model](https://github.com/drujensen/amethyst-model)- ORM Model for the Amethyst Framework
 
 ## Package Management
@@ -115,11 +115,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Testing
  * [matchi](https://github.com/fixcr/matchi) - Collection of expectation matchers
- * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions for Crystal
- * [mock](https://github.com/porras/mock) - Mocking library for Crystal, inspired by the API of rspec-mocks
+ * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
+ * [mock](https://github.com/porras/mock) - Mocking library, inspired by the API of rspec-mocks
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
  * [power_assert.cr](https://github.com/rosylilly/power_assert.cr) - Powerful assertion for Crystal
- * [spec2.cr](https://github.com/waterlink/spec2.cr) - Enhanced testing library for Crystal
+ * [spec2.cr](https://github.com/waterlink/spec2.cr) - Enhanced testing library
  * [timecop.cr](https://github.com/waterlink/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
@@ -140,15 +140,15 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Web Frameworks
  * [amatista](https://github.com/werner/amatista) - A web framework to create quick applications
- * [amethyst](https://github.com/Codcore/Amethyst) - A Rails inspired web-framework for Crystal language
+ * [amethyst](https://github.com/Codcore/Amethyst) - A Rails inspired web-framework
  * [carbon-crystal](https://github.com/benoist/carbon-crystal) - A framework with Rails in mind
  * [chocolate](https://github.com/Grabli66/chocolate) - Simple web framework and template engine
- * [frost](https://github.com/ysbaddaden/frost) - Full featured MVC Web Framework for the Crystal programming language, largely inspired by Ruby on Rails
- * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework for Crystal. Inspired by Sinatra
+ * [frost](https://github.com/ysbaddaden/frost) - Full featured MVC Web Framework, largely inspired by Ruby on Rails
+ * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [moonshine](https://github.com/dhruvrajvanshi/Moonshine) - A minimal web framework
 
 ## Web Servers
- * [kamber](https://github.com/f/kamber) - blog server based on Kemal
+ * [kamber](https://github.com/f/kamber) - Blog server based on Kemal
  * [prax.cr](https://github.com/ysbaddaden/prax.cr) - Rack proxy server for development
 
 # Community
@@ -160,7 +160,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Stackoverflow](http://stackoverflow.com/tags/crystal-lang/info)
 
 # Resources
- * [crystal-lang](http://crystal-lang.org) - official language site
+ * [crystal-lang](http://crystal-lang.org) - Official language site
 
 # Services and Apps
  * [carc.in](http://carc.in/) - A web service that runs your code and displays the result
@@ -175,10 +175,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * Atom
    * [crystal-tools](https://atom.io/packages/crystal-tools) - Enables built in tools in Crystal compiler
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) - Crystal language support in Atom
-   * [linter-crystal](https://atom.io/packages/linter-crystal) - lint Crystal using the Crystal compiler in Atom
+   * [linter-crystal](https://atom.io/packages/linter-crystal) - Lint Crystal using the Crystal compiler in Atom
  * Emacs
    * [emacs-crystal-mode](https://github.com/jpellerin/emacs-crystal-mode) - Crystal language support for Emacs
  * Sublime
    * [sublime-crystal](https://github.com/manastech/sublime-crystal) - Crystal syntax highlighting for sublime Text
  * Vim
-   * [vim-crystal](https://github.com/rhysd/vim-crystal) - vim filetype support for Crystal
+   * [vim-crystal](https://github.com/rhysd/vim-crystal) - Vim filetype support for Crystal
