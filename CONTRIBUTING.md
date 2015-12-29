@@ -7,16 +7,13 @@
 
   - Contribute links to the packages/projects you are familiar with
   - Search existed entry/suggestion before making a new one
-  - Make an individual commit for each suggestion in a pull request
-  - **Run specs (`crystal spec`) before commiting or pushing your suggestion**
+  - **Run specs (`crystal spec`) before opening a pull request**
 
 ### List quality rules
 
-  - List items should be sorted alphabetically 
+  - List items should be sorted alphabetically
   - Each item should be limited to one link
-  - The link should be the name of the package or project
   - Description should be clear and concise
-  - Description should follow the link at the same line
 
 ### New package requirements
 
@@ -31,4 +28,4 @@ Package/project is a good candidate to add to the list if it is:
 
 ## I want to open an issue
 
-Please open an issue if you find anything that could be enhanced or have any suggestions for making the list a more useful.
+Please open an issue if you find anything that could be enhanced or have any suggestions for making the list more useful.
