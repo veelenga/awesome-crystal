@@ -41,6 +41,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Cli Builders
  * [clik](https://github.com/trans/clik) - Easy command line interfaces
+ * [completion](https://github.com/f/completion) - Easy command line completion engine
 
 ## Configuration
  * [crystal-toml](https://github.com/manastech/crystal-toml) - TOML parser
@@ -126,6 +127,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Template Engine
   * [Bunny](https://github.com/samsheff/Bunny) - A simple HTML templating language for Crystal, same syntax as erb
   * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
+  * [temel](https://github.com/f/temel) - Extensible HTML::Builder alternative for Crystal, supports custom tag definitions
 
 ## Third-party APIs
  * [airbrake-crystal](https://github.com/kyrylo/airbrake-crystal) - A Crystal notifier for [Airbrake](https://airbrake.io)
