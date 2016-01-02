@@ -1,7 +1,7 @@
 # Contribution guidelines
 
-  - **To add to the list**: Submit a pull request
-  - **To remove from the list**: Open an issue
+  - **To add to the list**: submit a pull request
+  - **To remove from the list**: open an issue
 
 ## I want to add a new entry to the list
 
@@ -13,7 +13,7 @@
 
   - List items should be sorted alphabetically
   - Each item should be limited to one link
-  - Description should be clear and concise
+  - Description should be clear and concise. **Excessive information like *"... for Crystal programming language"* should be omitted**
 
 ### New package requirements
 
