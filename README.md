@@ -83,6 +83,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
+ * [progress](https://github.com/askn/progress) - [==..] Progress bar
+ * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
  * [zlib.cr](https://github.com/datanoise/zlib.cr) - Bindings for ZLib library
@@ -172,6 +174,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystalshards](https://crystalshards.herokuapp.com/) - A web service that lists all available Crystal shards
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [docrystal](http://docrystal.org/) - A web application that hosts documentation for Crystal packages
+ * [fikri](https://github.com/askn/fikri) - Simple CLI To-Do App
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
 
 # Tools
