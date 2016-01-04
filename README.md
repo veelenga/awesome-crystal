@@ -40,7 +40,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
 
 ## Cli Builders
- * [clik](https://github.com/trans/clik) - Easy command line interfaces
  * [commander](https://github.com/meskyanichi/commander) - Command-line interface builder
  * [completion](https://github.com/f/completion) - Easy command line completion engine
 
