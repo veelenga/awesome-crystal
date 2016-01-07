@@ -93,7 +93,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Networking
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
- * [bson.cr](https://github.com/jeromegn/bson.cr) - Wrapper around libbson with a nice API
+ * [bson.cr](https://github.com/jeromegn/bson.cr) - Native BSON implementation
  * [msgpack-crystal](https://github.com/benoist/msgpack-crystal) - MessagePack library
  * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Library that provides binding for libssh2 library
 
