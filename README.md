@@ -44,6 +44,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [completion](https://github.com/f/completion) - Easy command line completion engine
 
 ## Configuration
+ * [ambience](https://github.com/vjdhama/ambience) - Simple app configuration using `ENV`.
  * [crystal-toml](https://github.com/manastech/crystal-toml) - TOML parser
 
 ## Data Generators
