@@ -48,6 +48,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-toml](https://github.com/manastech/crystal-toml) - TOML parser
 
 ## Data Generators
+ * [faker](https://github.com/askn/faker) - A library for generating fake data
  * [random.cr](https://github.com/scidom/random.cr) - Random number generation, provides interface for the SIMD-oriented Fast Mersenne Twister (dSFMT)
 
 ## Environment Management
