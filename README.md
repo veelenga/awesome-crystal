@@ -151,7 +151,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [carbon-crystal](https://github.com/benoist/carbon-crystal) - A framework with Rails in mind
  * [chocolate](https://github.com/Grabli66/chocolate) - Simple web framework and template engine
  * [frost](https://github.com/ysbaddaden/frost) - Full featured MVC Web Framework, largely inspired by Ruby on Rails
- * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
+ * [kemal](https://github.com/sdogruyol/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [moonshine](https://github.com/dhruvrajvanshi/Moonshine) - A minimal web framework
 
 ## Web Servers
@@ -171,7 +171,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-lang](http://crystal-lang.org) - Official language site
 
 # Services and Apps
- * [carc.in](http://carc.in/) - A web service that runs your code and displays the result
+ * [carc.in](https://carc.in/) - A web service that runs your code and displays the result
  * [crystalshards](https://crystalshards.herokuapp.com/) - A web service that lists all available Crystal shards
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [docrystal](http://docrystal.org/) - A web application that hosts documentation for Crystal packages
