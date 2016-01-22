@@ -76,6 +76,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL for the Crystal language (abusing macros)
  * [crdoc](https://github.com/rhysd/crdoc) - CLI tool to search and open documentation
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
+ * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
