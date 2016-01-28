@@ -141,6 +141,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
  * [shorturl.cr](https://github.com/veelenga/shorturl.cr) - A library to use URL shortening services
  * [soundcloud-crystal](https://github.com/sferik/soundcloud-crystal) - A library to access the SoundCloud API
+ * [TelegramBot](https://github.com/hangyas/TelegramBot) - A wrapper for the Telegram Bot API
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
 
 ## Virtualization
