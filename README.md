@@ -71,6 +71,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-routing](https://github.com/bcardiff/crystal-routing) - Extensible library to deal with http request and string based routing
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
  * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
+ * [session](https://github.com/porras/session.git) - Cookie based sessions in Crystal HTTP applications
 
 ## Misc
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL for the Crystal language (abusing macros)
