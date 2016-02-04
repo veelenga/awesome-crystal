@@ -74,6 +74,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [session](https://github.com/porras/session.git) - Cookie based sessions in Crystal HTTP applications
 
 ## Misc
+ * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL for the Crystal language (abusing macros)
  * [crdoc](https://github.com/rhysd/crdoc) - CLI tool to search and open documentation
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
