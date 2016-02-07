@@ -37,6 +37,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Editor Plugins](#editor-plugins)
 
 ## Caching
+ * [Bloom Filter](https://github.com/greyblake/crystal-bloom_filter) - Implementation of Bloom filter
  * [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
 
 ## Cli Builders
