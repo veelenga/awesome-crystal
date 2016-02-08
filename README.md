@@ -183,6 +183,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [fikri](https://github.com/askn/fikri) - Simple CLI To-Do App
  * [icr](https://github.com/greyblake/crystal-icr) - Interactive console for Crystal (like IRB for Ruby)
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
+ * [vicr](https://github.com/veelenga/vicr.git) - Vim-like Interactive CRystal
 
 # Tools
 
