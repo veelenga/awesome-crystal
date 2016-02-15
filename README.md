@@ -137,6 +137,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Template Engine
   * [Bunny](https://github.com/samsheff/Bunny) - A simple HTML templating language for Crystal, same syntax as erb
   * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
+  * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines.
+  * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim.
   * [temel](https://github.com/f/temel) - Extensible HTML::Builder alternative for Crystal, supports custom tag definitions
 
 ## Third-party APIs
