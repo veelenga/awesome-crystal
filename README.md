@@ -10,11 +10,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Caching](#caching)
   * [Cli Builders](#cli-builders)
   * [Configuration](#configuration)
-  * [Database Drivers](#database-drivers)
   * [Data Generators](#data-generators)
+  * [Database Drivers](#database-drivers)
   * [Environment Management](#environment-management)
-  * [Implementations/Compilers](#implementationscompilers)
   * [HTTP](#http)
+  * [Implementations/Compilers](#implementationscompilers)
   * [Misc](#misc)
   * [Multimedia](#multimedia)
   * [Networking](#networking)
@@ -24,8 +24,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Search](#search)
   * [Security](#security)
   * [Task management](#task-management)
-  * [Testing](#testing)
   * [Template Engine](#template-engine)
+  * [Testing](#testing)
   * [Third-party APIs](#third-party-apis)
   * [Virtualization](#virtualization)
   * [Web Frameworks](#web-frameworks)
@@ -52,9 +52,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [faker](https://github.com/askn/faker) - A library for generating fake data
  * [random.cr](https://github.com/scidom/random.cr) - Random number generation, provides interface for the SIMD-oriented Fast Mersenne Twister (dSFMT)
 
-## Environment Management
- * [crenv](https://github.com/pine613/crenv) - Crystal version manager
-
 ## Database Drivers
  * [crystal-mysql](https://github.com/waterlink/crystal-mysql) - Basic MySQL bindings
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
@@ -62,9 +59,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings
  * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C Driver
 
-## Implementations/Compilers
- * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
- * [crystal](https://github.com/manastech/crystal) - Crystal itself is written in Crystal
+## Environment Management
+ * [crenv](https://github.com/pine613/crenv) - Crystal version manager
 
 ## HTTP
  * [crul](https://github.com/porras/crul) - Command line HTTP client
@@ -73,6 +69,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
  * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
  * [session](https://github.com/porras/session.git) - Cookie based sessions in Crystal HTTP applications
+
+## Implementations/Compilers
+ * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+ * [crystal](https://github.com/manastech/crystal) - Crystal itself is written in Crystal
 
 ## Misc
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
@@ -125,6 +125,13 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crake](https://github.com/MakeNowJust/crake) - Rake-like build utility library. It is just a library, so it does not provide CLI
  * [lake](https://github.com/adlerhsieh/lake) - Rake-like task management for Crystal programs
 
+## Template Engine
+  * [Bunny](https://github.com/samsheff/Bunny) - A simple HTML templating language for Crystal, same syntax as erb
+  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
+  * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines.
+  * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim.
+  * [temel](https://github.com/f/temel) - Extensible HTML::Builder alternative for Crystal, supports custom tag definitions
+
 ## Testing
  * [matchi](https://github.com/fixcr/matchi) - Collection of expectation matchers
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
@@ -134,13 +141,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [spec2.cr](https://github.com/waterlink/spec2.cr) - Enhanced testing library
  * [timecop.cr](https://github.com/waterlink/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
-
-## Template Engine
-  * [Bunny](https://github.com/samsheff/Bunny) - A simple HTML templating language for Crystal, same syntax as erb
-  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
-  * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines.
-  * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim.
-  * [temel](https://github.com/f/temel) - Extensible HTML::Builder alternative for Crystal, supports custom tag definitions
 
 ## Third-party APIs
  * [airbrake-crystal](https://github.com/kyrylo/airbrake-crystal) - A Crystal notifier for [Airbrake](https://airbrake.io)

@@ -4,7 +4,7 @@ require "uri"
 readme = Readme.new("./README.md")
 
 # Enable for debug purpose
-#File.write("readme.html", readme.html)
+# File.write("readme.html", readme.html)
 
 describe "List of Crystal Awesomeness" do
   it "has references to awesomeness" do
@@ -27,16 +27,15 @@ describe "List of Crystal Awesomeness" do
       host = uri.host as String
       path = uri.path as String | Nil
       "#{host.downcase}#{path.downcase if path}"
+    end.sort.each do |ref|
+      ref.should_not eq prev
+      prev = ref
     end
-      .sort.each do |ref|
-        ref.should_not eq prev
-        prev = ref
-      end
   end
 
   it "has alphabetical case insensitive order" do
     readme.get_groups.each do |group|
-      sorted = group.sort {|x, y| x.downcase <=> y.downcase}
+      sorted = group.sort { |x, y| x.downcase <=> y.downcase }
       group.each_with_index do |awesome, i|
         awesome.should eq sorted[i]
       end
