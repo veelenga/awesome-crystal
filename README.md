@@ -81,6 +81,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
  * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
+ * [crystal-i18n](https://github.com/whity/crystal-i18n) - Internationalization library
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
