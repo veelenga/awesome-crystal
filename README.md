@@ -63,6 +63,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crenv](https://github.com/pine613/crenv) - Crystal version manager
 
 ## HTTP
+ * [beryl](https://github.com/luislavena/beryl) - Action-focused HTTP routing library
  * [crul](https://github.com/porras/crul) - Command line HTTP client
  * [cryload](https://github.com/Sdogruyol/cryload) - HTTP benchmarking tool
  * [crystal-routing](https://github.com/bcardiff/crystal-routing) - Extensible library to deal with http request and string based routing
