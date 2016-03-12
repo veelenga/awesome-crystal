@@ -7,6 +7,7 @@ The goal is to have projects mostly stable and useful for users.
 Contributions are welcome. Please take a quick look at the [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/CONTRIBUTING.md) first.
 
 * [Awesome Crystal](#awesome-crystal)
+  * [Api builders](#api-builders)
   * [Caching](#caching)
   * [Cli Builders](#cli-builders)
   * [Configuration](#configuration)
@@ -35,6 +36,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 * [Services and Apps](#services-and-apps)
 * [Tools](#tools)
   * [Editor Plugins](#editor-plugins)
+
+## Api builders
+ * [crystal_api](https://github.com/akwiatkowski/crystal_api) - Simple PostgreSQL REST API with Rails devise-like auth 
 
 ## Caching
  * [Bloom Filter](https://github.com/greyblake/crystal-bloom_filter) - Implementation of Bloom filter
