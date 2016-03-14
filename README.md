@@ -35,6 +35,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 * [Resources](#resources)
 * [Services and Apps](#services-and-apps)
 * [Tools](#tools)
+  * [DevOps](#devops)
   * [Editor Plugins](#editor-plugins)
 
 ## Api builders
@@ -198,6 +199,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [vicr](https://github.com/veelenga/vicr.git) - Vim-like Interactive CRystal
 
 # Tools
+
+## DevOps
+ * [crystal-cookbook](https://github.com/vjdhama/crystal-cookbook) - Chef cookbook for installing crystal.
 
 ## Editor Plugins
  * Atom
