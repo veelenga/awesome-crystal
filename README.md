@@ -62,7 +62,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
  * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
  * [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings
- * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C Driver
+ * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
+ * [influxdb.cr](https://github.com/jeromegn/influxdb.cr) - InfluxDB driver
 
 ## Environment Management
  * [crenv](https://github.com/pine613/crenv) - Crystal version manager
