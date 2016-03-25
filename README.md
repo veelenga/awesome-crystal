@@ -62,8 +62,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
  * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
  * [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings
- * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
  * [influxdb.cr](https://github.com/jeromegn/influxdb.cr) - InfluxDB driver
+ * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
 
 ## Environment Management
  * [crenv](https://github.com/pine613/crenv) - Crystal version manager
@@ -157,6 +157,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
  * [docker.cr](https://github.com/jeromegn/docker.cr) - Docker API client
+ * [google_maps_api](https://github.com/fridgerator/google_maps_api) - Google Maps API
  * [gravatar.cr](https://github.com/fg/gravatar.cr.git) - A library to use Gravatar service
  * [shorturl.cr](https://github.com/veelenga/shorturl.cr) - A library to use URL shortening services
  * [soundcloud-crystal](https://github.com/sferik/soundcloud-crystal) - A library to access the SoundCloud API
