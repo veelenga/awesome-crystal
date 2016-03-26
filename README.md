@@ -142,6 +142,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [temel](https://github.com/f/temel) - Extensible HTML::Builder alternative for Crystal, supports custom tag definitions
 
 ## Testing
+ * [crotest](https://github.com/emancu/crotest) - A tiny and simple test framework
  * [matchi](https://github.com/fixcr/matchi) - Collection of expectation matchers
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
  * [mock](https://github.com/porras/mock) - Mocking library, inspired by the API of rspec-mocks
