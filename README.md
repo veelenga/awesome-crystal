@@ -221,3 +221,4 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
    * [sublime-crystal](https://github.com/manastech/sublime-crystal) - Crystal syntax highlighting for sublime Text
  * Vim
    * [vim-crystal](https://github.com/rhysd/vim-crystal) - Vim filetype support for Crystal
+   * [vim-slang](https://github.com/isaacsloan/vim-slang) - Vim filetype support for Slang Templating Engine
