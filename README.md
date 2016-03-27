@@ -39,7 +39,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Editor Plugins](#editor-plugins)
 
 ## Api builders
- * [crystal_api](https://github.com/akwiatkowski/crystal_api) - Simple PostgreSQL REST API with Rails devise-like auth 
+ * [crystal_api](https://github.com/akwiatkowski/crystal_api) - Simple PostgreSQL REST API with Rails devise-like auth
 
 ## Caching
  * [Bloom Filter](https://github.com/greyblake/crystal-bloom_filter) - Implementation of Bloom filter
@@ -95,6 +95,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
+ * [haikunator](https://github.com/sanata-/haikunator) - Heroku-like random name generator
  * [heap.cr](https://github.com/chenkovsky/heap.cr) - Implementation of head data structure
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
