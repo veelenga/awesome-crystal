@@ -97,6 +97,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
  * [heap.cr](https://github.com/chenkovsky/heap.cr) - Implementation of head data structure
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
+ * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
