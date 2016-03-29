@@ -118,7 +118,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
- * [amethyst-model](https://github.com/drujensen/amethyst-model)- ORM Model for the Amethyst Framework
+ * [amethyst-model](https://github.com/drujensen/amethyst-model) - ORM Model for the Amethyst Framework
 
 ## Package Management
  * [shards](https://github.com/ysbaddaden/shards) - Dependency manager for the Crystal
@@ -198,6 +198,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 # Services and Apps
  * [carc.in](https://carc.in/) - A web service that runs your code and displays the result
+ * [Crank](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
  * [crystalshards](https://crystalshards.herokuapp.com/) - A web service that lists all available Crystal shards
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [docrystal](http://docrystal.org/) - A web application that hosts documentation for Crystal packages
