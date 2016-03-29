@@ -7,7 +7,7 @@ The goal is to have projects mostly stable and useful for users.
 Contributions are welcome. Please take a quick look at the [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/CONTRIBUTING.md) first.
 
 * [Awesome Crystal](#awesome-crystal)
-  * [Api builders](#api-builders)
+  * [Api Builders](#api-builders)
   * [Caching](#caching)
   * [Cli Builders](#cli-builders)
   * [Configuration](#configuration)
@@ -38,7 +38,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [DevOps](#devops)
   * [Editor Plugins](#editor-plugins)
 
-## Api builders
+## Api Builders
  * [crystal_api](https://github.com/akwiatkowski/crystal_api) - Simple PostgreSQL REST API with Rails devise-like auth
 
 ## Caching
