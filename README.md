@@ -73,6 +73,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crul](https://github.com/porras/crul) - Command line HTTP client
  * [cryload](https://github.com/Sdogruyol/cryload) - HTTP benchmarking tool
  * [crystal-routing](https://github.com/bcardiff/crystal-routing) - Extensible library to deal with http request and string based routing
+ * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
  * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
  * [session](https://github.com/porras/session.git) - Cookie based sessions in Crystal HTTP applications
