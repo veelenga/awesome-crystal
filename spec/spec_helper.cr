@@ -3,9 +3,9 @@ require "spec"
 require "markdown"
 
 class Readme
-  getter html
+  getter html : XML::Node
 
-  def initialize(path)
+  def initialize(path : String)
     @html = to_html File.read(path)
   end
 
