@@ -48,6 +48,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Cli Builders
  * [commander](https://github.com/meskyanichi/commander) - Command-line interface builder
  * [completion](https://github.com/f/completion) - Easy command line completion engine
+ * [docopt](https://github.com/chenkovsky/docopt.cr) - A [docopt.org](http://docopt.org) port
 
 ## Configuration
  * [ambience](https://github.com/vjdhama/ambience) - Simple app configuration using `ENV`.
@@ -85,6 +86,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Misc
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL for the Crystal language (abusing macros)
+ * [chalk-box](https://github.com/azukiapp/crystal-chalk-box) - Terminal color toolbox, check support and colorized (without String monkey patch)
  * [crdoc](https://github.com/rhysd/crdoc) - CLI tool to search and open documentation
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
  * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
