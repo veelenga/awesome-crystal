@@ -103,6 +103,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
+ * [primes](https://github.com/dkhofer/primes) - Library for testing if a number is prime and finding its prime factorization
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
