@@ -7,6 +7,7 @@ The goal is to have projects mostly stable and useful for users.
 Contributions are welcome. Please take a quick look at the [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/CONTRIBUTING.md) first.
 
 * [Awesome Crystal](#awesome-crystal)
+  * [Algorithms and Data structures](#algorithms-and-data-structures)
   * [Api Builders](#api-builders)
   * [Caching](#caching)
   * [Cli Builders](#cli-builders)
@@ -18,14 +19,13 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Framework Components](#framework-components)
   * [HTTP](#http)
   * [Implementations/Compilers](#implementationscompilers)
+  * [Low level bindings](#low-level-bindings)
   * [Misc](#misc)
-  * [Multimedia](#multimedia)
   * [Networking](#networking)
   * [ORM/ODM Extensions](#ormodm-extensions)
   * [Package Management](#package-management)
   * [Project generators](#project-generators)
   * [Search](#search)
-  * [Security](#security)
   * [Task management](#task-management)
   * [Template Engine](#template-engine)
   * [Testing](#testing)
@@ -39,6 +39,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 * [Tools](#tools)
   * [DevOps](#devops)
   * [Editor Plugins](#editor-plugins)
+
+## Algorithms and Data structures
+ * [delimiter_tree](https://github.com/drujensen/delimiter_tree) - A tree structure that is built using a delimiter
+ * [heap.cr](https://github.com/chenkovsky/heap.cr) - Implementation of heap data structure
+ * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
 
 ## Api Builders
  * [crystal_api](https://github.com/akwiatkowski/crystal_api) - Simple PostgreSQL REST API with Rails devise-like auth
@@ -78,6 +83,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-react-chat](https://github.com/f/kemal-react-chat) - Build Realtime Web applications with Kemal and React
 
 ## Framework Components
+ * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL (abusing macros)
+ * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [kemal-comments](https://github.com/TyanNN/kemal-comments) - Simple comments for Kemal site
  * [kemal-mysql](https://github.com/sdogruyol/kemal-mysql) - Easily add MySQL database to Kemal
  * [kemal-pg](https://github.com/sdogruyol/kemal-pg) - Easily add Postgresql database to Kemal
@@ -99,44 +106,41 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
  * [crystal](https://github.com/manastech/crystal) - Crystal itself is written in Crystal
 
+## Low level bindings
+ * [crsfml](https://github.com/BlaXpirit/crsfml) - Bindings to [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
+ * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
+ * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
+ * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Library that provides binding for libssh2 library
+ * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
+ * [zlib.cr](https://github.com/datanoise/zlib.cr) - Bindings for ZLib library
+
 ## Misc
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
- * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL for the Crystal language (abusing macros)
  * [chalk-box](https://github.com/azukiapp/crystal-chalk-box) - Terminal color toolbox, check support and colorized (without String monkey patch)
  * [crdoc](https://github.com/rhysd/crdoc) - CLI tool to search and open documentation
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
  * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [crystal-i18n](https://github.com/whity/crystal-i18n) - Internationalization library
- * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
- * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
  * [haikunator](https://github.com/sanata-/haikunator) - Heroku-like random name generator
- * [heap.cr](https://github.com/chenkovsky/heap.cr) - Implementation of head data structure
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [kreal](https://github.com/f/kreal) - Model sharing & RPC library built on and works with Kemal seamlessly
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
  * [primes](https://github.com/dkhofer/primes) - Library for testing if a number is prime and finding its prime factorization
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
- * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
- * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
- * [zlib.cr](https://github.com/datanoise/zlib.cr) - Bindings for ZLib library
-
-## Multimedia
- * [crsfml](https://github.com/BlaXpirit/crsfml) - Crystal bindings to [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
 
 ## Networking
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Native BSON implementation
  * [jwt](https://github.com/greyblake/crystal-jwt) - Implementation of JWT (JSON Web Token)
  * [msgpack-crystal](https://github.com/benoist/msgpack-crystal) - MessagePack library
- * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Library that provides binding for libssh2 library
 
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
@@ -151,19 +155,16 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Search
  * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
 
-## Security
- * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
-
 ## Task management
  * [crake](https://github.com/MakeNowJust/crake) - Rake-like build utility library. It is just a library, so it does not provide CLI
  * [lake](https://github.com/adlerhsieh/lake) - Rake-like task management for Crystal programs
 
 ## Template Engine
-  * [Bunny](https://github.com/samsheff/Bunny) - A simple HTML templating language for Crystal, same syntax as erb
-  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
-  * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines.
-  * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim.
-  * [temel](https://github.com/f/temel) - Extensible HTML::Builder alternative for Crystal, supports custom tag definitions
+ * [Bunny](https://github.com/samsheff/Bunny) - A simple HTML templating language for Crystal, same syntax as erb
+ * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
+ * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines.
+ * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim.
+ * [temel](https://github.com/f/temel) - Extensible HTML::Builder alternative for Crystal, supports custom tag definitions
 
 ## Testing
  * [crotest](https://github.com/emancu/crotest) - A tiny and simple test framework
@@ -199,6 +200,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [carbon-crystal](https://github.com/benoist/carbon-crystal) - A framework with Rails in mind
  * [chocolate](https://github.com/Grabli66/chocolate) - Simple web framework and template engine
  * [frost](https://github.com/ysbaddaden/frost) - Full featured MVC Web Framework, largely inspired by Ruby on Rails
+ * [iceberg](https://github.com/adlerhsieh/iceberg) - A full-stack web framework
  * [kemal](https://github.com/sdogruyol/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [moonshine](https://github.com/dhruvrajvanshi/Moonshine) - A minimal web framework
 
