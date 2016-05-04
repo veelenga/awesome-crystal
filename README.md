@@ -105,6 +105,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
  * [primes](https://github.com/dkhofer/primes) - Library for testing if a number is prime and finding its prime factorization
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
+ * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
