@@ -14,6 +14,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Data Generators](#data-generators)
   * [Database Drivers](#database-drivers)
   * [Environment Management](#environment-management)
+  * [Examples and funny stuff](#examples-and-funny-stuff)
+  * [Framework Components](#framework-components)
   * [HTTP](#http)
   * [Implementations/Compilers](#implementationscompilers)
   * [Misc](#misc)
@@ -68,6 +70,20 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Environment Management
  * [crenv](https://github.com/pine613/crenv) - Crystal version manager
+
+## Examples and funny stuff
+ * [docker-kemal](https://github.com/ianblenke/docker-kemal) - An example Dockerized Crystal Kemal project
+ * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - Build realtime applications with Kemal and WebSocket
+ * [kemal-pg-sample](https://github.com/sdogruyol/kemal-pg-sample) - Sample app to demonstrate kemal + postgresql usage
+ * [kemal-react-chat](https://github.com/f/kemal-react-chat) - Build Realtime Web applications with Kemal and React
+
+## Framework Components
+ * [kemal-comments](https://github.com/TyanNN/kemal-comments) - Simple comments for Kemal site
+ * [kemal-mysql](https://github.com/sdogruyol/kemal-mysql) - Easily add MySQL database to Kemal
+ * [kemal-pg](https://github.com/sdogruyol/kemal-pg) - Easily add Postgresql database to Kemal
+ * [kemal-redis](https://github.com/sdogruyol/kemal-redis) - Easily add Redis to Kemal
+ * [kemal-session](https://github.com/Thyra/kemal-session) - Session handler for Kemal
+ * [spec-kemal](https://github.com/sdogruyol/spec-kemal) - Easy testing for Kemal
 
 ## HTTP
  * [beryl](https://github.com/luislavena/beryl) - Action-focused HTTP routing library
