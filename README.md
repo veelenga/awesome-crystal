@@ -39,10 +39,15 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 * [Tools](#tools)
   * [DevOps](#devops)
   * [Editor Plugins](#editor-plugins)
+  * [Shell Plugins](#shell-plugins)
 
 ## Algorithms and Data structures
+ * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
  * [delimiter_tree](https://github.com/drujensen/delimiter_tree) - A tree structure that is built using a delimiter
  * [heap.cr](https://github.com/chenkovsky/heap.cr) - Implementation of heap data structure
+ * [miller_rabin](https://github.com/kuende/miller_rabin) - Implements [Miller-Rabin](https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Primality_Testing) algorithm to check if a number is prime
+ * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
+ * [murmur3](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
 
 ## Api Builders
@@ -56,6 +61,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [commander](https://github.com/meskyanichi/commander) - Command-line interface builder
  * [completion](https://github.com/f/completion) - Easy command line completion engine
  * [docopt](https://github.com/chenkovsky/docopt.cr) - A [docopt.org](http://docopt.org) port
+ * [optarg](https://github.com/mosop/optarg) - Yet another library for parsing command-line options and arguments
 
 ## Configuration
  * [ambience](https://github.com/vjdhama/ambience) - Simple app configuration using `ENV`.
@@ -77,6 +83,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crenv](https://github.com/pine613/crenv) - Crystal version manager
 
 ## Examples and funny stuff
+ * [crystal-patterns](https://github.com/veelenga/crystal-patterns) - Examples of GOF patters
+ * [crystal_samples](https://github.com/tbpgr/crystal_samples) - Variety of Crystal samples
  * [docker-kemal](https://github.com/ianblenke/docker-kemal) - An example Dockerized Crystal Kemal project
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - Build realtime applications with Kemal and WebSocket
  * [kemal-pg-sample](https://github.com/sdogruyol/kemal-pg-sample) - Sample app to demonstrate kemal + postgresql usage
@@ -98,6 +106,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cryload](https://github.com/Sdogruyol/cryload) - HTTP benchmarking tool
  * [crystal-routing](https://github.com/bcardiff/crystal-routing) - Extensible library to deal with http request and string based routing
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
+ * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
  * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
  * [session](https://github.com/porras/session.git) - Cookie based sessions in Crystal HTTP applications
@@ -105,12 +114,17 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Implementations/Compilers
  * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
  * [crystal](https://github.com/manastech/crystal) - Crystal itself is written in Crystal
+ * [onix](https://github.com/ozra/onyx-lang) - ONYX Programming Language
 
 ## Low level bindings
- * [crsfml](https://github.com/BlaXpirit/crsfml) - Bindings to [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
+ * [crsfml](https://github.com/BlaXpirit/crsfml) - Bindings for [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
+ * [curses](https://github.com/ruivieira/curses) - Bindings for the curses library
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
+ * [kt](https://github.com/kuende/kt) - Bindings for [Kyoto Tycoon](http://fallabs.com/kyototycoon/)
+ * [myhtml](https://github.com/kostya/myhtml) - Bindings for [lexborisov/myhtml](https://github.com/lexborisov/myhtml)
  * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
- * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Library that provides binding for libssh2 library
+ * [posix](https://github.com/ysbaddaden/posix) - POSIX/C bindings
+ * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
  * [zlib.cr](https://github.com/datanoise/zlib.cr) - Bindings for ZLib library
 
@@ -122,7 +136,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [crystal-i18n](https://github.com/whity/crystal-i18n) - Internationalization library
- * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
@@ -202,6 +215,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [frost](https://github.com/ysbaddaden/frost) - Full featured MVC Web Framework, largely inspired by Ruby on Rails
  * [iceberg](https://github.com/adlerhsieh/iceberg) - A full-stack web framework
  * [kemal](https://github.com/sdogruyol/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
+ * [kemalyst](https://github.com/drujensen/kemalyst) - A rails like framework based on kemal
  * [moonshine](https://github.com/dhruvrajvanshi/Moonshine) - A minimal web framework
 
 ## Web Servers
@@ -248,3 +262,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * Vim
    * [vim-crystal](https://github.com/rhysd/vim-crystal) - Vim filetype support for Crystal
    * [vim-slang](https://github.com/isaacsloan/vim-slang) - Vim filetype support for Slang Templating Engine
+
+## Shell plugins
+ * [crystal-zsh](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugin
