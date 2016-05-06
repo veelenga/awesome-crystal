@@ -80,7 +80,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
 
 ## Environment Management
- * [crenv](https://github.com/pine613/crenv) - Crystal version manager
+ * [crenv](https://github.com/pine/crenv) - Crystal version manager
 
 ## Examples and funny stuff
  * [crystal-patterns](https://github.com/veelenga/crystal-patterns) - Examples of GOF patters
