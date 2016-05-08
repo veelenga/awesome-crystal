@@ -78,6 +78,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings
  * [influxdb.cr](https://github.com/jeromegn/influxdb.cr) - InfluxDB driver
  * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
+ * [snappy-crystal](https://github.com/benoist/snappy-crystal) - Bindings for Snappy library
 
 ## Environment Management
  * [crenv](https://github.com/pine/crenv) - Crystal version manager
@@ -118,6 +119,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Low level bindings
  * [crsfml](https://github.com/BlaXpirit/crsfml) - Bindings for [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
+ * [crystal-dbus](https://github.com/BlaXpirit/crystal-dbus) - Bindings to D-Bus
  * [curses](https://github.com/ruivieira/curses) - Bindings for the curses library
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [kt](https://github.com/kuende/kt) - Bindings for [Kyoto Tycoon](http://fallabs.com/kyototycoon/)
@@ -146,6 +148,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
  * [primes](https://github.com/dkhofer/primes) - Library for testing if a number is prime and finding its prime factorization
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
+ * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
 
@@ -193,6 +196,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Third-party APIs
  * [airbrake-crystal](https://github.com/kyrylo/airbrake-crystal) - A Crystal notifier for [Airbrake](https://airbrake.io)
  * [AnyBar_cr](https://github.com/davydovanton/AnyBar_cr) - Simple crystal wrapper for AnyBar library
+ * [crystal-qiita](https://github.com/pine/crystal-qiita) - A wrapper for the [Qiita](https://qiita.com/) API
  * [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
  * [docker.cr](https://github.com/jeromegn/docker.cr) - Docker API client
