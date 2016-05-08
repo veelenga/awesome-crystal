@@ -78,7 +78,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings
  * [influxdb.cr](https://github.com/jeromegn/influxdb.cr) - InfluxDB driver
  * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
- * [snappy-crystal](https://github.com/benoist/snappy-crystal) - Bindings for Snappy library
 
 ## Environment Management
  * [crenv](https://github.com/pine/crenv) - Crystal version manager
@@ -126,6 +125,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [myhtml](https://github.com/kostya/myhtml) - Bindings for [lexborisov/myhtml](https://github.com/lexborisov/myhtml)
  * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
  * [posix](https://github.com/ysbaddaden/posix) - POSIX/C bindings
+ * [snappy-crystal](https://github.com/benoist/snappy-crystal) - Bindings for Snappy library
  * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
  * [zlib.cr](https://github.com/datanoise/zlib.cr) - Bindings for ZLib library
