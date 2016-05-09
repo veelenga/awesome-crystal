@@ -202,6 +202,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [docker.cr](https://github.com/jeromegn/docker.cr) - Docker API client
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) - Google Maps API
  * [gravatar.cr](https://github.com/fg/gravatar.cr.git) - A library to use Gravatar service
+ * [openweather.cr](https://github.com/lucasocon/openweather.cr) - A wrapper for the Openweather API
  * [shorturl.cr](https://github.com/veelenga/shorturl.cr) - A library to use URL shortening services
  * [soundcloud-crystal](https://github.com/sferik/soundcloud-crystal) - A library to access the SoundCloud API
  * [spotify.cr](https://github.com/marceloboeira/spotify.cr) - A library to access the Spotify API
