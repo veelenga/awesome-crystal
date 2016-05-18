@@ -19,6 +19,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Framework Components](#framework-components)
   * [HTTP](#http)
   * [Implementations/Compilers](#implementationscompilers)
+  * [Logging and monitoring](#logging-and-monitoring)
   * [Low level bindings](#low-level-bindings)
   * [Misc](#misc)
   * [Networking](#networking)
@@ -115,6 +116,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
  * [crystal](https://github.com/manastech/crystal) - Crystal itself is written in Crystal
  * [onix](https://github.com/ozra/onyx-lang) - ONYX Programming Language
+
+## Logging and monitoring
+ * [gelf-crystal](https://github.com/benoist/gelf-crystal) - A GELF logger
 
 ## Low level bindings
  * [crsfml](https://github.com/BlaXpirit/crsfml) - Bindings for [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
