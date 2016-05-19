@@ -49,6 +49,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [miller_rabin](https://github.com/kuende/miller_rabin) - Implements [Miller-Rabin](https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Primality_Testing) algorithm to check if a number is prime
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
  * [murmur3](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra
+ * [primes](https://github.com/dkhofer/primes) - Library for testing if a number is prime and finding its prime factorization
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
 
 ## Api Builders
@@ -90,9 +91,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - Build realtime applications with Kemal and WebSocket
  * [kemal-pg-sample](https://github.com/sdogruyol/kemal-pg-sample) - Sample app to demonstrate kemal + postgresql usage
  * [kemal-react-chat](https://github.com/f/kemal-react-chat) - Build Realtime Web applications with Kemal and React
+ * [xcrystal](https://github.com/exercism/xcrystal) - Exercism exercises
 
 ## Framework Components
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL (abusing macros)
+ * [crouter](https://github.com/jreinert/crouter) - A standalone router
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [kemal-comments](https://github.com/TyanNN/kemal-comments) - Simple comments for Kemal site
  * [kemal-mysql](https://github.com/sdogruyol/kemal-mysql) - Easily add MySQL database to Kemal
@@ -119,6 +122,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Logging and monitoring
  * [gelf-crystal](https://github.com/benoist/gelf-crystal) - A GELF logger
+ * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
 
 ## Low level bindings
  * [crsfml](https://github.com/BlaXpirit/crsfml) - Bindings for [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
@@ -126,6 +130,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [curses](https://github.com/ruivieira/curses) - Bindings for the curses library
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [kt](https://github.com/kuende/kt) - Bindings for [Kyoto Tycoon](http://fallabs.com/kyototycoon/)
+ * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
  * [myhtml](https://github.com/kostya/myhtml) - Bindings for [lexborisov/myhtml](https://github.com/lexborisov/myhtml)
  * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
  * [posix](https://github.com/ysbaddaden/posix) - POSIX/C bindings
@@ -143,6 +148,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [crystal-i18n](https://github.com/whity/crystal-i18n) - Internationalization library
+ * [CrystalEmail](https://github.com/Nephos/CrystalEmail) - A RFC compliant Email validator
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
@@ -151,10 +157,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [kreal](https://github.com/f/kreal) - Model sharing & RPC library built on and works with Kemal seamlessly
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
- * [primes](https://github.com/dkhofer/primes) - Library for testing if a number is prime and finding its prime factorization
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
  * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
+ * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
 
 ## Networking
