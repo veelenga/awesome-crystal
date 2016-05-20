@@ -219,6 +219,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [spotify.cr](https://github.com/marceloboeira/spotify.cr) - A library to access the Spotify API
  * [TelegramBot](https://github.com/hangyas/TelegramBot) - A wrapper for the Telegram Bot API
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
+ * [wit-crystal](https://github.com/spalladino/wit-crystal) - Crystal SDK for (wit.ai)[https://wit.ai/]
 
 ## Virtualization
  * [rcpu](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
