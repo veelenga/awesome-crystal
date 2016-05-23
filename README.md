@@ -87,6 +87,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Examples and funny stuff
  * [crystal-patterns](https://github.com/veelenga/crystal-patterns) - Examples of GOF patters
  * [crystal_samples](https://github.com/tbpgr/crystal_samples) - Variety of Crystal samples
+ * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
  * [docker-kemal](https://github.com/ianblenke/docker-kemal) - An example Dockerized Crystal Kemal project
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - Build realtime applications with Kemal and WebSocket
  * [kemal-pg-sample](https://github.com/sdogruyol/kemal-pg-sample) - Sample app to demonstrate kemal + postgresql usage
@@ -131,6 +132,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [kt](https://github.com/kuende/kt) - Bindings for [Kyoto Tycoon](http://fallabs.com/kyototycoon/)
  * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
+ * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui](https://github.com/andlabs/libui)
  * [myhtml](https://github.com/kostya/myhtml) - Bindings for [lexborisov/myhtml](https://github.com/lexborisov/myhtml)
  * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
  * [posix](https://github.com/ysbaddaden/posix) - POSIX/C bindings
@@ -157,6 +159,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [kreal](https://github.com/f/kreal) - Model sharing & RPC library built on and works with Kemal seamlessly
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
+ * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
  * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
@@ -211,6 +214,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
  * [docker.cr](https://github.com/jeromegn/docker.cr) - Docker API client
+ * [fantasy_football_nerd_api](https://github.com/fridgerator/fantasy_football_nerd_api) - A library for the [Fantasy Football Nerd API](http://www.fantasyfootballnerd.com/fantasy-football-api)
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) - Google Maps API
  * [gravatar.cr](https://github.com/fg/gravatar.cr.git) - A library to use Gravatar service
  * [openweather.cr](https://github.com/lucasocon/openweather.cr) - A wrapper for the Openweather API
