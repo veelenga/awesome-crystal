@@ -26,6 +26,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [ORM/ODM Extensions](#ormodm-extensions)
   * [Package Management](#package-management)
   * [Project generators](#project-generators)
+  * [Queue](#queue)
   * [Search](#search)
   * [Task management](#task-management)
   * [Template Engine](#template-engine)
@@ -85,6 +86,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crenv](https://github.com/pine/crenv) - Crystal version manager
 
 ## Examples and funny stuff
+ * [crsfml-examples](https://github.com/BlaXpirit/crsfml-examples) - Simple games made with CrSFML
  * [crystal-patterns](https://github.com/veelenga/crystal-patterns) - Examples of GOF patters
  * [crystal_samples](https://github.com/tbpgr/crystal_samples) - Variety of Crystal samples
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
@@ -145,6 +147,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Misc
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
  * [chalk-box](https://github.com/azukiapp/crystal-chalk-box) - Terminal color toolbox, check support and colorized (without String monkey patch)
+ * [circuit_breaker](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
  * [crdoc](https://github.com/rhysd/crdoc) - CLI tool to search and open documentation
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
  * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
@@ -175,12 +178,17 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
  * [amethyst-model](https://github.com/drujensen/amethyst-model) - ORM Model for the Amethyst Framework
+ * [micrate](https://github.com/juanedi/micrate) - Database migration tool
 
 ## Package Management
  * [shards](https://github.com/ysbaddaden/shards) - Dependency manager for the Crystal
 
 ## Project generators
  * [generate](https://github.com/generate-cr/generate) - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
+
+## Queue
+ * [crystal-resque-client](https://github.com/pine/crystal-resque-client) - Simple Resque queue client
+ * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## Search
  * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
