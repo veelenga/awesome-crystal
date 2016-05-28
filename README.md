@@ -14,6 +14,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Configuration](#configuration)
   * [Data Generators](#data-generators)
   * [Database Drivers](#database-drivers)
+  * [Database Tools](#database-tools)
   * [Environment Management](#environment-management)
   * [Examples and funny stuff](#examples-and-funny-stuff)
   * [Framework Components](#framework-components)
@@ -80,6 +81,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
  * [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings
  * [influxdb.cr](https://github.com/jeromegn/influxdb.cr) - InfluxDB driver
+
+## Database Tools
  * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
 
 ## Environment Management
@@ -256,7 +259,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Crystal Shards on Twitter](https://twitter.com/shardscrystal)
  * [Crystal weekly newsletters](http://www.crystalweekly.com/)
  * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
- * [IRC](irc://chat.freenode.net/#crystal-lang) - #crystal-lang on Freenode
+ * [IRC](http://irc.lc/freenode/crystal-lang) - #crystal-lang on Freenode
  * [Reddit](https://www.reddit.com/r/crystal_programming)
  * [Slack Group](http://crystal.pine.moe/en/)
  * [Stackoverflow](http://stackoverflow.com/tags/crystal-lang/info)
