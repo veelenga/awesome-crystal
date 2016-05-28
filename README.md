@@ -256,12 +256,13 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Crystal Shards on Twitter](https://twitter.com/shardscrystal)
  * [Crystal weekly newsletters](http://www.crystalweekly.com/)
  * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
- * [Reddit](https://www.reddit.com/domain/crystal-lang.org/)
+ * [IRC](irc://chat.freenode.net/#crystal-lang) - #crystal-lang on Freenode
+ * [Reddit](https://www.reddit.com/r/crystal_programming)
  * [Slack Group](http://crystal.pine.moe/en/)
  * [Stackoverflow](http://stackoverflow.com/tags/crystal-lang/info)
 
 # Resources
- * [crystal-lang](http://crystal-lang.org) - Official language site
+ * [crystal-lang.org](http://crystal-lang.org) - Official language site
 
 # Services and Apps
  * [carc.in](https://carc.in/) - A web service that runs your code and displays the result
