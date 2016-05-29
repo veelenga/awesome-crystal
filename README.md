@@ -226,7 +226,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
  * [docker.cr](https://github.com/jeromegn/docker.cr) - Docker API client
  * [fantasy_football_nerd_api](https://github.com/fridgerator/fantasy_football_nerd_api) - A library for the [Fantasy Football Nerd API](http://www.fantasyfootballnerd.com/fantasy-football-api)
+ * [glosbe](https://github.com/greyblake/crystal-glosbe) - Client for [Glosbe API](https://glosbe.com/a-api)
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) - Google Maps API
+ * [google_translate](https://github.com/greyblake/crystal-google_translate) - Client for Google Translate
  * [gravatar.cr](https://github.com/fg/gravatar.cr.git) - A library to use Gravatar service
  * [openweather.cr](https://github.com/lucasocon/openweather.cr) - A wrapper for the Openweather API
  * [shorturl.cr](https://github.com/veelenga/shorturl.cr) - A library to use URL shortening services
