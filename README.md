@@ -80,6 +80,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
  * [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings
  * [influxdb.cr](https://github.com/jeromegn/influxdb.cr) - InfluxDB driver
+ * [rethinkdb-crystal](https://github.com/lbguilherme/rethinkdb-crystal) - RethinkDB Driver
 
 ## Database Tools
  * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
@@ -156,6 +157,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [crystal-i18n](https://github.com/whity/crystal-i18n) - Internationalization library
  * [CrystalEmail](https://github.com/Nephos/CrystalEmail) - A RFC compliant Email validator
+ * [daemonize.cr](https://github.com/DougEverly/daemonize.cr) - Crystal process daemonizer
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
