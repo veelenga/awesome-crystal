@@ -75,18 +75,21 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [faker](https://github.com/askn/faker) - A library for generating fake data
 
 ## Database Drivers
+ * [crystal-monetdb-libmapi](https://github.com/puppetpies/crystal-monetdb-libmapi) - Bindings for MonetDB
  * [crystal-mysql](https://github.com/waterlink/crystal-mysql) - Basic MySQL bindings
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
  * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
  * [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings
  * [influxdb.cr](https://github.com/jeromegn/influxdb.cr) - InfluxDB driver
+ * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
  * [rethinkdb-crystal](https://github.com/lbguilherme/rethinkdb-crystal) - RethinkDB Driver
 
 ## Database Tools
- * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
+ * [micrate](https://github.com/juanedi/micrate) - Database migration tool
 
 ## Environment Management
  * [crenv](https://github.com/pine/crenv) - Crystal version manager
+ * [Snappy](https://github.com/shotastage/Snappy) - Version manager for Swift, Ruby, Python and so on
 
 ## Examples and funny stuff
  * [crsfml-examples](https://github.com/BlaXpirit/crsfml-examples) - Simple games made with CrSFML
@@ -166,7 +169,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [kreal](https://github.com/f/kreal) - Model sharing & RPC library built on and works with Kemal seamlessly
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
- * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
  * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
@@ -182,7 +184,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
  * [amethyst-model](https://github.com/drujensen/amethyst-model) - ORM Model for the Amethyst Framework
- * [micrate](https://github.com/juanedi/micrate) - Database migration tool
+ * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
+ * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
 
 ## Package Management
  * [shards](https://github.com/ysbaddaden/shards) - Dependency manager for the Crystal
