@@ -45,9 +45,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Shell Plugins](#shell-plugins)
 
 ## Algorithms and Data structures
+ * [crystaledge](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
  * [delimiter_tree](https://github.com/drujensen/delimiter_tree) - A tree structure that is built using a delimiter
  * [heap.cr](https://github.com/chenkovsky/heap.cr) - Implementation of heap data structure
+ * [machine](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm
  * [miller_rabin](https://github.com/kuende/miller_rabin) - Implements [Miller-Rabin](https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Primality_Testing) algorithm to check if a number is prime
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
  * [murmur3](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra
@@ -117,6 +119,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [beryl](https://github.com/luislavena/beryl) - Action-focused HTTP routing library
  * [crul](https://github.com/porras/crul) - Command line HTTP client
  * [cryload](https://github.com/Sdogruyol/cryload) - HTTP benchmarking tool
+ * [crystal-cossack](https://github.com/greyblake/crystal-cossack) - Simple flexible HTTP client
  * [crystal-routing](https://github.com/bcardiff/crystal-routing) - Extensible library to deal with http request and string based routing
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
  * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
@@ -136,6 +139,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Low level bindings
  * [crsfml](https://github.com/BlaXpirit/crsfml) - Bindings for [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
  * [crystal-dbus](https://github.com/BlaXpirit/crystal-dbus) - Bindings to D-Bus
+ * [crystal-libpcap](https://github.com/puppetpies/crystal-libpcap) - Bindings for libpcap
  * [curses](https://github.com/ruivieira/curses) - Bindings for the curses library
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [kt](https://github.com/kuende/kt) - Bindings for [Kyoto Tycoon](http://fallabs.com/kyototycoon/)
@@ -163,6 +167,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [daemonize.cr](https://github.com/DougEverly/daemonize.cr) - Crystal process daemonizer
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
+ * [executable_path](https://github.com/kostya/executable_path) - Portable current executable's path
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
  * [haikunator](https://github.com/sanata-/haikunator) - Heroku-like random name generator
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
@@ -225,6 +230,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Third-party APIs
  * [airbrake-crystal](https://github.com/kyrylo/airbrake-crystal) - A Crystal notifier for [Airbrake](https://airbrake.io)
  * [AnyBar_cr](https://github.com/davydovanton/AnyBar_cr) - Simple crystal wrapper for AnyBar library
+ * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
  * [crystal-qiita](https://github.com/pine/crystal-qiita) - A wrapper for the [Qiita](https://qiita.com/) API
  * [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
