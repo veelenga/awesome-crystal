@@ -174,6 +174,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [kreal](https://github.com/f/kreal) - Model sharing & RPC library built on and works with Kemal seamlessly
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
+ * [observable](https://github.com/TPei/observable) - Implementation of the Observer pattern
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
  * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
