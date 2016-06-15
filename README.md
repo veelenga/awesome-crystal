@@ -56,6 +56,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [murmur3](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra
  * [primes](https://github.com/dkhofer/primes) - Library for testing if a number is prime and finding its prime factorization
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
+ * [ranger](https://github.com/akwiatkowski/ranger) - Range object operation library
 
 ## Api Builders
  * [crystal_api](https://github.com/akwiatkowski/crystal_api) - Simple PostgreSQL REST API with Rails devise-like auth
