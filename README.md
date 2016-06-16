@@ -38,6 +38,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Web Servers](#web-servers)
 * [Community](#community)
 * [Resources](#resources)
+  * [Official Documentation Translations](#official-documentation-translations)
 * [Services and Apps](#services-and-apps)
 * [Tools](#tools)
   * [DevOps](#devops)
@@ -104,6 +105,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - Build realtime applications with Kemal and WebSocket
  * [kemal-pg-sample](https://github.com/sdogruyol/kemal-pg-sample) - Sample app to demonstrate kemal + postgresql usage
  * [kemal-react-chat](https://github.com/f/kemal-react-chat) - Build Realtime Web applications with Kemal and React
+ * [medley](https://github.com/jwoertink/medley) - A mixture of music related methods
  * [xcrystal](https://github.com/exercism/xcrystal) - Exercism exercises
 
 ## Framework Components
@@ -234,11 +236,13 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [airbrake-crystal](https://github.com/kyrylo/airbrake-crystal) - A Crystal notifier for [Airbrake](https://airbrake.io)
  * [AnyBar_cr](https://github.com/davydovanton/AnyBar_cr) - Simple crystal wrapper for AnyBar library
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
+ * [crystal-connpass](https://github.com/pine/crystal-connpass) - Wrapper for the [Connpass](http://connpass.com/) API
  * [crystal-qiita](https://github.com/pine/crystal-qiita) - A wrapper for the [Qiita](https://qiita.com/) API
  * [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
  * [docker.cr](https://github.com/jeromegn/docker.cr) - Docker API client
  * [fantasy_football_nerd_api](https://github.com/fridgerator/fantasy_football_nerd_api) - A library for the [Fantasy Football Nerd API](http://www.fantasyfootballnerd.com/fantasy-football-api)
+ * [gitlab.cr](https://github.com/icyleaf/gitlab.cr) - GitLab API wrapper
  * [glosbe](https://github.com/greyblake/crystal-glosbe) - Client for [Glosbe API](https://glosbe.com/a-api)
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) - Google Maps API
  * [google_translate](https://github.com/greyblake/crystal-google_translate) - Client for Google Translate
@@ -282,6 +286,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 # Resources
  * [crystal-lang.org](http://crystal-lang.org) - Official language site
 
+## Official Documentation Translations
+ * [br.crystal-lang.org](http://br.crystal-lang.org/) - Brazilian
+ * [ja.crystal-lang.org](http://ja.crystal-lang.org/) - Japanese
+ * [ru.crystal-lang.org](http://ru.crystal-lang.org/) - Russian
+ * [tw.crystal-lang.org](http://tw.crystal-lang.org/) - Chinese Traditional
+
 # Services and Apps
  * [carc.in](https://carc.in/) - A web service that runs your code and displays the result
  * [Crank](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
@@ -291,6 +301,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [fikri](https://github.com/askn/fikri) - Simple CLI To-Do App
  * [icr](https://github.com/greyblake/crystal-icr) - Interactive console for Crystal (like IRB for Ruby)
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
+ * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
  * [vicr](https://github.com/veelenga/vicr.git) - Vim-like Interactive CRystal
 
 # Tools
