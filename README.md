@@ -67,6 +67,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
 
 ## Cli Builders
+ * [cli](https://github.com/mosop/cli) - Library for building command-line interface applications
  * [commander](https://github.com/mrrooijen/commander) - Command-line interface builder
  * [completion](https://github.com/f/completion) - Easy command line completion engine
  * [docopt](https://github.com/chenkovsky/docopt.cr) - A [docopt.org](http://docopt.org) port
@@ -94,6 +95,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Environment Management
  * [crenv](https://github.com/pine/crenv) - Crystal version manager
+ * [rcm.cr](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
  * [Snappy](https://github.com/shotastage/Snappy) - Version manager for Swift, Ruby, Python and so on
 
 ## Examples and funny stuff
