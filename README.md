@@ -178,6 +178,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [haikunator](https://github.com/sanata-/haikunator) - Heroku-like random name generator
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
+ * [inflector](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
  * [kreal](https://github.com/f/kreal) - Model sharing & RPC library built on and works with Kemal seamlessly
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
  * [observable](https://github.com/TPei/observable) - Implementation of the Observer pattern
