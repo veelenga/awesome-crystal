@@ -146,6 +146,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Low level bindings
  * [crsfml](https://github.com/BlaXpirit/crsfml) - Bindings for [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
+ * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
  * [crystal-dbus](https://github.com/BlaXpirit/crystal-dbus) - Bindings to D-Bus
  * [crystal-libpcap](https://github.com/puppetpies/crystal-libpcap) - Bindings for libpcap
  * [curses](https://github.com/ruivieira/curses) - Bindings for the curses library
@@ -156,6 +157,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [myhtml](https://github.com/kostya/myhtml) - Bindings for [lexborisov/myhtml](https://github.com/lexborisov/myhtml)
  * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
  * [posix](https://github.com/ysbaddaden/posix) - POSIX/C bindings
+ * [serial.cr](https://github.com/marceloboeira/serial.cr) - Bindings for Libserialport library
  * [snappy-crystal](https://github.com/benoist/snappy-crystal) - Bindings for Snappy library
  * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
@@ -185,6 +187,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
  * [observable](https://github.com/TPei/observable) - Implementation of the Observer pattern
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
+ * [ramlrenderer](https://github.com/beno/ramlrenderer) - HTLM doc builder for RAML 1.0
  * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
@@ -206,6 +209,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [shards](https://github.com/ysbaddaden/shards) - Dependency manager for the Crystal
 
 ## Project generators
+ * [bindgencr](https://github.com/TechMagister/bindgencr) - Generator of bindings based on castxml output
  * [generate](https://github.com/generate-cr/generate) - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
 
 ## Queue
