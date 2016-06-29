@@ -28,6 +28,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Package Management](#package-management)
   * [Project generators](#project-generators)
   * [Queue](#queue)
+  * [Science and Data analysis](#science-and-data-analysis)
   * [Search](#search)
   * [Task management](#task-management)
   * [Template Engine](#template-engine)
@@ -51,7 +52,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [delimiter_tree](https://github.com/drujensen/delimiter_tree) - A tree structure that is built using a delimiter
  * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
  * [heap.cr](https://github.com/chenkovsky/heap.cr) - Implementation of heap data structure
- * [machine](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm
  * [miller_rabin](https://github.com/kuende/miller_rabin) - Implements [Miller-Rabin](https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Primality_Testing) algorithm to check if a number is prime
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
  * [murmur3](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra
@@ -139,6 +139,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Implementations/Compilers
  * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
  * [crystal](https://github.com/manastech/crystal) - Crystal itself is written in Crystal
+ * [csmli](https://github.com/david50407/csmli) - Mini-Lisp interpreter
  * [onix](https://github.com/ozra/onyx-lang) - ONYX Programming Language
 
 ## Logging and monitoring
@@ -216,6 +217,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Queue
  * [crystal-resque-client](https://github.com/pine/crystal-resque-client) - Simple Resque queue client
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+
+## Science and Data analysis
+ * [chizge](https://github.com/aladagemre/chizge) - A Network (Graph) Analysis library, inspired by [NetworkX](https://github.com/networkx/networkx)
+ * [machine](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm
 
 ## Search
  * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
