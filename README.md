@@ -76,6 +76,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Configuration
  * [ambience](https://github.com/vjdhama/ambience) - Simple app configuration using `ENV`.
  * [crystal-toml](https://github.com/manastech/crystal-toml) - TOML parser
+ * [dockerfile.cr](https://github.com/keplersj/dockerfile.cr) - Dockerfile Parsing Library
 
 ## Data Generators
  * [faker](https://github.com/askn/faker) - A library for generating fake data
@@ -132,6 +133,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-routing](https://github.com/bcardiff/crystal-routing) - Extensible library to deal with http request and string based routing
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
  * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
+ * [http_distributor](https://github.com/Nephos/http_distributor) - HTTP server which allows sneaky http requests
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
  * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
  * [session](https://github.com/porras/session.git) - Cookie based sessions in Crystal HTTP applications
@@ -187,6 +189,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [inflector](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
  * [kreal](https://github.com/f/kreal) - Model sharing & RPC library built on and works with Kemal seamlessly
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
+ * [metaclass](https://github.com/mosop/metaclass) - A library for manipulating class-level definitions
  * [observable](https://github.com/TPei/observable) - Implementation of the Observer pattern
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
  * [ramlrenderer](https://github.com/beno/ramlrenderer) - HTLM doc builder for RAML 1.0
