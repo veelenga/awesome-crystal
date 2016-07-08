@@ -47,6 +47,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Shell Plugins](#shell-plugins)
 
 ## Algorithms and Data structures
+ * [aho_corasick](https://github.com/chenkovsky/aho_corasick) - AhoCorasick algorithm
  * [crystaledge](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
  * [delimiter_tree](https://github.com/drujensen/delimiter_tree) - A tree structure that is built using a delimiter
@@ -82,6 +83,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [faker](https://github.com/askn/faker) - A library for generating fake data
 
 ## Database Drivers
+ * [crystal-db](https://github.com/crystal-lang/crystal-db) - Common db api
  * [crystal-monetdb-libmapi](https://github.com/puppetpies/crystal-monetdb-libmapi) - Bindings for MonetDB
  * [crystal-mysql](https://github.com/waterlink/crystal-mysql) - Basic MySQL bindings
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
@@ -153,6 +155,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
  * [crystal-dbus](https://github.com/BlaXpirit/crystal-dbus) - Bindings to D-Bus
  * [crystal-libpcap](https://github.com/puppetpies/crystal-libpcap) - Bindings for libpcap
+ * [crystal-libtar](https://github.com/puppetpies/crystal-libtar) - Bindings for libtar
  * [curses](https://github.com/ruivieira/curses) - Bindings for the curses library
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [kt](https://github.com/kuende/kt) - Bindings for [Kyoto Tycoon](http://fallabs.com/kyototycoon/)
@@ -196,6 +199,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
+ * [stumpy_png](https://github.com/l3kn/stumpy_png) - Read access to PNG images
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
 
 ## Networking
@@ -275,6 +279,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [wit-crystal](https://github.com/spalladino/wit-crystal) - Crystal SDK for [wit.ai](https://wit.ai/)
 
 ## Virtualization
+ * [backed_file_system](https://github.com/schovi/baked_file_system) - Virtual file system implementation
  * [rcpu](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
 
 ## Web Frameworks
