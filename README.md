@@ -15,6 +15,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Data Generators](#data-generators)
   * [Database Drivers](#database-drivers)
   * [Database Tools](#database-tools)
+  * [Email](#email)
   * [Environment Management](#environment-management)
   * [Examples and funny stuff](#examples-and-funny-stuff)
   * [Framework Components](#framework-components)
@@ -84,6 +85,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Database Drivers
  * [crystal-db](https://github.com/crystal-lang/crystal-db) - Common db api
+ * [crystal-leveldb](https://github.com/greyblake/crystal-leveldb) - Crystal bindings for LevelDB
  * [crystal-monetdb-libmapi](https://github.com/puppetpies/crystal-monetdb-libmapi) - Bindings for MonetDB
  * [crystal-mysql](https://github.com/waterlink/crystal-mysql) - Basic MySQL bindings
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
@@ -95,6 +97,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Database Tools
  * [micrate](https://github.com/juanedi/micrate) - Database migration tool
+
+## Email
+ * [CrystalEmail](https://github.com/Nephos/CrystalEmail) - A RFC compliant Email validator
+ * [smtp.cr](https://github.com/raydf/smtp.cr) - Email SMTP client
 
 ## Environment Management
  * [crenv](https://github.com/pine/crenv) - Crystal version manager
@@ -180,7 +186,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [crystal-i18n](https://github.com/whity/crystal-i18n) - Internationalization library
- * [CrystalEmail](https://github.com/Nephos/CrystalEmail) - A RFC compliant Email validator
  * [daemonize.cr](https://github.com/DougEverly/daemonize.cr) - Crystal process daemonizer
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
