@@ -117,6 +117,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-monetdb-test](https://github.com/puppetpies/kemal-monetdb-test) - MonetDB Kemal test project
  * [kemal-pg-sample](https://github.com/sdogruyol/kemal-pg-sample) - Sample app to demonstrate kemal + postgresql usage
  * [kemal-react-chat](https://github.com/f/kemal-react-chat) - Build Realtime Web applications with Kemal and React
+ * [kemal_elm_chat](https://github.com/kofno/kemal_elm_chat) - Simple chat server written with Kemal and Elm
  * [medley](https://github.com/jwoertink/medley) - A mixture of music related methods
  * [mos_game](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game
  * [xcrystal](https://github.com/exercism/xcrystal) - Exercism exercises
@@ -132,6 +133,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-redis](https://github.com/sdogruyol/kemal-redis) - Easily add Redis to Kemal
  * [kemal-session](https://github.com/Thyra/kemal-session) - Session handler for Kemal
  * [spec-kemal](https://github.com/sdogruyol/spec-kemal) - Easy testing for Kemal
+ * [toro](https://github.com/soveran/toro) - Tree Oriented Routing
 
 ## HTTP
  * [beryl](https://github.com/luislavena/beryl) - Action-focused HTTP routing library
@@ -265,6 +267,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [AnyBar_cr](https://github.com/davydovanton/AnyBar_cr) - Simple crystal wrapper for AnyBar library
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
  * [crystal-connpass](https://github.com/pine/crystal-connpass) - Wrapper for the [Connpass](http://connpass.com/) API
+ * [crystal-mondo](https://github.com/barisbalic/crystal-mondo) - A client for the [Mondo API](https://getmondo.co.uk/docs/)
  * [crystal-qiita](https://github.com/pine/crystal-qiita) - A wrapper for the [Qiita](https://qiita.com/) API
  * [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
