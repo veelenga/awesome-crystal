@@ -170,6 +170,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [curses](https://github.com/ruivieira/curses) - Bindings for the curses library
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [kt](https://github.com/kuende/kt) - Bindings for [Kyoto Tycoon](http://fallabs.com/kyototycoon/)
+ * [libmagic-crystal](https://github.com/pablotron/libmagic-crystal) - Bindings for libmagic
  * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
  * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui](https://github.com/andlabs/libui)
  * [myhtml](https://github.com/kostya/myhtml) - Bindings for [lexborisov/myhtml](https://github.com/lexborisov/myhtml)
@@ -197,6 +198,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [executable_path](https://github.com/kostya/executable_path) - Portable current executable's path
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
  * [haikunator](https://github.com/sanata-/haikunator) - Heroku-like random name generator
+ * [hoop](https://github.com/hoopcr/hoop) - Building native OSX apps
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [inflector](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
@@ -274,6 +276,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-qiita](https://github.com/pine/crystal-qiita) - A wrapper for the [Qiita](https://qiita.com/) API
  * [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
+ * [crystalforce](https://github.com/ucmsky/crystalforce) - Salesforce REST api
  * [docker.cr](https://github.com/jeromegn/docker.cr) - Docker API client
  * [fantasy_football_nerd_api](https://github.com/fridgerator/fantasy_football_nerd_api) - A library for the [Fantasy Football Nerd API](http://www.fantasyfootballnerd.com/fantasy-football-api)
  * [gitlab.cr](https://github.com/icyleaf/gitlab.cr) - GitLab API wrapper
