@@ -167,6 +167,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-dbus](https://github.com/BlaXpirit/crystal-dbus) - Bindings to D-Bus
  * [crystal-libpcap](https://github.com/puppetpies/crystal-libpcap) - Bindings for libpcap
  * [crystal-libtar](https://github.com/puppetpies/crystal-libtar) - Bindings for libtar
+ * [crystal_av](https://github.com/kofno/crystal_av) - Bindings to [ClamAV](https://www.clamav.net/) anti-virus
  * [curses](https://github.com/ruivieira/curses) - Bindings for the curses library
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [kt](https://github.com/kuende/kt) - Bindings for [Kyoto Tycoon](http://fallabs.com/kyototycoon/)
