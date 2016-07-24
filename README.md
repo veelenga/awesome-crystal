@@ -318,6 +318,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Crystal weekly newsletters](http://www.crystalweekly.com/)
  * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
  * [IRC](http://irc.lc/freenode/crystal-lang) - #crystal-lang on Freenode
+ * [Metaruby](https://metaruby.com/c/crystal-forum) - Crystal Forum on Metaruby
  * [Reddit](https://www.reddit.com/r/crystal_programming)
  * [Slack Group](http://crystal.pine.moe/en/)
  * [Stackoverflow](http://stackoverflow.com/tags/crystal-lang/info)
