@@ -221,6 +221,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [jwt](https://github.com/greyblake/crystal-jwt) - Implementation of JWT (JSON Web Token)
  * [msgpack-crystal](https://github.com/benoist/msgpack-crystal) - MessagePack library
+ * [sctp-crystal](https://github.com/CodeSteak/sctp-crystal) - SCTP networking library
 
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
@@ -233,10 +234,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Project generators
  * [bindgencr](https://github.com/TechMagister/bindgencr) - Generator of bindings based on castxml output
+ * [fez](https://github.com/jwoertink/fez) - A Kemal application generator
  * [generate](https://github.com/generate-cr/generate) - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
 
 ## Queue
  * [crystal-resque-client](https://github.com/pine/crystal-resque-client) - Simple Resque queue client
+ * [disque-cr](https://github.com/foca/disque-cr) - Client for [Disque](https://github.com/antirez/disque) queueing system
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## Science and Data analysis
@@ -286,6 +289,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) - Google Maps API
  * [google_translate](https://github.com/greyblake/crystal-google_translate) - Client for Google Translate
  * [gravatar.cr](https://github.com/fg/gravatar.cr.git) - A library to use Gravatar service
+ * [hncr](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper
  * [openweather.cr](https://github.com/lucasocon/openweather.cr) - A wrapper for the Openweather API
  * [shorturl.cr](https://github.com/veelenga/shorturl.cr) - A library to use URL shortening services
  * [soundcloud-crystal](https://github.com/sferik/soundcloud-crystal) - A library to access the SoundCloud API
