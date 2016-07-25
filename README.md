@@ -290,7 +290,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [google_translate](https://github.com/greyblake/crystal-google_translate) - Client for Google Translate
  * [gravatar.cr](https://github.com/fg/gravatar.cr.git) - A library to use Gravatar service
  * [hncr](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper
- * [nexmo-crystal](https://github.com/timcraft/nexmo-crystal) - Nexmo REST API client
+ * [nexmo-crystal](https://github.com/timcraft/nexmo-crystal) - [Nexmo REST API](https://docs.nexmo.com/) client
  * [openweather.cr](https://github.com/lucasocon/openweather.cr) - A wrapper for the Openweather API
  * [shorturl.cr](https://github.com/veelenga/shorturl.cr) - A library to use URL shortening services
  * [soundcloud-crystal](https://github.com/sferik/soundcloud-crystal) - A library to access the SoundCloud API
