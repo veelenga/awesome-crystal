@@ -83,6 +83,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 
 ## Data Generators
  * [faker](https://github.com/askn/faker) - A library for generating fake data
+ * [hashids.cr](https://github.com/splattael/hashids.cr) - A library to generate YouTube-like ids from one or many numbers
 
 ## Database Drivers
  * [crystal-db](https://github.com/crystal-lang/crystal-db) - Common db api
@@ -131,6 +132,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL (abusing macros)
  * [crouter](https://github.com/jreinert/crouter) - A standalone router
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
+ * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
  * [kemal-comments](https://github.com/TyanNN/kemal-comments) - Simple comments for Kemal site
  * [kemal-monetdb](https://github.com/puppetpies/kemal-monetdb) - MonetDB Data connection for Kemal
  * [kemal-mysql](https://github.com/sdogruyol/kemal-mysql) - Easily add MySQL database to Kemal
@@ -250,6 +252,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [stats](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions
 
 ## Search
+ * [query.cr](https://github.com/waterlink/query.cr) - Query abstraction
  * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
 
 ## Task management
@@ -270,6 +273,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [mock](https://github.com/porras/mock) - Mocking library, inspired by the API of rspec-mocks
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
  * [power_assert.cr](https://github.com/rosylilly/power_assert.cr) - Powerful assertion for Crystal
+ * [spec2-mocks](https://github.com/waterlink/spec2-mocks.cr) - An adapter of mocks.cr for spec2.cr
  * [spec2.cr](https://github.com/waterlink/spec2.cr) - Enhanced testing library
  * [timecop.cr](https://github.com/waterlink/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
