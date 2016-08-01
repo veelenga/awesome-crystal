@@ -1,10 +1,11 @@
 # Awesome Crystal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/veelenga/awesome-crystal.svg)](https://travis-ci.org/veelenga/awesome-crystal)
 
 A curated list of awesome Crystal code and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
-
 The goal is to have projects mostly stable and useful for users.
 
 Contributions are welcome. Please take a quick look at the [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/CONTRIBUTING.md) first.
+
+If you like this project and feeling charitable, support it on [Bountysource](https://salt.bountysource.com/teams/awesome-crystal).
 
 * [Awesome Crystal](#awesome-crystal)
   * [Algorithms and Data structures](#algorithms-and-data-structures)
