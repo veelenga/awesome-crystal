@@ -212,6 +212,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [metaclass](https://github.com/mosop/metaclass) - A library for manipulating class-level definitions
  * [observable](https://github.com/TPei/observable) - Implementation of the Observer pattern
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
+ * [promise](https://github.com/jwaldrip/promise-cr) - A Promise Implementation.
  * [ramlrenderer](https://github.com/beno/ramlrenderer) - HTLM doc builder for RAML 1.0
  * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
