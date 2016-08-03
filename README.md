@@ -223,6 +223,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 ## Networking
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Native BSON implementation
+ * [CrystalIrc](https://github.com/Meoowww/CrystalIrc) - IRC implementation (Client, Server, Bots)
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [jwt](https://github.com/greyblake/crystal-jwt) - Implementation of JWT (JSON Web Token)
  * [msgpack-crystal](https://github.com/benoist/msgpack-crystal) - MessagePack library
