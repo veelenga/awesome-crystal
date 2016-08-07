@@ -81,6 +81,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 
 ## Configuration
  * [ambience](https://github.com/vjdhama/ambience) - Simple app configuration using `ENV`.
+ * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
  * [crystal-toml](https://github.com/manastech/crystal-toml) - TOML parser
  * [dockerfile.cr](https://github.com/keplersj/dockerfile.cr) - Dockerfile Parsing Library
 
@@ -114,6 +115,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 
 ## Examples and funny stuff
  * [crsfml-examples](https://github.com/BlaXpirit/crsfml-examples) - Simple games made with CrSFML
+ * [crystal-benchmarks-game](https://github.com/kostya/crystal-benchmarks-game) - The Computer Language Benchmarks Game
  * [crystal-patterns](https://github.com/veelenga/crystal-patterns) - Examples of GOF patters
  * [crystal_samples](https://github.com/tbpgr/crystal_samples) - Variety of Crystal samples
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
@@ -133,6 +135,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 
 ## Framework Components
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL (abusing macros)
+ * [cr-melon](https://github.com/gdotdesign/cr-melon) - Class based Http APIs
  * [crouter](https://github.com/jreinert/crouter) - A standalone router
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
@@ -333,6 +336,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 # Community
  * [Crystal Shards on Twitter](https://twitter.com/shardscrystal)
  * [Crystal weekly newsletters](http://www.crystalweekly.com/)
+ * [Gitter](https://gitter.im/crystal-lang/crystal)
  * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
  * [IRC](http://irc.lc/freenode/crystal-lang) - #crystal-lang on Freenode
  * [Metaruby](https://metaruby.com/c/crystal-forum) - Crystal Forum on Metaruby
@@ -341,6 +345,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [Stackoverflow](http://stackoverflow.com/tags/crystal-lang/info)
 
 # Resources
+ * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - free book to bootstrap your Crystal journey
  * [crystal-lang.org](http://crystal-lang.org) - Official language site
 
 ## Official Documentation Translations
