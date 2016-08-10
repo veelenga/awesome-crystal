@@ -71,6 +71,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [bojack](https://github.com/marceloboeira/bojack) - A non-reliable in-memory key-value store
  * [crystal-kiwi](https://github.com/greyblake/crystal-kiwi) - A unified interface for key-value stores
  * [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
+ * [Nuummite](https://github.com/CodeSteak/Nuummite) - A tiny persistent embedded key-value store
 
 ## Cli Builders
  * [cli](https://github.com/mosop/cli) - Library for building command-line interface applications
@@ -221,6 +222,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [promise](https://github.com/jwaldrip/promise-cr) - A Promise Implementation.
  * [ramlrenderer](https://github.com/beno/ramlrenderer) - HTLM doc builder for RAML 1.0
  * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
+ * [shell.cr](https://github.com/dmytro/shell.cr) - Small simplistic helper class for executing shell commands
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
  * [stumpy_png](https://github.com/l3kn/stumpy_png) - Read access to PNG images
@@ -246,6 +248,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 
 ## Project generators
  * [bindgencr](https://github.com/TechMagister/bindgencr) - Generator of bindings based on castxml output
+ * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
  * [fez](https://github.com/jwoertink/fez) - A Kemal application generator
  * [generate](https://github.com/generate-cr/generate) - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
 
@@ -385,7 +388,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
    * [vim-slang](https://github.com/isaacsloan/vim-slang) - Vim filetype support for Slang Templating Engine
  * Visual Studio Code
    * [vscode-crystal](https://github.com/g3ortega/vscode-crystal) - Crystal language support in VSCode
-   * [vscode-crystal-ide](https://marketplace.visualstudio.com/items?itemName=goldenpointllc.crystal-ide) Crystal IDE powered by [Language Server Protocol](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol) 
+   * [vscode-crystal-ide](https://marketplace.visualstudio.com/items?itemName=goldenpointllc.crystal-ide) Crystal IDE powered by [Language Server Protocol](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol)
 
 ## Shell plugins
  * [crystal-zsh](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugin
