@@ -81,7 +81,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [optarg](https://github.com/mosop/optarg) - Yet another library for parsing command-line options and arguments
 
 ## Configuration
- * [ambience](https://github.com/vjdhama/ambience) - Simple app configuration using `ENV`.
+ * [ambience](https://github.com/vjdhama/ambience) - Simple app configuration using `ENV`
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
  * [crystal-toml](https://github.com/manastech/crystal-toml) - TOML parser
  * [dockerfile.cr](https://github.com/keplersj/dockerfile.cr) - Dockerfile Parsing Library
@@ -219,7 +219,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [metaclass](https://github.com/mosop/metaclass) - A library for manipulating class-level definitions
  * [observable](https://github.com/TPei/observable) - Implementation of the Observer pattern
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
- * [promise](https://github.com/jwaldrip/promise-cr) - A Promise Implementation.
+ * [promise](https://github.com/jwaldrip/promise-cr) - A Promise Implementation
  * [ramlrenderer](https://github.com/beno/ramlrenderer) - HTLM doc builder for RAML 1.0
  * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
  * [shell.cr](https://github.com/dmytro/shell.cr) - Small simplistic helper class for executing shell commands
@@ -273,8 +273,8 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 ## Template Engine
  * [Bunny](https://github.com/samsheff/Bunny) - A simple HTML templating language for Crystal, same syntax as erb
  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
- * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines.
- * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim.
+ * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
+ * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
  * [temel](https://github.com/f/temel) - Extensible HTML::Builder alternative for Crystal, supports custom tag definitions
 
 ## Testing
@@ -332,7 +332,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [moonshine](https://github.com/dhruvrajvanshi/Moonshine) - A minimal web framework
 
 ## Web Servers
- * [fast-http-server](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server.
+ * [fast-http-server](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server
  * [kamber](https://github.com/f/kamber) - Blog server based on Kemal
  * [prax.cr](https://github.com/ysbaddaden/prax.cr) - Rack proxy server for development
 

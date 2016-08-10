@@ -1,7 +1,8 @@
 require "./spec_helper"
 require "uri"
 
-readme = Readme.new("./README.md")
+README = "./README.md"
+readme = Readme.new(README)
 
 # Enable for debug purpose
 # File.write("readme.html", readme.html)
@@ -38,6 +39,14 @@ describe "List of Crystal Awesomeness" do
       sorted = group.sort { |x, y| x.downcase <=> y.downcase }
       group.each_with_index do |awesome, i|
         awesome.should eq sorted[i]
+      end
+    end
+  end
+
+  context "Document" do
+    it "hasn't trailing spaces" do
+      File.read_lines(README).each_with_index do |line, line_number|
+        (line =~ /[ \t]+$/ && line_number + 1).should eq nil
       end
     end
   end
