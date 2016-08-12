@@ -104,6 +104,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 
 ## Database Tools
  * [micrate](https://github.com/juanedi/micrate) - Database migration tool
+ * [query-builder](https://github.com/izniburak/query-builder) - Sql Query Builder library for Crystal
 
 ## Email
  * [CrystalEmail](https://github.com/Nephos/CrystalEmail) - A RFC compliant Email validator
