@@ -263,9 +263,9 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [stats](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions
 
 ## Search
+ * [query-builder](https://github.com/izniburak/query-builder) - Sql Query Builder library
  * [query.cr](https://github.com/waterlink/query.cr) - Query abstraction
  * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
- * [query-builder](https://github.com/izniburak/query-builder) - Sql Query Builder library 
 
 ## Task management
  * [crake](https://github.com/MakeNowJust/crake) - Rake-like build utility library. It is just a library, so it does not provide CLI
