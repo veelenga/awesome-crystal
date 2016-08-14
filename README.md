@@ -263,6 +263,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [stats](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions
 
 ## Search
+ * [query-builder](https://github.com/izniburak/query-builder) - Sql Query Builder library
  * [query.cr](https://github.com/waterlink/query.cr) - Query abstraction
  * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
 
