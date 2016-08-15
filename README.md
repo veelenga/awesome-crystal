@@ -164,6 +164,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 
 ## Implementations/Compilers
  * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+ * [crow](https://github.com/geppetto-apps/crow) - Transpile/compile Crystal to [Flow](https://flowtype.org/)
  * [crystal](https://github.com/manastech/crystal) - Crystal itself is written in Crystal
  * [csmli](https://github.com/david50407/csmli) - Mini-Lisp interpreter
  * [onix](https://github.com/ozra/onyx-lang) - ONYX Programming Language
