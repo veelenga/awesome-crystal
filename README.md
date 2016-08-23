@@ -50,6 +50,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 
 ## Algorithms and Data structures
  * [aho_corasick](https://github.com/chenkovsky/aho_corasick) - AhoCorasick algorithm
+ * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
  * [crystaledge](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
  * [delimiter_tree](https://github.com/drujensen/delimiter_tree) - A tree structure that is built using a delimiter
@@ -174,8 +175,10 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
 
 ## Low level bindings
+ * [C14N](https://github.com/vonKingsley/C14N) - Bindings for C14N (libxml2)
  * [crsfml](https://github.com/BlaXpirit/crsfml) - Bindings for [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
  * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
+ * [crystal-chipmunk](https://github.com/BlaXpirit/crystal-chipmunk) - Bindings for [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
  * [crystal-dbus](https://github.com/BlaXpirit/crystal-dbus) - Bindings to D-Bus
  * [crystal-libpcap](https://github.com/puppetpies/crystal-libpcap) - Bindings for libpcap
  * [crystal-libtar](https://github.com/puppetpies/crystal-libtar) - Bindings for libtar
