@@ -113,7 +113,6 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 ## Environment Management
  * [crenv](https://github.com/pine/crenv) - Crystal version manager
  * [rcm.cr](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
- * [Snappy](https://github.com/shotastage/Snappy) - Version manager for Swift, Ruby, Python and so on
 
 ## Examples and funny stuff
  * [crsfml-examples](https://github.com/BlaXpirit/crsfml-examples) - Simple games made with CrSFML
