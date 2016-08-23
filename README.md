@@ -185,6 +185,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [crystal_av](https://github.com/kofno/crystal_av) - Bindings to [ClamAV](https://www.clamav.net/) anti-virus
  * [curses](https://github.com/ruivieira/curses) - Bindings for the curses library
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
+ * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
  * [kt](https://github.com/kuende/kt) - Bindings for [Kyoto Tycoon](http://fallabs.com/kyototycoon/)
  * [libmagic-crystal](https://github.com/pablotron/libmagic-crystal) - Bindings for libmagic
  * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
