@@ -117,6 +117,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 ## Examples and funny stuff
  * [crsfml-examples](https://github.com/BlaXpirit/crsfml-examples) - Simple games made with CrSFML
  * [crystal-benchmarks-game](https://github.com/kostya/crystal-benchmarks-game) - The Computer Language Benchmarks Game
+ * [crystal-by-example](https://github.com/askn/crystal-by-example) - Crystal By Example
  * [crystal-patterns](https://github.com/veelenga/crystal-patterns) - Examples of GOF patters
  * [crystal_samples](https://github.com/tbpgr/crystal_samples) - Variety of Crystal samples
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
@@ -203,6 +204,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
  * [chalk-box](https://github.com/azukiapp/crystal-chalk-box) - Terminal color toolbox, check support and colorized (without String monkey patch)
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
+ * [cltk](https://github.com/ziprandom/cltk) - A crystal port of the Ruby Language Toolkit
  * [crdoc](https://github.com/rhysd/crdoc) - CLI tool to search and open documentation
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
  * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
