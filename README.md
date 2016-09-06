@@ -5,8 +5,6 @@ The goal is to have projects mostly stable and useful for users.
 
 Contributions are welcome. Please take a quick look at the [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/CONTRIBUTING.md) first.
 
-If you like this project and feeling charitable, support it on [Bountysource](https://salt.bountysource.com/teams/awesome-crystal).
-
 * [Awesome Crystal](#awesome-crystal)
   * [Algorithms and Data structures](#algorithms-and-data-structures)
   * [Api Builders](#api-builders)
@@ -282,6 +280,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
  * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
  * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
+ * [teeplate](https://github.com/mosop/teeplate) - A library for rendering multiple template files
  * [temel](https://github.com/f/temel) - Extensible HTML::Builder alternative for Crystal, supports custom tag definitions
 
 ## Testing
