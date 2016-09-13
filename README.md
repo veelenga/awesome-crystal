@@ -191,7 +191,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [myhtml](https://github.com/kostya/myhtml) - Bindings for [lexborisov/myhtml](https://github.com/lexborisov/myhtml)
  * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
  * [posix](https://github.com/ysbaddaden/posix) - POSIX/C bindings
- * [serial.cr](https://github.com/marceloboeira/serial.cr) - Bindings for Libserialport library
+ * [serialport.cr](https://github.com/Sija/serialport.cr) - Bindings for [libserialport](http://sigrok.org/wiki/Libserialport) library
  * [snappy-crystal](https://github.com/benoist/snappy-crystal) - Bindings for Snappy library
  * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
