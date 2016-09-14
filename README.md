@@ -189,7 +189,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
  * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui](https://github.com/andlabs/libui)
  * [myhtml](https://github.com/kostya/myhtml) - Bindings for [lexborisov/myhtml](https://github.com/lexborisov/myhtml)
+ * [nanomsg.cr](https://github.com/chenkovsky/nanomsg.cr) - Bindings for nanomsg
  * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
+ * [pcap.cr](https://github.com/maiha/pcap.cr) - Bindings for libpcap
  * [posix](https://github.com/ysbaddaden/posix) - POSIX/C bindings
  * [serialport.cr](https://github.com/Sija/serialport.cr) - Bindings for [libserialport](http://sigrok.org/wiki/Libserialport) library
  * [snappy-crystal](https://github.com/benoist/snappy-crystal) - Bindings for Snappy library
@@ -231,6 +233,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
  * [stumpy_png](https://github.com/l3kn/stumpy_png) - Read access to PNG images
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
+ * [wire](https://github.com/puppetpies/WIre) - A packet analyzer
 
 ## Networking
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
@@ -315,6 +318,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [hncr](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper
  * [nexmo-crystal](https://github.com/timcraft/nexmo-crystal) - [Nexmo REST API](https://docs.nexmo.com/) client
  * [openweather.cr](https://github.com/lucasocon/openweather.cr) - A wrapper for the Openweather API
+ * [pullword](https://github.com/googya/pullword) - A package to use [pullword](http://pullword.com/)
  * [shorturl.cr](https://github.com/veelenga/shorturl.cr) - A library to use URL shortening services
  * [soundcloud-crystal](https://github.com/sferik/soundcloud-crystal) - A library to access the SoundCloud API
  * [spotify.cr](https://github.com/marceloboeira/spotify.cr) - A library to access the Spotify API
