@@ -317,6 +317,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [gravatar.cr](https://github.com/fg/gravatar.cr.git) - A library to use Gravatar service
  * [hncr](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper
  * [nexmo-crystal](https://github.com/timcraft/nexmo-crystal) - [Nexmo REST API](https://docs.nexmo.com/) client
+ * [open_exchange_rates](https://github.com/osfx/open_exchange_rates) - A library to access [Open Exchange Rates](https://openexchangerates.org/) API
  * [openweather.cr](https://github.com/lucasocon/openweather.cr) - A wrapper for the Openweather API
  * [pullword](https://github.com/googya/pullword) - A package to use [pullword](http://pullword.com/)
  * [shorturl.cr](https://github.com/veelenga/shorturl.cr) - A library to use URL shortening services
