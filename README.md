@@ -165,7 +165,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Implementations/Compilers
  * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
  * [crow](https://github.com/geppetto-apps/crow) - Transpile/compile Crystal to [Flow](https://flowtype.org/)
- * [crystal](https://github.com/manastech/crystal) - Crystal itself is written in Crystal
+ * [crystal](https://github.com/crystal-lang/crystal) - Crystal itself is written in Crystal
  * [csmli](https://github.com/david50407/csmli) - Mini-Lisp interpreter
  * [onix](https://github.com/ozra/onyx-lang) - ONYX Programming Language
 
@@ -396,7 +396,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * Spacemacs
    * [crystal-spacemacs-layer](https://github.com/juanedi/crystal-spacemacs-layer) - Spacemacs contribution layer for Crystal
  * Sublime
-   * [sublime-crystal](https://github.com/manastech/sublime-crystal) - Crystal syntax highlighting for sublime Text
+   * [sublime-crystal](https://github.com/crystal-lang/sublime-crystal) - Crystal syntax highlighting for sublime Text
  * Vim
    * [vim-crystal](https://github.com/rhysd/vim-crystal) - Vim filetype support for Crystal
    * [vim-slang](https://github.com/isaacsloan/vim-slang) - Vim filetype support for Slang Templating Engine
