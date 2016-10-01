@@ -159,6 +159,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
  * [http_distributor](https://github.com/Nephos/http_distributor) - HTTP server which allows sneaky http requests
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
+ * [multipart.cr](https://github.com/RX14/multipart.cr) - Adds multipart and multipart/form-data support to the crystal standard library
  * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
  * [session](https://github.com/porras/session.git) - Cookie based sessions in Crystal HTTP applications
 
@@ -205,6 +206,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
  * [chalk-box](https://github.com/azukiapp/crystal-chalk-box) - Terminal color toolbox, check support and colorized (without String monkey patch)
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
+ * [clamd.cr](https://github.com/RX14/clamd.cr) - Client for the clamd antivirus server
  * [cltk](https://github.com/ziprandom/cltk) - A crystal port of the Ruby Language Toolkit
  * [crdoc](https://github.com/rhysd/crdoc) - CLI tool to search and open documentation
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
