@@ -377,7 +377,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-docs](https://crystal-docs.org) - A service for hosting Crystal Shard documentation
  * [crystalshards](https://crystalshards.herokuapp.com/) - A web service that lists all available Crystal shards
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
- * [docrystal](http://docrystal.org/) - A web application that hosts documentation for Crystal packages
  * [fikri](https://github.com/askn/fikri) - Simple CLI To-Do App
  * [icr](https://github.com/greyblake/crystal-icr) - Interactive console for Crystal (like IRB for Ruby)
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
