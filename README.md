@@ -121,6 +121,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal_samples](https://github.com/tbpgr/crystal_samples) - Variety of Crystal samples
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
  * [docker-kemal](https://github.com/ianblenke/docker-kemal) - An example Dockerized Crystal Kemal project
+ * [inari](https://github.com/ddfreyne/inari) - A game written in Crystal, using the Glove project as the game engine.
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - Build realtime applications with Kemal and WebSocket
  * [kemal-monetdb-test](https://github.com/puppetpies/kemal-monetdb-test) - MonetDB Kemal test project
  * [kemal-pg-sample](https://github.com/sdogruyol/kemal-pg-sample) - Sample app to demonstrate kemal + postgresql usage
