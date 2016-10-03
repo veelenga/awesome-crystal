@@ -375,7 +375,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [carc.in](https://carc.in/) - A web service that runs your code and displays the result
  * [Crank](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
  * [crystal-docs](https://crystal-docs.org) - A service for hosting Crystal Shard documentation
- * [crystalshards](https://crystalshards.herokuapp.com/) - A web service that lists all available Crystal shards
+ * [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [fikri](https://github.com/askn/fikri) - Simple CLI To-Do App
  * [icr](https://github.com/greyblake/crystal-icr) - Interactive console for Crystal (like IRB for Ruby)
