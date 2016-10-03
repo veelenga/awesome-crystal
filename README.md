@@ -139,6 +139,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cr-melon](https://github.com/gdotdesign/cr-melon) - Class based Http APIs
  * [crouter](https://github.com/jreinert/crouter) - A standalone router
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
+ * [glove](https://github.com/ddfreyne/glove) - A library for gaming development
  * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
  * [kemal-comments](https://github.com/TyanNN/kemal-comments) - Simple comments for Kemal site
  * [kemal-monetdb](https://github.com/puppetpies/kemal-monetdb) - MonetDB Data connection for Kemal
