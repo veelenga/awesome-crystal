@@ -18,6 +18,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Environment Management](#environment-management)
   * [Examples and funny stuff](#examples-and-funny-stuff)
   * [Framework Components](#framework-components)
+  * [Game Development](#game-development)
   * [HTTP](#http)
   * [Implementations/Compilers](#implementationscompilers)
   * [Logging and monitoring](#logging-and-monitoring)
@@ -121,7 +122,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal_samples](https://github.com/tbpgr/crystal_samples) - Variety of Crystal samples
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
  * [docker-kemal](https://github.com/ianblenke/docker-kemal) - An example Dockerized Crystal Kemal project
- * [inari](https://github.com/ddfreyne/inari) - A game written in Crystal, using the Glove project as the game engine.
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - Build realtime applications with Kemal and WebSocket
  * [kemal-monetdb-test](https://github.com/puppetpies/kemal-monetdb-test) - MonetDB Kemal test project
  * [kemal-pg-sample](https://github.com/sdogruyol/kemal-pg-sample) - Sample app to demonstrate kemal + postgresql usage
@@ -132,7 +132,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-ws-todo-app](https://github.com/Angarsk8/kemal-ws-todo-app) - Realtime Todo application developed with Kemal and Websockets
  * [kemal_elm_chat](https://github.com/kofno/kemal_elm_chat) - Simple chat server written with Kemal and Elm
  * [medley](https://github.com/jwoertink/medley) - A mixture of music related methods
- * [mos_game](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game
  * [xcrystal](https://github.com/exercism/xcrystal) - Exercism exercises
 
 ## Framework Components
@@ -140,7 +139,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cr-melon](https://github.com/gdotdesign/cr-melon) - Class based Http APIs
  * [crouter](https://github.com/jreinert/crouter) - A standalone router
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
- * [glove](https://github.com/ddfreyne/glove) - A library for gaming development
  * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
  * [kemal-comments](https://github.com/TyanNN/kemal-comments) - Simple comments for Kemal site
  * [kemal-monetdb](https://github.com/puppetpies/kemal-monetdb) - MonetDB Data connection for Kemal
@@ -150,6 +148,14 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-session](https://github.com/Thyra/kemal-session) - Session handler for Kemal
  * [spec-kemal](https://github.com/sdogruyol/spec-kemal) - Easy testing for Kemal
  * [toro](https://github.com/soveran/toro) - Tree Oriented Routing
+
+## Game Development
+ * [crystal-chipmunk](https://github.com/BlaXpirit/crystal-chipmunk) - Bindings for [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
+ * [flight-crusader](https://github.com/umurgdk/flight-crusader) - POC top down flight game
+ * [glove](https://github.com/ddfreyne/glove) - A library for gaming development
+ * [inari](https://github.com/ddfreyne/inari) - A game written in Crystal, using the Glove project as the game engine
+ * [medico](https://github.com/konovod/medico) - Game about a medieval doctor
+ * [mos_game](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game
 
 ## HTTP
  * [beryl](https://github.com/luislavena/beryl) - Action-focused HTTP routing library
@@ -180,7 +186,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [C14N](https://github.com/vonKingsley/C14N) - Bindings for C14N (libxml2)
  * [crsfml](https://github.com/BlaXpirit/crsfml) - Bindings for [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
  * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
- * [crystal-chipmunk](https://github.com/BlaXpirit/crystal-chipmunk) - Bindings for [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
  * [crystal-dbus](https://github.com/BlaXpirit/crystal-dbus) - Bindings to D-Bus
  * [crystal-libpcap](https://github.com/puppetpies/crystal-libpcap) - Bindings for libpcap
  * [crystal-libtar](https://github.com/puppetpies/crystal-libtar) - Bindings for libtar
