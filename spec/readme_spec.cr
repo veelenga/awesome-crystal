@@ -25,8 +25,8 @@ describe "List of Crystal Awesomeness" do
     prev = nil
     readme.get_refs(/github\.com/).map do |ref|
       uri = URI.parse(ref)
-      host = uri.host as String
-      path = uri.path as String | Nil
+      host = uri.host.as String
+      path = uri.path.as String | Nil
       "#{host.downcase}#{path.downcase if path}"
     end.sort.each do |ref|
       ref.should_not eq prev

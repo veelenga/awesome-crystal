@@ -5,8 +5,6 @@ The goal is to have projects mostly stable and useful for users.
 
 Contributions are welcome. Please take a quick look at the [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/CONTRIBUTING.md) first.
 
-If you like this project and feeling charitable, support it on [Bountysource](https://salt.bountysource.com/teams/awesome-crystal).
-
 * [Awesome Crystal](#awesome-crystal)
   * [Algorithms and Data structures](#algorithms-and-data-structures)
   * [Api Builders](#api-builders)
@@ -20,6 +18,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
   * [Environment Management](#environment-management)
   * [Examples and funny stuff](#examples-and-funny-stuff)
   * [Framework Components](#framework-components)
+  * [Game Development](#game-development)
   * [HTTP](#http)
   * [Implementations/Compilers](#implementationscompilers)
   * [Logging and monitoring](#logging-and-monitoring)
@@ -50,6 +49,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 
 ## Algorithms and Data structures
  * [aho_corasick](https://github.com/chenkovsky/aho_corasick) - AhoCorasick algorithm
+ * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
  * [crystaledge](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
  * [delimiter_tree](https://github.com/drujensen/delimiter_tree) - A tree structure that is built using a delimiter
@@ -95,9 +95,10 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [crystal-leveldb](https://github.com/greyblake/crystal-leveldb) - Crystal bindings for LevelDB
  * [crystal-monetdb-libmapi](https://github.com/puppetpies/crystal-monetdb-libmapi) - Bindings for MonetDB
  * [crystal-mysql](https://github.com/waterlink/crystal-mysql) - Basic MySQL bindings
+ * [crystal-mysql](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
  * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
- * [crystal-sqlite3](https://github.com/manastech/crystal-sqlite3) - SQLite3 bindings
+ * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
  * [influxdb.cr](https://github.com/jeromegn/influxdb.cr) - InfluxDB driver
  * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
  * [rethinkdb-crystal](https://github.com/lbguilherme/rethinkdb-crystal) - RethinkDB Driver
@@ -112,11 +113,11 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 ## Environment Management
  * [crenv](https://github.com/pine/crenv) - Crystal version manager
  * [rcm.cr](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
- * [Snappy](https://github.com/shotastage/Snappy) - Version manager for Swift, Ruby, Python and so on
 
 ## Examples and funny stuff
  * [crsfml-examples](https://github.com/BlaXpirit/crsfml-examples) - Simple games made with CrSFML
  * [crystal-benchmarks-game](https://github.com/kostya/crystal-benchmarks-game) - The Computer Language Benchmarks Game
+ * [crystal-by-example](https://github.com/askn/crystal-by-example) - Crystal By Example
  * [crystal-patterns](https://github.com/veelenga/crystal-patterns) - Examples of GOF patters
  * [crystal_samples](https://github.com/tbpgr/crystal_samples) - Variety of Crystal samples
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
@@ -131,7 +132,6 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [kemal-ws-todo-app](https://github.com/Angarsk8/kemal-ws-todo-app) - Realtime Todo application developed with Kemal and Websockets
  * [kemal_elm_chat](https://github.com/kofno/kemal_elm_chat) - Simple chat server written with Kemal and Elm
  * [medley](https://github.com/jwoertink/medley) - A mixture of music related methods
- * [mos_game](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game
  * [xcrystal](https://github.com/exercism/xcrystal) - Exercism exercises
 
 ## Framework Components
@@ -149,6 +149,14 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [spec-kemal](https://github.com/sdogruyol/spec-kemal) - Easy testing for Kemal
  * [toro](https://github.com/soveran/toro) - Tree Oriented Routing
 
+## Game Development
+ * [crystal-chipmunk](https://github.com/BlaXpirit/crystal-chipmunk) - Bindings for [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
+ * [flight-crusader](https://github.com/umurgdk/flight-crusader) - POC top down flight game
+ * [glove](https://github.com/ddfreyne/glove) - A library for gaming development
+ * [inari](https://github.com/ddfreyne/inari) - A game written in Crystal, using the Glove project as the game engine
+ * [medico](https://github.com/konovod/medico) - Game about a medieval doctor
+ * [mos_game](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game
+
 ## HTTP
  * [beryl](https://github.com/luislavena/beryl) - Action-focused HTTP routing library
  * [crul](https://github.com/porras/crul) - Command line HTTP client
@@ -159,12 +167,14 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
  * [http_distributor](https://github.com/Nephos/http_distributor) - HTTP server which allows sneaky http requests
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
+ * [multipart.cr](https://github.com/RX14/multipart.cr) - Adds multipart and multipart/form-data support to the crystal standard library
  * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
  * [session](https://github.com/porras/session.git) - Cookie based sessions in Crystal HTTP applications
 
 ## Implementations/Compilers
  * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
- * [crystal](https://github.com/manastech/crystal) - Crystal itself is written in Crystal
+ * [crow](https://github.com/geppetto-apps/crow) - Transpile/compile Crystal to [Flow](https://flowtype.org/)
+ * [crystal](https://github.com/crystal-lang/crystal) - Crystal itself is written in Crystal
  * [csmli](https://github.com/david50407/csmli) - Mini-Lisp interpreter
  * [onix](https://github.com/ozra/onyx-lang) - ONYX Programming Language
 
@@ -173,6 +183,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
 
 ## Low level bindings
+ * [C14N](https://github.com/vonKingsley/C14N) - Bindings for C14N (libxml2)
  * [crsfml](https://github.com/BlaXpirit/crsfml) - Bindings for [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
  * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
  * [crystal-dbus](https://github.com/BlaXpirit/crystal-dbus) - Bindings to D-Bus
@@ -181,14 +192,17 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [crystal_av](https://github.com/kofno/crystal_av) - Bindings to [ClamAV](https://www.clamav.net/) anti-virus
  * [curses](https://github.com/ruivieira/curses) - Bindings for the curses library
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
+ * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
  * [kt](https://github.com/kuende/kt) - Bindings for [Kyoto Tycoon](http://fallabs.com/kyototycoon/)
  * [libmagic-crystal](https://github.com/pablotron/libmagic-crystal) - Bindings for libmagic
  * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
  * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui](https://github.com/andlabs/libui)
  * [myhtml](https://github.com/kostya/myhtml) - Bindings for [lexborisov/myhtml](https://github.com/lexborisov/myhtml)
+ * [nanomsg.cr](https://github.com/chenkovsky/nanomsg.cr) - Bindings for nanomsg
  * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
+ * [pcap.cr](https://github.com/maiha/pcap.cr) - Bindings for libpcap
  * [posix](https://github.com/ysbaddaden/posix) - POSIX/C bindings
- * [serial.cr](https://github.com/marceloboeira/serial.cr) - Bindings for Libserialport library
+ * [serialport.cr](https://github.com/Sija/serialport.cr) - Bindings for [libserialport](http://sigrok.org/wiki/Libserialport) library
  * [snappy-crystal](https://github.com/benoist/snappy-crystal) - Bindings for Snappy library
  * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
@@ -199,6 +213,8 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
  * [chalk-box](https://github.com/azukiapp/crystal-chalk-box) - Terminal color toolbox, check support and colorized (without String monkey patch)
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
+ * [clamd.cr](https://github.com/RX14/clamd.cr) - Client for the clamd antivirus server
+ * [cltk](https://github.com/ziprandom/cltk) - A crystal port of the Ruby Language Toolkit
  * [crdoc](https://github.com/rhysd/crdoc) - CLI tool to search and open documentation
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
  * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
@@ -227,6 +243,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
  * [stumpy_png](https://github.com/l3kn/stumpy_png) - Read access to PNG images
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
+ * [wire](https://github.com/puppetpies/WIre) - A packet analyzer
 
 ## Networking
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
@@ -276,6 +293,7 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
  * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
  * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
+ * [teeplate](https://github.com/mosop/teeplate) - A library for rendering multiple template files
  * [temel](https://github.com/f/temel) - Extensible HTML::Builder alternative for Crystal, supports custom tag definitions
 
 ## Testing
@@ -309,7 +327,9 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
  * [gravatar.cr](https://github.com/fg/gravatar.cr.git) - A library to use Gravatar service
  * [hncr](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper
  * [nexmo-crystal](https://github.com/timcraft/nexmo-crystal) - [Nexmo REST API](https://docs.nexmo.com/) client
+ * [open_exchange_rates](https://github.com/osfx/open_exchange_rates) - A library to access [Open Exchange Rates](https://openexchangerates.org/) API
  * [openweather.cr](https://github.com/lucasocon/openweather.cr) - A wrapper for the Openweather API
+ * [pullword](https://github.com/googya/pullword) - A package to use [pullword](http://pullword.com/)
  * [shorturl.cr](https://github.com/veelenga/shorturl.cr) - A library to use URL shortening services
  * [soundcloud-crystal](https://github.com/sferik/soundcloud-crystal) - A library to access the SoundCloud API
  * [spotify.cr](https://github.com/marceloboeira/spotify.cr) - A library to access the Spotify API
@@ -361,9 +381,9 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
 # Services and Apps
  * [carc.in](https://carc.in/) - A web service that runs your code and displays the result
  * [Crank](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
- * [crystalshards](https://crystalshards.herokuapp.com/) - A web service that lists all available Crystal shards
+ * [crystal-docs](https://crystal-docs.org) - A service for hosting Crystal Shard documentation
+ * [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
- * [docrystal](http://docrystal.org/) - A web application that hosts documentation for Crystal packages
  * [fikri](https://github.com/askn/fikri) - Simple CLI To-Do App
  * [icr](https://github.com/greyblake/crystal-icr) - Interactive console for Crystal (like IRB for Ruby)
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
@@ -382,14 +402,16 @@ If you like this project and feeling charitable, support it on [Bountysource](ht
    * [linter-crystal](https://atom.io/packages/linter-crystal) - Lint Crystal using the Crystal compiler in Atom
  * Emacs
    * [emacs-crystal-mode](https://github.com/jpellerin/emacs-crystal-mode) - Crystal language support for Emacs
+ * Spacemacs
+   * [crystal-spacemacs-layer](https://github.com/juanedi/crystal-spacemacs-layer) - Spacemacs contribution layer for Crystal
  * Sublime
-   * [sublime-crystal](https://github.com/manastech/sublime-crystal) - Crystal syntax highlighting for sublime Text
+   * [sublime-crystal](https://github.com/crystal-lang/sublime-crystal) - Crystal syntax highlighting for sublime Text
  * Vim
    * [vim-crystal](https://github.com/rhysd/vim-crystal) - Vim filetype support for Crystal
    * [vim-slang](https://github.com/isaacsloan/vim-slang) - Vim filetype support for Slang Templating Engine
  * Visual Studio Code
    * [vscode-crystal](https://github.com/g3ortega/vscode-crystal) - Crystal language support in VSCode
-   * [vscode-crystal-ide](https://marketplace.visualstudio.com/items?itemName=goldenpointllc.crystal-ide) Crystal IDE powered by [Language Server Protocol](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol)
+   * [vscode-crystal-ide](https://github.com/kofno/crystal-ide) - Crystal IDE powered by [Language Server Protocol](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol)
 
 ## Shell plugins
  * [crystal-zsh](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugin
