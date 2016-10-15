@@ -221,7 +221,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [crystal-i18n](https://github.com/whity/crystal-i18n) - Internationalization library
  * [daemonize.cr](https://github.com/DougEverly/daemonize.cr) - Crystal process daemonizer
- * [denetmen](https://github.com/izniburak/denetmen) - useful micro validator / check library for Crystal Language.
+ * [denetmen](https://github.com/izniburak/denetmen) - Useful micro validator / check library for Crystal language.
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [executable_path](https://github.com/kostya/executable_path) - Portable current executable's path
