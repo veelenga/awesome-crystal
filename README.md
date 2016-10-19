@@ -239,6 +239,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [promise](https://github.com/jwaldrip/promise-cr) - A Promise Implementation
  * [ramlrenderer](https://github.com/beno/ramlrenderer) - HTLM doc builder for RAML 1.0
  * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
+ * [sentry](https://github.com/samueleaton/sentry) - Watches src files, rebuilds/reruns application on file changes
  * [shell.cr](https://github.com/dmytro/shell.cr) - Small simplistic helper class for executing shell commands
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
