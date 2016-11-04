@@ -10,6 +10,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Api Builders](#api-builders)
   * [Caching](#caching)
   * [Cli Builders](#cli-builders)
+  * [Cli Utils](#cli-utils)
   * [Configuration](#configuration)
   * [Data Generators](#data-generators)
   * [Database Drivers](#database-drivers)
@@ -79,6 +80,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [completion](https://github.com/f/completion) - Easy command line completion engine
  * [docopt](https://github.com/chenkovsky/docopt.cr) - A [docopt.org](http://docopt.org) port
  * [optarg](https://github.com/mosop/optarg) - Yet another library for parsing command-line options and arguments
+
+## Cli Utils
+ * [progress](https://github.com/askn/progress) - [==..] Progress bar
+ * [spinner](https://github.com/askn/spinner) - Terminal Spinner
 
 ## Configuration
  * [ambience](https://github.com/vjdhama/ambience) - Simple app configuration using `ENV`
@@ -235,13 +240,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
  * [metaclass](https://github.com/mosop/metaclass) - A library for manipulating class-level definitions
  * [observable](https://github.com/TPei/observable) - Implementation of the Observer pattern
- * [progress](https://github.com/askn/progress) - [==..] Progress bar
  * [promise](https://github.com/jwaldrip/promise-cr) - A Promise Implementation
  * [ramlrenderer](https://github.com/beno/ramlrenderer) - HTLM doc builder for RAML 1.0
  * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
  * [sentry](https://github.com/samueleaton/sentry) - Watches src files, rebuilds/reruns application on file changes
  * [shell.cr](https://github.com/dmytro/shell.cr) - Small simplistic helper class for executing shell commands
- * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
  * [stumpy_png](https://github.com/l3kn/stumpy_png) - Read access to PNG images
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
