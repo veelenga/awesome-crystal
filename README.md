@@ -84,6 +84,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Cli Utils
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
+ * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
 
 ## Configuration
  * [ambience](https://github.com/vjdhama/ambience) - Simple app configuration using `ENV`
