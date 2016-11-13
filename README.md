@@ -365,6 +365,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [fast-http-server](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server
  * [kamber](https://github.com/f/kamber) - Blog server based on Kemal
  * [prax.cr](https://github.com/ysbaddaden/prax.cr) - Rack proxy server for development
+ * [serve](https://github.com/SuperPaintman/serve) - Command line static HTTP server
 
 # Community
  * [Crystal Shards on Twitter](https://twitter.com/shardscrystal)
