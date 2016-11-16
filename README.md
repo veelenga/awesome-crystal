@@ -138,6 +138,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-ws-todo-app](https://github.com/Angarsk8/kemal-ws-todo-app) - Realtime Todo application developed with Kemal and Websockets
  * [kemal_elm_chat](https://github.com/kofno/kemal_elm_chat) - Simple chat server written with Kemal and Elm
  * [medley](https://github.com/jwoertink/medley) - A mixture of music related methods
+ * [try.cr](https://github.com/maiha/try.cr) - Try monad
  * [xcrystal](https://github.com/exercism/xcrystal) - Exercism exercises
 
 ## Framework Components
@@ -145,6 +146,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cr-melon](https://github.com/gdotdesign/cr-melon) - Class based Http APIs
  * [crouter](https://github.com/jreinert/crouter) - A standalone router
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
+ * [kave](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
  * [kemal-comments](https://github.com/TyanNN/kemal-comments) - Simple comments for Kemal site
  * [kemal-monetdb](https://github.com/puppetpies/kemal-monetdb) - MonetDB Data connection for Kemal
@@ -227,20 +229,21 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [crystal-i18n](https://github.com/whity/crystal-i18n) - Internationalization library
  * [daemonize.cr](https://github.com/DougEverly/daemonize.cr) - Crystal process daemonizer
- * [denetmen](https://github.com/izniburak/denetmen) - Useful micro validator / check library.
+ * [denetmen](https://github.com/izniburak/denetmen) - Useful micro validator / check library
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [executable_path](https://github.com/kostya/executable_path) - Portable current executable's path
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
  * [haikunator](https://github.com/sanata-/haikunator) - Heroku-like random name generator
  * [hoop](https://github.com/hoopcr/hoop) - Building native OSX apps
+ * [hq.cr](https://github.com/maiha/hq.cr) - Simple wrapper for crystal-xml
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [inflector](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
  * [kreal](https://github.com/f/kreal) - Model sharing & RPC library built on and works with Kemal seamlessly
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
  * [metaclass](https://github.com/mosop/metaclass) - A library for manipulating class-level definitions
- * [ms](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format.
+ * [ms](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
  * [observable](https://github.com/TPei/observable) - Implementation of the Observer pattern
  * [promise](https://github.com/jwaldrip/promise-cr) - A Promise Implementation
  * [ramlrenderer](https://github.com/beno/ramlrenderer) - HTLM doc builder for RAML 1.0
@@ -398,6 +401,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [icr](https://github.com/greyblake/crystal-icr) - Interactive console for Crystal (like IRB for Ruby)
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
+ * [torrent](https://github.com/Papierkorb/torrent) - A BitTorrent client
  * [vicr](https://github.com/veelenga/vicr.git) - Vim-like Interactive CRystal
 
 # Tools
