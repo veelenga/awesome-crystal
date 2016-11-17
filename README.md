@@ -231,6 +231,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [daemonize.cr](https://github.com/DougEverly/daemonize.cr) - Crystal process daemonizer
  * [denetmen](https://github.com/izniburak/denetmen) - Useful micro validator / check library
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
+ * [etag](https://github.com/SuperPaintman/etag) - Library to generate HTTP ETags
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [executable_path](https://github.com/kostya/executable_path) - Portable current executable's path
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
