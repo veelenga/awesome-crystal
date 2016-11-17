@@ -405,6 +405,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [vicr](https://github.com/veelenga/vicr.git) - Vim-like Interactive CRystal
 
 # Tools
+ * [crystal-ctags](https://github.com/SuperPaintman/crystal-ctags) - Ctags generator for Crystal
 
 ## DevOps
  * [crystal-cookbook](https://github.com/vjdhama/crystal-cookbook) - Chef cookbook for installing crystal
