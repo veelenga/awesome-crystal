@@ -253,7 +253,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [sentry](https://github.com/samueleaton/sentry) - Watches src files, rebuilds/reruns application on file changes
  * [shell.cr](https://github.com/dmytro/shell.cr) - Small simplistic helper class for executing shell commands
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
- * [stumpy_png](https://github.com/l3kn/stumpy_png) - Read access to PNG images
+ * [stumpy_gif](https://github.com/l3kn/stumpy_gif) - Write (animated) GIF images
+ * [stumpy_png](https://github.com/l3kn/stumpy_png) - Read and write PNG images
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
  * [wire](https://github.com/puppetpies/WIre) - A packet analyzer
 
