@@ -274,7 +274,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [amethyst-model](https://github.com/drujensen/amethyst-model) - ORM Model for the Amethyst Framework
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
- * [selenite-db](https://github.com/xdougx/selenite-db) - a simple persistency-model based library
+ * [selenite-db](https://github.com/xdougx/selenite-db) - A simple persistency-model based library
 
 ## Package Management
  * [shards](https://github.com/ysbaddaden/shards) - Dependency manager for the Crystal
