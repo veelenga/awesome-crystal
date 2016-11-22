@@ -272,7 +272,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
  * [amethyst-model](https://github.com/drujensen/amethyst-model) - ORM Model for the Amethyst Framework
- * [crecto](https://github.com/fridgerator/crecto) - Database wrapper for Crystal, based on Ecto
+ * [crecto](https://github.com/fridgerator/crecto) - Database wrapper, based on Ecto
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
 
