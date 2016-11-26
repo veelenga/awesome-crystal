@@ -276,7 +276,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
  * [selenite-db](https://github.com/xdougx/selenite-db) - A simple persistency-model based library
- * [topaz](https://github.com/tbrand/topaz) - A simple and useful db wrapper for the Crystal.
+ * [topaz](https://github.com/tbrand/topaz) - A simple and useful db wrapper
 
 ## Package Management
  * [shards](https://github.com/ysbaddaden/shards) - Dependency manager for the Crystal
