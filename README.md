@@ -181,6 +181,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Implementations/Compilers
  * [charly](https://github.com/KCreate/charly-lang) - Charly Programming Language
+ * [cppize](https://github.com/unn4m3d/cppize) - Crystal-to-C++ transpiler
  * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
  * [crow](https://github.com/geppetto-apps/crow) - Transpile/compile Crystal to [Flow](https://flowtype.org/)
  * [crystal](https://github.com/crystal-lang/crystal) - Crystal itself is written in Crystal
@@ -188,6 +189,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [onix](https://github.com/ozra/onyx-lang) - ONYX Programming Language
 
 ## Logging and monitoring
+ * [crystal-logreader](https://github.com/arcage/crystal-logreader) - Tailing log file
  * [gelf-crystal](https://github.com/benoist/gelf-crystal) - A GELF logger
  * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
 
