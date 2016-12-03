@@ -176,6 +176,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [http_distributor](https://github.com/Nephos/http_distributor) - HTTP server which allows sneaky http requests
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
  * [multipart.cr](https://github.com/RX14/multipart.cr) - Adds multipart and multipart/form-data support to the crystal standard library
+ * [resp-crystal](https://github.com/soveran/resp-crystal) - Lightweight RESP client
  * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
  * [session](https://github.com/porras/session.git) - Cookie based sessions in Crystal HTTP applications
 
@@ -277,6 +278,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
  * [selenite-db](https://github.com/xdougx/selenite-db) - A simple persistency-model based library
+ * [stal-crystal](https://github.com/soveran/stal-crystal) - Set algebra solver for Redis
  * [topaz](https://github.com/tbrand/topaz) - A simple and useful db wrapper
 
 ## Package Management
