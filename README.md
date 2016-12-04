@@ -107,6 +107,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [influxdb.cr](https://github.com/jeromegn/influxdb.cr) - InfluxDB driver
  * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
  * [rethinkdb-crystal](https://github.com/lbguilherme/rethinkdb-crystal) - RethinkDB Driver
+ * [rocksdb.cr](https://github.com/maiha/rocksdb.cr) - RocksDB client
 
 ## Database Tools
  * [micrate](https://github.com/juanedi/micrate) - Database migration tool
