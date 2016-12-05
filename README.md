@@ -200,6 +200,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crsfml](https://github.com/BlaXpirit/crsfml) - Bindings for [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
  * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
  * [crystal-dbus](https://github.com/BlaXpirit/crystal-dbus) - Bindings to D-Bus
+ * [crystal-gsl](https://github.com/ruivieira/crystal-gsl) - GNU Scientific Library bindings
  * [crystal-libpcap](https://github.com/puppetpies/crystal-libpcap) - Bindings for libpcap
  * [crystal-libtar](https://github.com/puppetpies/crystal-libtar) - Bindings for libtar
  * [crystal_av](https://github.com/kofno/crystal_av) - Bindings to [ClamAV](https://www.clamav.net/) anti-virus
