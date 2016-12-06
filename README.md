@@ -300,6 +300,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Science and Data analysis
  * [chizge](https://github.com/aladagemre/chizge) - A Network (Graph) Analysis library, inspired by [NetworkX](https://github.com/networkx/networkx)
  * [machine](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm
+ * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
  * [stats](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions
 
 ## Search
