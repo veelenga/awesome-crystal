@@ -263,6 +263,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [stumpy_gif](https://github.com/l3kn/stumpy_gif) - Write (animated) GIF images
  * [stumpy_png](https://github.com/l3kn/stumpy_png) - Read and write PNG images
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
+ * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
  * [wire](https://github.com/puppetpies/WIre) - A packet analyzer
 
 ## Networking
