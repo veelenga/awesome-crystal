@@ -90,6 +90,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
  * [crystal-toml](https://github.com/manastech/crystal-toml) - TOML parser
  * [dockerfile.cr](https://github.com/keplersj/dockerfile.cr) - Dockerfile Parsing Library
+ * [zq](https://github.com/colstrom/zq) - Command-line ZPL processor
 
 ## Data Generators
  * [faker](https://github.com/askn/faker) - A library for generating fake data
@@ -293,6 +294,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
  * [fez](https://github.com/jwoertink/fez) - A Kemal application generator
  * [generate](https://github.com/generate-cr/generate) - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
+ * [skaf](https://github.com/elorest/skaf) - Scaffolding for Kemal
 
 ## Queue
  * [crystal-resque-client](https://github.com/pine/crystal-resque-client) - Simple Resque queue client
