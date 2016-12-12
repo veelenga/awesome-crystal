@@ -256,6 +256,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ms](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
  * [observable](https://github.com/TPei/observable) - Implementation of the Observer pattern
  * [promise](https://github.com/jwaldrip/promise-cr) - A Promise Implementation
+ * [quartz](https://github.com/andrewhamon/quartz) - Simple timer library
  * [ramlrenderer](https://github.com/beno/ramlrenderer) - HTLM doc builder for RAML 1.0
  * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
  * [sentry](https://github.com/samueleaton/sentry) - Watches src files, rebuilds/reruns application on file changes
