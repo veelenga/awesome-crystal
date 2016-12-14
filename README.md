@@ -300,6 +300,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Queue
  * [crystal-resque-client](https://github.com/pine/crystal-resque-client) - Simple Resque queue client
+ * [dispatch](https://github.com/bmulvihill/dispatch) - In memory asynchronous job processing
  * [disque-cr](https://github.com/foca/disque-cr) - Client for [Disque](https://github.com/antirez/disque) queueing system
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
