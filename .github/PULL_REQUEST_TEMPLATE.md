@@ -1,8 +1,10 @@
-Ensure that your change covers the following:
+[ENTRY_NAME](LINK_TO_RESOURCE)
+
+Added to **SECTION_NAME** section
 
 - [ ] Tests pass (`crystal spec`)
-- [ ] Description of a new entry is clear and concise.
-    Excessive information like
+- [ ] Description of the entry is clear and concise.
+    There is no excessive information like
     **"... for Crystal programming language"**,
     **"... for Crystal"**,
-    **"... written in Crystal"** etc. is ommited if possible
+    **"... written in Crystal"** etc.
