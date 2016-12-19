@@ -115,6 +115,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Email
  * [CrystalEmail](https://github.com/Nephos/CrystalEmail) - A RFC compliant Email validator
+ * [sendgrid.cr](https://github.com/dlanileonardo/sendgrid.cr) - Simple Sendgrid Client
  * [smtp.cr](https://github.com/raydf/smtp.cr) - Email SMTP client
 
 ## Environment Management
