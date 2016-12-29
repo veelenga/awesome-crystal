@@ -223,6 +223,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [snappy-crystal](https://github.com/benoist/snappy-crystal) - Bindings for Snappy library
  * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
+ * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter)
  * [zeromq-crystal](https://github.com/benoist/zeromq-crystal) - Bindings for ZeroMQ
  * [zlib.cr](https://github.com/datanoise/zlib.cr) - Bindings for ZLib library
 
