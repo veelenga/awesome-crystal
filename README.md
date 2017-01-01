@@ -203,6 +203,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
  * [crystal-dbus](https://github.com/BlaXpirit/crystal-dbus) - Bindings to D-Bus
  * [crystal-gsl](https://github.com/ruivieira/crystal-gsl) - GNU Scientific Library bindings
+ * [crystal-liblmdb](https://github.com/timuckun/crystal-liblmdb) - Bindings for the Symas LMDB database
  * [crystal-libpcap](https://github.com/puppetpies/crystal-libpcap) - Bindings for libpcap
  * [crystal-libtar](https://github.com/puppetpies/crystal-libtar) - Bindings for libtar
  * [crystal_av](https://github.com/kofno/crystal_av) - Bindings to [ClamAV](https://www.clamav.net/) anti-virus
