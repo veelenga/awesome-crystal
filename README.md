@@ -214,6 +214,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [libmagic-crystal](https://github.com/pablotron/libmagic-crystal) - Bindings for libmagic
  * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
  * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui](https://github.com/andlabs/libui)
+ * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) - Bindings for [MagickWand](https://www.imagemagick.org/script/magick-wand.php), the C interface for ImageMagick processing libraries
  * [myhtml](https://github.com/kostya/myhtml) - Bindings for [lexborisov/myhtml](https://github.com/lexborisov/myhtml)
  * [nanomsg.cr](https://github.com/chenkovsky/nanomsg.cr) - Bindings for nanomsg
  * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
