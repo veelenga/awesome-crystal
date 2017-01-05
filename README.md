@@ -371,6 +371,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [openweather.cr](https://github.com/lucasocon/openweather.cr) - A wrapper for the Openweather API
  * [pullword](https://github.com/googya/pullword) - A package to use [pullword](http://pullword.com/)
  * [shorturl.cr](https://github.com/veelenga/shorturl.cr) - A library to use URL shortening services
+ * [slack.cr](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library
  * [soundcloud-crystal](https://github.com/sferik/soundcloud-crystal) - A library to access the SoundCloud API
  * [spotify.cr](https://github.com/marceloboeira/spotify.cr) - A library to access the Spotify API
  * [TelegramBot](https://github.com/hangyas/TelegramBot) - A wrapper for the Telegram Bot API
