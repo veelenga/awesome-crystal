@@ -208,6 +208,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-libpcap](https://github.com/puppetpies/crystal-libpcap) - Bindings for libpcap
  * [crystal-libtar](https://github.com/puppetpies/crystal-libtar) - Bindings for libtar
  * [crystal_av](https://github.com/kofno/crystal_av) - Bindings to [ClamAV](https://www.clamav.net/) anti-virus
+ * [curl-crystal](https://github.com/blocknotes/curl-crystal) - Bindings for [libcurl](https://curl.haxx.se/libcurl/)
  * [curses](https://github.com/ruivieira/curses) - Bindings for the curses library
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
