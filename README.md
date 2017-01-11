@@ -225,8 +225,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [pcap.cr](https://github.com/maiha/pcap.cr) - Bindings for libpcap
  * [posix](https://github.com/ysbaddaden/posix) - POSIX/C bindings
  * [serialport.cr](https://github.com/Sija/serialport.cr) - Bindings for [libserialport](http://sigrok.org/wiki/Libserialport) library
- * [soundfile](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
  * [snappy-crystal](https://github.com/benoist/snappy-crystal) - Bindings for Snappy library
+ * [soundfile](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
  * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter)
