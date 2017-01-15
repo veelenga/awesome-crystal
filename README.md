@@ -65,6 +65,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Api Builders
  * [crystal_api](https://github.com/akwiatkowski/crystal_api) - Simple PostgreSQL REST API with Rails devise-like auth
+ * [kemal-rest-api](https://github.com/blocknotes/kemal-rest-api) - A library to create RESTful API with Kemal
 
 ## Caching
  * [Bloom Filter](https://github.com/greyblake/crystal-bloom_filter) - Implementation of Bloom filter
