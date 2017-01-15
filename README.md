@@ -396,6 +396,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal](https://github.com/sdogruyol/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [kemalyst](https://github.com/drujensen/kemalyst) - A rails like framework based on kemal
  * [moonshine](https://github.com/dhruvrajvanshi/Moonshine) - A minimal web framework
+ * [mustafa](https://github.com/guvencenanguvenal/mustafa) - Simple MVC framework
 
 ## Web Servers
  * [fast-http-server](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server
