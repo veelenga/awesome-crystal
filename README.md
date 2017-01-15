@@ -157,6 +157,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-pg](https://github.com/sdogruyol/kemal-pg) - Easily add Postgresql database to Kemal
  * [kemal-redis](https://github.com/sdogruyol/kemal-redis) - Easily add Redis to Kemal
  * [kemal-session](https://github.com/Thyra/kemal-session) - Session handler for Kemal
+ * [kemalyst-i18n](https://github.com/TechMagister/kemalyst-i18n) - i18n support for Kemalyst
  * [response_time](https://github.com/SuperPaintman/response-time) - Response time for Crystal servers (pure http server, kemal, etc.)
  * [spec-kemal](https://github.com/sdogruyol/spec-kemal) - Easy testing for Kemal
  * [toro](https://github.com/soveran/toro) - Tree Oriented Routing
@@ -291,8 +292,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
- * [amethyst-model](https://github.com/drujensen/amethyst-model) - ORM Model for the Amethyst Framework
  * [crecto](https://github.com/fridgerator/crecto) - Database wrapper, based on Ecto
+ * [kemalyst-model](https://github.com/drujensen/kemalyst-model) - ORM Model for the Kemalyst Framework
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
  * [selenite-db](https://github.com/xdougx/selenite-db) - A simple persistency-model based library
@@ -307,6 +308,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
  * [fez](https://github.com/jwoertink/fez) - A Kemal application generator
  * [generate](https://github.com/generate-cr/generate) - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
+ * [kgen](https://github.com/TechMagister/kemalyst-generator) - Kemalyst command line tool for console, init, generate (scaffolding), and watch.
  * [skaf](https://github.com/elorest/skaf) - Scaffolding for Kemal
 
 ## Queue
@@ -395,7 +397,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [frost](https://github.com/ysbaddaden/frost) - Full featured MVC Web Framework, largely inspired by Ruby on Rails
  * [iceberg](https://github.com/adlerhsieh/iceberg) - A full-stack web framework
  * [kemal](https://github.com/sdogruyol/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
- * [kemalyst](https://github.com/drujensen/kemalyst) - A rails like framework based on kemal
+ * [kemalyst](https://github.com/drujensen/kemalyst) - A Rails like framework inspired by Kemal but includes the kitchen sink
  * [moonshine](https://github.com/dhruvrajvanshi/Moonshine) - A minimal web framework
  * [mustafa](https://github.com/guvencenanguvenal/mustafa) - Simple MVC framework
 
