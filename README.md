@@ -120,6 +120,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [smtp.cr](https://github.com/raydf/smtp.cr) - Email SMTP client
 
 ## Environment Management
+ * [asdf-crystal](https://github.com/marciogm/asdf-crystal) - Plugin for asdf version manager
  * [crenv](https://github.com/pine/crenv) - Crystal version manager
  * [rcm.cr](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
 
