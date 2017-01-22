@@ -266,6 +266,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [inflector](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
  * [kreal](https://github.com/f/kreal) - Model sharing & RPC library built on and works with Kemal seamlessly
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
+ * [manual-generator](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
  * [metaclass](https://github.com/mosop/metaclass) - A library for manipulating class-level definitions
  * [ms](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
  * [observable](https://github.com/TPei/observable) - Implementation of the Observer pattern
