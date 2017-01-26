@@ -268,8 +268,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [lambda.cr](https://github.com/f/lambda.cr) - Uniformed function call syntax
  * [manual-generator](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
  * [metaclass](https://github.com/mosop/metaclass) - A library for manipulating class-level definitions
- * [ms](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
  * [moola](https://github.com/dorkrawk/moola) - Library for dealing with money and conversion (inspired by [RubyMoney](https://github.com/RubyMoney/money))
+ * [ms](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
  * [observable](https://github.com/TPei/observable) - Implementation of the Observer pattern
  * [promise](https://github.com/jwaldrip/promise-cr) - A Promise Implementation
  * [quartz](https://github.com/andrewhamon/quartz) - Simple timer library
