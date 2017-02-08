@@ -161,6 +161,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-session](https://github.com/Thyra/kemal-session) - Session handler for Kemal
  * [kemalyst-i18n](https://github.com/TechMagister/kemalyst-i18n) - i18n support for Kemalyst
  * [mime-types.cr](https://github.com/jwaldrip/mime-types.cr) - A port of the Ruby MIME-types library
+ * [request-id](https://github.com/SuperPaintman/request-id) - Middleware for generates / pick up a unique request ID for Crystal servers
  * [response_time](https://github.com/SuperPaintman/response-time) - Response time for Crystal servers (pure http server, kemal, etc.)
  * [spec-kemal](https://github.com/sdogruyol/spec-kemal) - Easy testing for Kemal
  * [toro](https://github.com/soveran/toro) - Tree Oriented Routing
