@@ -154,6 +154,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kave](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
  * [kemal-comments](https://github.com/TyanNN/kemal-comments) - Simple comments for Kemal site
+ * [kemal-flash](https://github.com/neovintage/kemal-flash) - Temporary storage between actions in Kemal
  * [kemal-monetdb](https://github.com/puppetpies/kemal-monetdb) - MonetDB Data connection for Kemal
  * [kemal-mysql](https://github.com/sdogruyol/kemal-mysql) - Easily add MySQL database to Kemal
  * [kemal-pg](https://github.com/sdogruyol/kemal-pg) - Easily add Postgresql database to Kemal
