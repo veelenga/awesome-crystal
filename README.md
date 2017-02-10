@@ -201,6 +201,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [onix](https://github.com/ozra/onyx-lang) - ONYX Programming Language
 
 ## Logging and monitoring
+ * [crometheus](https://gitlab.com/ezrast/crometheus) - A [Prometheus](https://prometheus.io/) client library
  * [crystal-logreader](https://github.com/arcage/crystal-logreader) - Tailing log file
  * [gelf-crystal](https://github.com/benoist/gelf-crystal) - A GELF logger
  * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
