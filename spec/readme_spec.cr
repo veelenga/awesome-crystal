@@ -21,9 +21,18 @@ describe "List of Crystal Awesomeness" do
     end
   end
 
+  it "has references in 'https://gitlab.com/path' format" do
+    readme.get_refs(/gitlab\.com/).each do |ref|
+      uri = URI.parse(ref)
+      uri.scheme.should eq "https"
+      uri.host.should eq "gitlab.com"
+      uri.path.should_not be nil
+    end
+  end
+
   it "hasn't duplicated references" do
     prev = nil
-    readme.get_refs(/github\.com/).map do |ref|
+    readme.get_refs(/git(?:hub|lab)\.com/).map do |ref|
       uri = URI.parse(ref)
       host = uri.host.as String
       path = uri.path.as String | Nil
