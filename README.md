@@ -262,7 +262,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [executable_path](https://github.com/kostya/executable_path) - Portable current executable's path
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
- * [haikunator](https://github.com/sanata-/haikunator) - Heroku-like random name generator
+ * [haikunator](https://github.com/osfx/haikunator) - Heroku-like random name generator
  * [hoop](https://github.com/hoopcr/hoop) - Building native OSX apps
  * [hq.cr](https://github.com/maiha/hq.cr) - Simple wrapper for crystal-xml
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
@@ -386,6 +386,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [gravatar.cr](https://github.com/fg/gravatar.cr.git) - A library to use Gravatar service
  * [hncr](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper
  * [nexmo-crystal](https://github.com/timcraft/nexmo-crystal) - [Nexmo REST API](https://docs.nexmo.com/) client
+ * [ocean_kit](https://github.com/osfx/ocean_kit) - [Digital Ocean v2 API](https://developers.digitalocean.com/documentation/v2) client
  * [open_exchange_rates](https://github.com/osfx/open_exchange_rates) - A library to access [Open Exchange Rates](https://openexchangerates.org/) API
  * [openweather.cr](https://github.com/lucasocon/openweather.cr) - A wrapper for the Openweather API
  * [pullword](https://github.com/googya/pullword) - A package to use [pullword](http://pullword.com/)
