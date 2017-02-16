@@ -142,6 +142,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-ws-react-pg-todo-app](https://github.com/Angarsk8/kemal-ws-react-pg-todo-app) - Realtime Todo application developed with Kemal, Websockets, React, ES2015 and PostgreSQL
  * [kemal-ws-todo-app](https://github.com/Angarsk8/kemal-ws-todo-app) - Realtime Todo application developed with Kemal and Websockets
  * [kemal_elm_chat](https://github.com/kofno/kemal_elm_chat) - Simple chat server written with Kemal and Elm
+ * [lattice-core-card-game](https://github.com/jasonl99/card_game) - A demo web app for (WebSocket-based) lattice-core
  * [medley](https://github.com/jwoertink/medley) - A mixture of music related methods
  * [try.cr](https://github.com/maiha/try.cr) - Try monad
  * [xcrystal](https://github.com/exercism/xcrystal) - Exercism exercises
@@ -411,6 +412,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [iceberg](https://github.com/adlerhsieh/iceberg) - A full-stack web framework
  * [kemal](https://github.com/sdogruyol/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [kemalyst](https://github.com/drujensen/kemalyst) - A Rails like framework inspired by Kemal but includes the kitchen sink
+ * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
  * [moonshine](https://github.com/dhruvrajvanshi/Moonshine) - A minimal web framework
  * [mustafa](https://github.com/guvencenanguvenal/mustafa) - Simple MVC framework
 
