@@ -245,6 +245,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Misc
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
  * [accord](https://github.com/neovintage/accord) - Sharable validations for Crystal objects
+ * [any_hash.cr](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
  * [chalk-box](https://github.com/azukiapp/crystal-chalk-box) - Terminal color toolbox, check support and colorized (without String monkey patch)
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
  * [clamd.cr](https://github.com/RX14/clamd.cr) - Client for the clamd antivirus server
