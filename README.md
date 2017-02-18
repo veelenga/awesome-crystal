@@ -441,6 +441,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Official Documentation Translations
  * [br.crystal-lang.org](http://br.crystal-lang.org/) - Brazilian
  * [ja.crystal-lang.org](http://ja.crystal-lang.org/) - Japanese
+ * [kr.crystal-lang.org](https://kr.crystal-lang.org/) - Korean
  * [ru.crystal-lang.org](http://ru.crystal-lang.org/) - Russian
  * [tw.crystal-lang.org](http://tw.crystal-lang.org/) - Chinese Traditional
 
