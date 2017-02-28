@@ -394,6 +394,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [open_exchange_rates](https://github.com/osfx/open_exchange_rates) - A library to access [Open Exchange Rates](https://openexchangerates.org/) API
  * [openweather.cr](https://github.com/lucasocon/openweather.cr) - A wrapper for the Openweather API
  * [pullword](https://github.com/googya/pullword) - A package to use [pullword](http://pullword.com/)
+ * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry](https://github.com/getsentry/sentry)
  * [shorturl.cr](https://github.com/veelenga/shorturl.cr) - A library to use URL shortening services
  * [slack.cr](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library
  * [soundcloud-crystal](https://github.com/sferik/soundcloud-crystal) - A library to access the SoundCloud API
