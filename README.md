@@ -52,6 +52,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [aho_corasick](https://github.com/chenkovsky/aho_corasick) - AhoCorasick algorithm
  * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
  * [crystaledge](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
+ * [crystalg](https://github.com/TobiasGSmollett/crystalg) - A Generic Algorithm Library
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
  * [delimiter_tree](https://github.com/drujensen/delimiter_tree) - A tree structure that is built using a delimiter
  * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
