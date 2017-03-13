@@ -108,6 +108,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
  * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
  * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
+ * [eventql-crystal](https://github.com/measurechina/eventql-crystal) - EventQL driver
  * [influxdb.cr](https://github.com/jeromegn/influxdb.cr) - InfluxDB driver
  * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
  * [rethinkdb-crystal](https://github.com/lbguilherme/rethinkdb-crystal) - RethinkDB Driver
