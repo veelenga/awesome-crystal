@@ -201,6 +201,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [csmli](https://github.com/david50407/csmli) - Mini-Lisp interpreter
  * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - An OS written in Crystal as a Proof of Concept
  * [onix](https://github.com/ozra/onyx-lang) - ONYX Programming Language
+ * [zir](https://github.com/tbrand/zir) - Realizes to write macros in any scripts into any languages
 
 ## Logging and monitoring
  * [crometheus](https://gitlab.com/ezrast/crometheus) - A [Prometheus](https://prometheus.io/) client library
