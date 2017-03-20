@@ -310,6 +310,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
  * [crecto](https://github.com/fridgerator/crecto) - Database wrapper, based on Ecto
+ * [jennifer](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [kemalyst-model](https://github.com/drujensen/kemalyst-model) - ORM Model for the Kemalyst Framework
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
@@ -341,6 +342,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [stats](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions
 
 ## Search
+ * [hermes](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
  * [query-builder](https://github.com/izniburak/query-builder) - Sql Query Builder library
  * [query.cr](https://github.com/waterlink/query.cr) - Query abstraction
  * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
@@ -348,6 +350,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Task management
  * [crake](https://github.com/MakeNowJust/crake) - Rake-like build utility library. It is just a library, so it does not provide CLI
  * [lake](https://github.com/adlerhsieh/lake) - Rake-like task management for Crystal programs
+ * [sam](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system.
 
 ## Template Engine
  * [Bunny](https://github.com/samsheff/Bunny) - A simple HTML templating language for Crystal, same syntax as erb
