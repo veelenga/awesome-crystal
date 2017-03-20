@@ -184,6 +184,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-cossack](https://github.com/greyblake/crystal-cossack) - Simple flexible HTTP client
  * [crystal-routing](https://github.com/bcardiff/crystal-routing) - Extensible library to deal with http request and string based routing
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
+ * [http-protection](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
  * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
  * [http_distributor](https://github.com/Nephos/http_distributor) - HTTP server which allows sneaky http requests
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
