@@ -24,6 +24,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Implementations/Compilers](#implementationscompilers)
   * [Logging and monitoring](#logging-and-monitoring)
   * [Low level bindings](#low-level-bindings)
+  * [Markdown/Text Processors](#markdowntext-processors)
   * [Misc](#misc)
   * [Networking](#networking)
   * [ORM/ODM Extensions](#ormodm-extensions)
@@ -245,6 +246,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter)
  * [zeromq-crystal](https://github.com/benoist/zeromq-crystal) - Bindings for ZeroMQ
  * [zlib.cr](https://github.com/datanoise/zlib.cr) - Bindings for ZLib library
+
+## Markdown/Text Processors
+ * [html-pipeline](https://github.com/huacnlee/html-pipeline) - HTML processing filters and utilities
+ * [remarkdown](https://github.com/huacnlee/remarkdown) - GFM for Crystal
 
 ## Misc
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
