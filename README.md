@@ -350,7 +350,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Task management
  * [crake](https://github.com/MakeNowJust/crake) - Rake-like build utility library. It is just a library, so it does not provide CLI
  * [lake](https://github.com/adlerhsieh/lake) - Rake-like task management for Crystal programs
- * [sam](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system.
+ * [sam](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## Template Engine
  * [Bunny](https://github.com/samsheff/Bunny) - A simple HTML templating language for Crystal, same syntax as erb
