@@ -170,6 +170,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [toro](https://github.com/soveran/toro) - Tree Oriented Routing
 
 ## Game Development
+ * [CrSFML](https://github.com/oprypin/crsfml) - Bindings to [SFML](http://www.sfml-dev.org/) multimedia/game library
  * [crystal-chipmunk](https://github.com/BlaXpirit/crystal-chipmunk) - Bindings for [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
  * [flight-crusader](https://github.com/umurgdk/flight-crusader) - POC top down flight game
  * [glove](https://github.com/ddfreyne/glove) - A library for gaming development
@@ -212,7 +213,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Low level bindings
  * [C14N](https://github.com/vonKingsley/C14N) - Bindings for C14N (libxml2)
- * [crsfml](https://github.com/BlaXpirit/crsfml) - Bindings for [Simple and Fast Multimedia Library](http://www.sfml-dev.org/) (through CSFML)
  * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
  * [crystal-dbus](https://github.com/BlaXpirit/crystal-dbus) - Bindings to D-Bus
  * [crystal-gsl](https://github.com/ruivieira/crystal-gsl) - GNU Scientific Library bindings
