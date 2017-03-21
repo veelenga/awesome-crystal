@@ -24,6 +24,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Implementations/Compilers](#implementationscompilers)
   * [Logging and monitoring](#logging-and-monitoring)
   * [Low level bindings](#low-level-bindings)
+  * [Markdown/Text Processors](#markdown-text-processors)
   * [Misc](#misc)
   * [Networking](#networking)
   * [ORM/ODM Extensions](#ormodm-extensions)
@@ -245,6 +246,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter)
  * [zeromq-crystal](https://github.com/benoist/zeromq-crystal) - Bindings for ZeroMQ
  * [zlib.cr](https://github.com/datanoise/zlib.cr) - Bindings for ZLib library
+
+## Markdown/Text Processors
+
+ * [HTML::Pipeline](https://github.com/huacnlee/html-pipeline) - HTML processing filters and utilities for Crystal.
+ * [Markdown](https://crystal-lang.org/api/latest/Markdown.html) - Markdown library parses Markdown text in Crystal Stdlib.
+ * [Remarkdown](https://github.com/huacnlee/remarkdown) - This is extends of Markdown lib from Crystal Stdlib for Support Markdown GFM.
 
 ## Misc
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
