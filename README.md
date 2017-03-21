@@ -481,6 +481,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
    * [crystal-spacemacs-layer](https://github.com/juanedi/crystal-spacemacs-layer) - Spacemacs contribution layer for Crystal
  * Sublime
    * [sublime-crystal](https://github.com/crystal-lang/sublime-crystal) - Crystal syntax highlighting for sublime Text
+ * TextMate
+   * [Crystal.tmbundle](https://github.com/huacnlee/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets
  * Vim
    * [vim-crystal](https://github.com/rhysd/vim-crystal) - Vim filetype support for Crystal
    * [vim-slang](https://github.com/isaacsloan/vim-slang) - Vim filetype support for Slang Templating Engine
