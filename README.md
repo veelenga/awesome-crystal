@@ -193,6 +193,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [multipart.cr](https://github.com/RX14/multipart.cr) - Adds multipart and multipart/form-data support to the crystal standard library
  * [resp-crystal](https://github.com/soveran/resp-crystal) - Lightweight RESP client
  * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
+ * [route.cr](https://github.com/tbrand/route.cr) - Minimum but powerful http router for HTTP::Server
  * [session](https://github.com/porras/session.git) - Cookie based sessions in Crystal HTTP applications
 
 ## Implementations/Compilers
