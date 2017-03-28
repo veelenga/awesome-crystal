@@ -15,6 +15,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Data Generators](#data-generators)
   * [Database Drivers](#database-drivers)
   * [Database Tools](#database-tools)
+  * [Development Tools](#development-tools)
   * [Email](#email)
   * [Environment Management](#environment-management)
   * [Examples and funny stuff](#examples-and-funny-stuff)
@@ -117,6 +118,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Database Tools
  * [micrate](https://github.com/juanedi/micrate) - Database migration tool
+
+## Development Tools
+ * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
+ * [sentry](https://github.com/samueleaton/sentry) - Watches src files, rebuilds/reruns application on file changes
 
 ## Email
  * [CrystalEmail](https://github.com/Nephos/CrystalEmail) - A RFC compliant Email validator
@@ -273,7 +278,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [etag](https://github.com/SuperPaintman/etag) - Library to generate HTTP ETags
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [executable_path](https://github.com/kostya/executable_path) - Portable current executable's path
- * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
  * [haikunator](https://github.com/osfx/haikunator) - Heroku-like random name generator
  * [hoop](https://github.com/hoopcr/hoop) - Building native OSX apps
  * [hq.cr](https://github.com/maiha/hq.cr) - Simple wrapper for crystal-xml
@@ -292,7 +296,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [quartz](https://github.com/andrewhamon/quartz) - Simple timer library
  * [ramlrenderer](https://github.com/beno/ramlrenderer) - HTLM doc builder for RAML 1.0
  * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
- * [sentry](https://github.com/samueleaton/sentry) - Watches src files, rebuilds/reruns application on file changes
  * [shell.cr](https://github.com/dmytro/shell.cr) - Small simplistic helper class for executing shell commands
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
  * [stumpy_gif](https://github.com/l3kn/stumpy_gif) - Write (animated) GIF images
