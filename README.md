@@ -121,7 +121,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Development Tools
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
+ * [kemal-watcher](https://github.com/faustinoaq/kemal-watcher) - Kemal plugin to watch files and live-reload the browser
  * [sentry](https://github.com/samueleaton/sentry) - Watches src files, rebuilds/reruns application on file changes
+ * [sentry-run](https://github.com/faustinoaq/sentry-run) - Reload code changes using Sentry.run
+ * [watchbird](https://github.com/agatan/watchbird) - Monitors directories and files, runs tasks automatically
+ * [watcher](https://github.com/faustinoaq/watcher) - Watch file changes using File.stat
 
 ## Email
  * [CrystalEmail](https://github.com/Nephos/CrystalEmail) - A RFC compliant Email validator
@@ -141,6 +145,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal_samples](https://github.com/tbpgr/crystal_samples) - Variety of Crystal samples
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
  * [docker-kemal](https://github.com/ianblenke/docker-kemal) - An example Dockerized Crystal Kemal project
+ * [fast_sleep](https://github.com/asterite/fast_sleep) - Blazing fast (funny) implementation of sleep for Crystal
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - Build realtime applications with Kemal and WebSocket
  * [kemal-monetdb-test](https://github.com/puppetpies/kemal-monetdb-test) - MonetDB Kemal test project
  * [kemal-pg-sample](https://github.com/sdogruyol/kemal-pg-sample) - Sample app to demonstrate kemal + postgresql usage
