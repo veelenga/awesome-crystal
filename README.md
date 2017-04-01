@@ -172,7 +172,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-monetdb](https://github.com/puppetpies/kemal-monetdb) - MonetDB Data connection for Kemal
  * [kemal-mysql](https://github.com/sdogruyol/kemal-mysql) - Easily add MySQL database to Kemal
  * [kemal-redis](https://github.com/sdogruyol/kemal-redis) - Easily add Redis to Kemal
- * [kemal-session](https://github.com/Thyra/kemal-session) - Session handler for Kemal
+ * [kemal-session](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
  * [kemalyst-i18n](https://github.com/TechMagister/kemalyst-i18n) - i18n support for Kemalyst
  * [mime-types.cr](https://github.com/jwaldrip/mime-types.cr) - A port of the Ruby MIME-types library
  * [request_id](https://github.com/SuperPaintman/request-id) - Middleware for generates / pick up a unique request ID for Crystal servers
