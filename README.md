@@ -443,7 +443,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal](https://github.com/sdogruyol/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [kemalyst](https://github.com/drujensen/kemalyst) - A Rails like framework inspired by Kemal but includes the kitchen sink
  * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
- * [moonshine](https://github.com/dhruvrajvanshi/Moonshine) - A minimal web framework
  * [mustafa](https://github.com/guvencenanguvenal/mustafa) - Simple MVC framework
 
 ## Web Servers
