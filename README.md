@@ -279,6 +279,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [crystal-i18n](https://github.com/whity/crystal-i18n) - Internationalization library
+ * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
  * [daemonize.cr](https://github.com/DougEverly/daemonize.cr) - Crystal process daemonizer
  * [denetmen](https://github.com/izniburak/denetmen) - Useful micro validator / check library
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
