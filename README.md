@@ -32,6 +32,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Package Management](#package-management)
   * [Project generators](#project-generators)
   * [Queue](#queue)
+  * [Routing](#routing)
   * [Science and Data analysis](#science-and-data-analysis)
   * [Search](#search)
   * [Task management](#task-management)
@@ -164,7 +165,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Framework Components
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL (abusing macros)
  * [cr-melon](https://github.com/gdotdesign/cr-melon) - Class based Http APIs
- * [crouter](https://github.com/jreinert/crouter) - A standalone router
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [kave](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
@@ -179,7 +179,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [request_id](https://github.com/SuperPaintman/request-id) - Middleware for generates / pick up a unique request ID for Crystal servers
  * [response_time](https://github.com/SuperPaintman/response-time) - Response time for Crystal servers (pure http server, kemal, etc.)
  * [spec-kemal](https://github.com/sdogruyol/spec-kemal) - Easy testing for Kemal
- * [toro](https://github.com/soveran/toro) - Tree Oriented Routing
 
 ## Game Development
  * [CrSFML](https://github.com/oprypin/crsfml) - Bindings to [SFML](http://www.sfml-dev.org/) multimedia/game library
@@ -191,11 +190,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [mos_game](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game
 
 ## HTTP
- * [beryl](https://github.com/luislavena/beryl) - Action-focused HTTP routing library
  * [crul](https://github.com/porras/crul) - Command line HTTP client
  * [cryload](https://github.com/Sdogruyol/cryload) - HTTP benchmarking tool
  * [crystal-cossack](https://github.com/greyblake/crystal-cossack) - Simple flexible HTTP client
- * [crystal-routing](https://github.com/bcardiff/crystal-routing) - Extensible library to deal with http request and string based routing
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
  * [http-protection](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
  * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
@@ -204,8 +201,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [keyer_cr](https://github.com/danielpclark/keyer_cr) - Adds HTTP GET/POST parameter parsing as a Hash-like object
  * [multipart.cr](https://github.com/RX14/multipart.cr) - Adds multipart and multipart/form-data support to the crystal standard library
  * [resp-crystal](https://github.com/soveran/resp-crystal) - Lightweight RESP client
- * [route.cr](https://github.com/tbrand/route.cr) - Minimum but powerful http router for HTTP::Server
- * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
  * [session](https://github.com/porras/session.git) - Cookie based sessions in Crystal HTTP applications
 
 ## Implementations/Compilers
@@ -352,6 +347,14 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [dispatch](https://github.com/bmulvihill/dispatch) - In memory asynchronous job processing
  * [disque-cr](https://github.com/foca/disque-cr) - Client for [Disque](https://github.com/antirez/disque) queueing system
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+
+## Routing
+ * [beryl](https://github.com/luislavena/beryl) - Action-focused HTTP routing library
+ * [crouter](https://github.com/jreinert/crouter) - A standalone router
+ * [crystal-routing](https://github.com/bcardiff/crystal-routing) - Extensible library to deal with http request and string based routing
+ * [route.cr](https://github.com/tbrand/route.cr) - Minimum but powerful http router for HTTP::Server
+ * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
+ * [toro](https://github.com/soveran/toro) - Tree Oriented Routing
 
 ## Science and Data analysis
  * [chizge](https://github.com/aladagemre/chizge) - A Network (Graph) Analysis library, inspired by [NetworkX](https://github.com/networkx/networkx)
