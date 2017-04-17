@@ -464,6 +464,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Reddit](https://www.reddit.com/r/crystal_programming)
  * [Slack Group](http://crystal.pine.moe/en/)
  * [Stackoverflow](http://stackoverflow.com/tags/crystal-lang/info)
+ * [Slack Group](http://crystal.pine.moe/en/)
 
 # Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - free book to bootstrap your Crystal journey
