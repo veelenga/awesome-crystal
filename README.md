@@ -491,6 +491,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 # Tools
  * [crystal-ctags](https://github.com/SuperPaintman/crystal-ctags) - Ctags generator for Crystal
+ * [crystal-dash-docset](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
 
 ## DevOps
  * [crystal-cookbook](https://github.com/vjdhama/crystal-cookbook) - Chef cookbook for installing crystal
