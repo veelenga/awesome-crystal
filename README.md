@@ -438,6 +438,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Web Frameworks
  * [amatista](https://github.com/werner/amatista) - A web framework to create quick applications
+ * [amber](https://github.com/Amber-Crystal/amber) - Open source efficient and cohesive web application framework
  * [amethyst](https://github.com/Codcore/Amethyst) - A Rails inspired web-framework
  * [carbon-crystal](https://github.com/benoist/carbon-crystal) - A framework with Rails in mind
  * [chocolate](https://github.com/Grabli66/chocolate) - Simple web framework and template engine
@@ -479,7 +480,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 # Services and Apps
  * [carc.in](https://carc.in/) - A web service that runs your code and displays the result
  * [Crank](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
- * [crystal-docs](https://crystal-docs.org) - A service for hosting Crystal Shard documentation
  * [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [fikri](https://github.com/askn/fikri) - Simple CLI To-Do App
