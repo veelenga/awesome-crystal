@@ -159,6 +159,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal_elm_chat](https://github.com/kofno/kemal_elm_chat) - Simple chat server written with Kemal and Elm
  * [lattice-core-card-game](https://github.com/jasonl99/card_game) - A demo web app for (WebSocket-based) lattice-core
  * [medley](https://github.com/jwoertink/medley) - A mixture of music related methods
+ * [os-crystal](https://github.com/lbguilherme/os-crystal) - x86 Kernel implemented in Crystal
+ * [rocky](https://github.com/codingphasedotcom/rocky) - React Over Crystal Kemal and Yarn
  * [try.cr](https://github.com/maiha/try.cr) - Try monad
  * [xcrystal](https://github.com/exercism/xcrystal) - Exercism exercises
 
