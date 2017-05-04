@@ -342,6 +342,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [generate](https://github.com/generate-cr/generate) - A tool for generating whole Crystal project structure, or any part of it during lifetime of project
  * [kgen](https://github.com/TechMagister/kemalyst-generator) - Kemalyst command line tool for console, init, generate (scaffolding), and watch.
  * [skaf](https://github.com/elorest/skaf) - Scaffolding for Kemal
+ * [wasp](https://github.com/icyleaf/wasp) - Static Site Generator
 
 ## Queue
  * [crystal-resque-client](https://github.com/pine/crystal-resque-client) - Simple Resque queue client
