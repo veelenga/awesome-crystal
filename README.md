@@ -297,6 +297,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [metaclass](https://github.com/mosop/metaclass) - A library for manipulating class-level definitions
  * [moola](https://github.com/dorkrawk/moola) - Library for dealing with money and conversion (inspired by [RubyMoney](https://github.com/RubyMoney/money))
  * [ms](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
+ * [neph](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
  * [observable](https://github.com/TPei/observable) - Implementation of the Observer pattern
  * [promise](https://github.com/jwaldrip/promise-cr) - A Promise Implementation
  * [quartz](https://github.com/andrewhamon/quartz) - Simple timer library
