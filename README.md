@@ -220,6 +220,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crometheus](https://gitlab.com/ezrast/crometheus) - A [Prometheus](https://prometheus.io/) client library
  * [crystal-logreader](https://github.com/arcage/crystal-logreader) - Tailing log file
  * [gelf-crystal](https://github.com/benoist/gelf-crystal) - A GELF logger
+ * [katip](https://github.com/guvencenanguvenal/katip) - Katip is JSONbase logger
  * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
 
 ## Low level bindings
