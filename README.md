@@ -239,7 +239,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## HTTP
  * [crul](https://github.com/porras/crul) - Command line HTTP client
- * [cryload](https://github.com/Sdogruyol/cryload) - HTTP benchmarking tool
+ * [cryload](https://github.com/sdogruyol/cryload) - HTTP benchmarking tool
  * [crystal-cossack](https://github.com/greyblake/crystal-cossack) - Simple flexible HTTP client
  * [etag](https://github.com/SuperPaintman/etag) - Library to generate HTTP ETags
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
