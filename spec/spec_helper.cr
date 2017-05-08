@@ -33,10 +33,10 @@ class Readme
   end
 
   private def to_html(markdown)
-    XML.parse_html(%[
-    <html>
-      #{Markdown.to_html(markdown)}
-    </html>
-    ])
+    XML.parse_html %[
+      <html>
+        #{Markdown.to_html(markdown)}
+      </html>
+    ]
   end
 end

@@ -1,8 +1,8 @@
 require "./spec_helper"
 require "uri"
 
-README = "./README.md"
-readme = Readme.new(README)
+README_PATH = "./README.md"
+readme = Readme.new README_PATH
 
 # Enable for debug purpose
 # File.write("readme.html", readme.html)
@@ -12,7 +12,7 @@ describe "List of Crystal Awesomeness" do
     readme.get_refs(/github\.com/).empty?.should be_false
   end
 
-  it "has references in 'https://github.com/path' format" do
+  it "has github references ('https://github.com/path')" do
     readme.get_refs(/github\.com/).each do |ref|
       uri = URI.parse(ref)
       uri.scheme.should eq "https"
@@ -21,7 +21,7 @@ describe "List of Crystal Awesomeness" do
     end
   end
 
-  it "has references in 'https://gitlab.com/path' format" do
+  it "has gitlab references ('https://gitlab.com/path')" do
     readme.get_refs(/gitlab\.com/).each do |ref|
       uri = URI.parse(ref)
       uri.scheme.should eq "https"
@@ -30,13 +30,13 @@ describe "List of Crystal Awesomeness" do
     end
   end
 
-  it "hasn't duplicated references" do
+  it "does not have duplicates" do
     prev = nil
     readme.get_refs(/git(?:hub|lab)\.com/).map do |ref|
       uri = URI.parse(ref)
       host = uri.host.as String
       path = uri.path.as String | Nil
-      "#{host.downcase}#{path.downcase if path}"
+      "#{host.downcase}#{path.try &.downcase}"
     end.sort.each do |ref|
       ref.should_not eq prev
       prev = ref
@@ -53,8 +53,8 @@ describe "List of Crystal Awesomeness" do
   end
 
   context "Document" do
-    it "hasn't trailing spaces" do
-      File.read_lines(README).each_with_index do |line, line_number|
+    it "does not have trailing spaces" do
+      File.read_lines(README_PATH).each_with_index do |line, line_number|
         (line =~ /[ \t]+$/ && line_number + 1).should eq nil
       end
     end
