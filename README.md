@@ -8,10 +8,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 * [Awesome Crystal](#awesome-crystal)
   * [Algorithms and Data structures](#algorithms-and-data-structures)
   * [Api Builders](#api-builders)
+  * [C Bindings](#c-bindings)
   * [Caching](#caching)
   * [Cli Builders](#cli-builders)
   * [Cli Utils](#cli-utils)
   * [Configuration](#configuration)
+  * [Converters](#converters)
   * [Data Generators](#data-generators)
   * [Database Drivers](#database-drivers)
   * [Database Tools](#database-tools)
@@ -21,18 +23,21 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Examples and funny stuff](#examples-and-funny-stuff)
   * [Framework Components](#framework-components)
   * [Game Development](#game-development)
+  * [HTML/XML parsing](#htmlxml-parsing)
   * [HTTP](#http)
+  * [Image Processing](#image-processing)
   * [Implementations/Compilers](#implementationscompilers)
   * [Logging and monitoring](#logging-and-monitoring)
-  * [Low level bindings](#low-level-bindings)
   * [Markdown/Text Processors](#markdowntext-processors)
   * [Misc](#misc)
   * [Networking](#networking)
   * [ORM/ODM Extensions](#ormodm-extensions)
   * [Package Management](#package-management)
-  * [Project generators](#project-generators)
+  * [Processes and Threads](#processes-and-threads)
+  * [Project Generators](#project-generators)
   * [Queue](#queue)
   * [Routing](#routing)
+  * [Scheduling](#scheduling)
   * [Science and Data analysis](#science-and-data-analysis)
   * [Search](#search)
   * [Task management](#task-management)
@@ -71,6 +76,35 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal_api](https://github.com/akwiatkowski/crystal_api) - Simple PostgreSQL REST API with Rails devise-like auth
  * [kemal-rest-api](https://github.com/blocknotes/kemal-rest-api) - A library to create RESTful API with Kemal
 
+## C bindings
+ * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
+ * [crystal-dbus](https://github.com/BlaXpirit/crystal-dbus) - Bindings to D-Bus
+ * [crystal-gsl](https://github.com/ruivieira/crystal-gsl) - GNU Scientific Library bindings
+ * [crystal-liblmdb](https://github.com/timuckun/crystal-liblmdb) - Bindings for the Symas LMDB database
+ * [crystal-libpcap](https://github.com/puppetpies/crystal-libpcap) - Bindings for libpcap
+ * [crystal-libtar](https://github.com/puppetpies/crystal-libtar) - Bindings for libtar
+ * [crystal_av](https://github.com/kofno/crystal_av) - Bindings to [ClamAV](https://www.clamav.net/) anti-virus
+ * [curl-crystal](https://github.com/blocknotes/curl-crystal) - Bindings for [libcurl](https://curl.haxx.se/libcurl/)
+ * [curses](https://github.com/ruivieira/curses) - Bindings for the curses library
+ * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
+ * [glfw](https://github.com/lirith-engine/glfw) - GLFW bindings
+ * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
+ * [java.cr](https://github.com/ysbaddaden/java.cr) - Java Native Interface (JNI) bindings (and generator)
+ * [kt](https://github.com/kuende/kt) - Bindings for [Kyoto Tycoon](http://fallabs.com/kyototycoon/)
+ * [libmagic-crystal](https://github.com/pablotron/libmagic-crystal) - Bindings for libmagic
+ * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
+ * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui](https://github.com/andlabs/libui)
+ * [nanomsg.cr](https://github.com/chenkovsky/nanomsg.cr) - Bindings for nanomsg
+ * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
+ * [pcap.cr](https://github.com/maiha/pcap.cr) - Bindings for libpcap
+ * [posix](https://github.com/ysbaddaden/posix) - POSIX/C bindings
+ * [serialport.cr](https://github.com/Sija/serialport.cr) - Bindings for [libserialport](http://sigrok.org/wiki/Libserialport) library
+ * [snappy-crystal](https://github.com/benoist/snappy-crystal) - Bindings for Snappy library
+ * [soundfile](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
+ * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
+ * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
+ * [zeromq-crystal](https://github.com/benoist/zeromq-crystal) - Bindings for ZeroMQ
+
 ## Caching
  * [Bloom Filter](https://github.com/greyblake/crystal-bloom_filter) - Implementation of Bloom filter
  * [bojack](https://github.com/marceloboeira/bojack) - A non-reliable in-memory key-value store
@@ -97,6 +131,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-toml](https://github.com/manastech/crystal-toml) - TOML parser
  * [dockerfile.cr](https://github.com/keplersj/dockerfile.cr) - Dockerfile Parsing Library
  * [zq](https://github.com/colstrom/zq) - Command-line ZPL processor
+
+## Converters
+ * [moola](https://github.com/dorkrawk/moola) - Library for dealing with money and conversion (inspired by [RubyMoney](https://github.com/RubyMoney/money))
+ * [ms](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
+ * [turkish-number](https://github.com/izniburak/turkish-number) - Turn integers into the Turkish words
+ * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter)
 
 ## Data Generators
  * [faker](https://github.com/askn/faker) - A library for generating fake data
@@ -191,10 +231,17 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [medico](https://github.com/konovod/medico) - Game about a medieval doctor
  * [mos_game](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game
 
+## HTML/XML Parsing
+ * [crystagiri](https://github.com/madeindjs/Crystagiri) - An Html Reader / parser like [Nokogiri](https://github.com/sparklemotion/nokogiri) Ruby gem
+ * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - Bindings for [Gumbo](https://github.com/google/gumbo-parser), an HTML5 parsing library made by Google
+ * [hq.cr](https://github.com/maiha/hq.cr) - Simple wrapper for crystal-xml
+ * [myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser
+
 ## HTTP
  * [crul](https://github.com/porras/crul) - Command line HTTP client
  * [cryload](https://github.com/Sdogruyol/cryload) - HTTP benchmarking tool
  * [crystal-cossack](https://github.com/greyblake/crystal-cossack) - Simple flexible HTTP client
+ * [etag](https://github.com/SuperPaintman/etag) - Library to generate HTTP ETags
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
  * [http-protection](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
  * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
@@ -204,6 +251,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [multipart.cr](https://github.com/RX14/multipart.cr) - Adds multipart and multipart/form-data support to the crystal standard library
  * [resp-crystal](https://github.com/soveran/resp-crystal) - Lightweight RESP client
  * [session](https://github.com/porras/session.git) - Cookie based sessions in Crystal HTTP applications
+
+## Image processing
+ * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) - Bindings for [MagickWand](https://www.imagemagick.org/script/magick-wand.php), the C interface for ImageMagick processing libraries
+ * [stumpy_gif](https://github.com/l3kn/stumpy_gif) - Write (animated) GIF images
+ * [stumpy_png](https://github.com/l3kn/stumpy_png) - Read and write PNG images
 
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) - Charly Programming Language
@@ -221,42 +273,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-logreader](https://github.com/arcage/crystal-logreader) - Tailing log file
  * [gelf-crystal](https://github.com/benoist/gelf-crystal) - A GELF logger
  * [katip](https://github.com/guvencenanguvenal/katip) - JSONbase logger
+ * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
  * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
-
-## Low level bindings
- * [C14N](https://github.com/vonKingsley/C14N) - Bindings for C14N (libxml2)
- * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
- * [crystal-dbus](https://github.com/BlaXpirit/crystal-dbus) - Bindings to D-Bus
- * [crystal-gsl](https://github.com/ruivieira/crystal-gsl) - GNU Scientific Library bindings
- * [crystal-liblmdb](https://github.com/timuckun/crystal-liblmdb) - Bindings for the Symas LMDB database
- * [crystal-libpcap](https://github.com/puppetpies/crystal-libpcap) - Bindings for libpcap
- * [crystal-libtar](https://github.com/puppetpies/crystal-libtar) - Bindings for libtar
- * [crystal_av](https://github.com/kofno/crystal_av) - Bindings to [ClamAV](https://www.clamav.net/) anti-virus
- * [curl-crystal](https://github.com/blocknotes/curl-crystal) - Bindings for [libcurl](https://curl.haxx.se/libcurl/)
- * [curses](https://github.com/ruivieira/curses) - Bindings for the curses library
- * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
- * [glfw](https://github.com/lirith-engine/glfw) - GLFW bindings
- * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
- * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - Bindings for [Gumbo](https://github.com/google/gumbo-parser), an HTML5 parsing library made by Google
- * [java.cr](https://github.com/ysbaddaden/java.cr) - Java Native Interface (JNI) bindings (and generator)
- * [kt](https://github.com/kuende/kt) - Bindings for [Kyoto Tycoon](http://fallabs.com/kyototycoon/)
- * [libmagic-crystal](https://github.com/pablotron/libmagic-crystal) - Bindings for libmagic
- * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
- * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui](https://github.com/andlabs/libui)
- * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) - Bindings for [MagickWand](https://www.imagemagick.org/script/magick-wand.php), the C interface for ImageMagick processing libraries
- * [myhtml](https://github.com/kostya/myhtml) - Bindings for [lexborisov/myhtml](https://github.com/lexborisov/myhtml)
- * [nanomsg.cr](https://github.com/chenkovsky/nanomsg.cr) - Bindings for nanomsg
- * [openssl.cr](https://github.com/datanoise/openssl.cr) - Bindings for OpenSSL library
- * [pcap.cr](https://github.com/maiha/pcap.cr) - Bindings for libpcap
- * [posix](https://github.com/ysbaddaden/posix) - POSIX/C bindings
- * [serialport.cr](https://github.com/Sija/serialport.cr) - Bindings for [libserialport](http://sigrok.org/wiki/Libserialport) library
- * [snappy-crystal](https://github.com/benoist/snappy-crystal) - Bindings for Snappy library
- * [soundfile](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
- * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
- * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
- * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter)
- * [zeromq-crystal](https://github.com/benoist/zeromq-crystal) - Bindings for ZeroMQ
- * [zlib.cr](https://github.com/datanoise/zlib.cr) - Bindings for ZLib library
 
 ## Markdown/Text Processors
  * [html-pipeline](https://github.com/huacnlee/html-pipeline) - HTML processing filters and utilities
@@ -272,22 +290,16 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [clamd.cr](https://github.com/RX14/clamd.cr) - Client for the clamd antivirus server
  * [cltk](https://github.com/ziprandom/cltk) - A crystal port of the Ruby Language Toolkit
  * [crdoc](https://github.com/rhysd/crdoc) - CLI tool to search and open documentation
- * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
- * [crystagiri](https://github.com/madeindjs/Crystagiri) - An Html Reader / parser like [Nokogiri](https://github.com/sparklemotion/nokogiri) Ruby gem
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [crystal-i18n](https://github.com/whity/crystal-i18n) - Internationalization library
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
- * [daemonize.cr](https://github.com/DougEverly/daemonize.cr) - Crystal process daemonizer
  * [denetmen](https://github.com/izniburak/denetmen) - Useful micro validator / check library
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
- * [etag](https://github.com/SuperPaintman/etag) - Library to generate HTTP ETags
  * [evented](https://github.com/krisleech/evented) - A micro library to publish and subscribe for Crystal objects
  * [executable_path](https://github.com/kostya/executable_path) - Portable current executable's path
- * [haikunator](https://github.com/osfx/haikunator) - Heroku-like random name generator
  * [hoop](https://github.com/hoopcr/hoop) - Building native OSX apps
- * [hq.cr](https://github.com/maiha/hq.cr) - Simple wrapper for crystal-xml
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [inflector.cr](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
@@ -296,23 +308,13 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [lirith](https://github.com/lirith-engine/lirith) - Graphics engine
  * [manual-generator](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
  * [metaclass](https://github.com/mosop/metaclass) - A library for manipulating class-level definitions
- * [moola](https://github.com/dorkrawk/moola) - Library for dealing with money and conversion (inspired by [RubyMoney](https://github.com/RubyMoney/money))
- * [ms](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
- * [neph](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
  * [observable](https://github.com/TPei/observable) - Implementation of the Observer pattern
- * [promise](https://github.com/jwaldrip/promise-cr) - A Promise Implementation
- * [quartz](https://github.com/andrewhamon/quartz) - Simple timer library
- * [ramlrenderer](https://github.com/beno/ramlrenderer) - HTLM doc builder for RAML 1.0
+ * [ramlrenderer](https://github.com/beno/ramlrenderer) - HTML doc builder for RAML 1.0
  * [raytracer-crystal](https://github.com/l3kn/raytracer-crystal) - CPU Raytracer with examples
  * [shell.cr](https://github.com/dmytro/shell.cr) - Small simplistic helper class for executing shell commands
- * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
- * [stumpy_gif](https://github.com/l3kn/stumpy_gif) - Write (animated) GIF images
- * [stumpy_png](https://github.com/l3kn/stumpy_png) - Read and write PNG images
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
  * [tren](https://github.com/sdogruyol/tren) - Give your SQL some love
- * [turkish-number](https://github.com/izniburak/turkish-number) - Turn integers into the Turkish words
  * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
- * [wire](https://github.com/puppetpies/WIre) - A packet analyzer
 
 ## Networking
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
@@ -322,6 +324,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
  * [jwt](https://github.com/greyblake/crystal-jwt) - Implementation of JWT (JSON Web Token)
  * [msgpack-crystal](https://github.com/benoist/msgpack-crystal) - MessagePack library
+ * [wire](https://github.com/puppetpies/WIre) - A packet analyzer
 
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
@@ -337,7 +340,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Package Management
  * [shards](https://github.com/ysbaddaden/shards) - Dependency manager for the Crystal
 
-## Project generators
+## Processes and Threads
+ * [daemonize.cr](https://github.com/DougEverly/daemonize.cr) - Crystal process daemonizer
+ * [neph](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
+ * [promise](https://github.com/jwaldrip/promise-cr) - A Promise Implementation
+
+## Project Generators
  * [bindgencr](https://github.com/TechMagister/bindgencr) - Generator of bindings based on castxml output
  * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
  * [fez](https://github.com/jwoertink/fez) - A Kemal application generator
@@ -359,6 +367,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [route.cr](https://github.com/tbrand/route.cr) - Minimum but powerful http router for HTTP::Server
  * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
  * [toro](https://github.com/soveran/toro) - Tree Oriented Routing
+
+## Scheduling
+ * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
+ * [quartz](https://github.com/andrewhamon/quartz) - Crystal clear timers
 
 ## Science and Data analysis
  * [chizge](https://github.com/aladagemre/chizge) - A Network (Graph) Analysis library, inspired by [NetworkX](https://github.com/networkx/networkx)
