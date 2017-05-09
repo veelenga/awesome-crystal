@@ -364,7 +364,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [beryl](https://github.com/luislavena/beryl) - Action-focused HTTP routing library
  * [crouter](https://github.com/jreinert/crouter) - A standalone router
  * [crystal-routing](https://github.com/bcardiff/crystal-routing) - Extensible library to deal with http request and string based routing
- * [route.cr](https://github.com/tbrand/route.cr) - Minimum but powerful http router for HTTP::Server
+ * [router.cr](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
  * [router-simple.cr](https://github.com/karupanerura/router-simple.cr) - Simple path router
  * [toro](https://github.com/soveran/toro) - Tree Oriented Routing
 
