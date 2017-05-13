@@ -387,6 +387,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
 
 ## Task management
+ * [cake](https://github.com/axvm/cake) - Production-ready Make-like utility tool
  * [crake](https://github.com/MakeNowJust/crake) - Rake-like build utility library. It is just a library, so it does not provide CLI
  * [lake](https://github.com/adlerhsieh/lake) - Rake-like task management for Crystal programs
  * [sam](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
