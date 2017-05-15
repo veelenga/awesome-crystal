@@ -380,6 +380,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-learn](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library
  * [machine](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm
  * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
+ * [scorystal](https://github.com/asafschers/scorystal) - Scoring API for PMML - supports RF and GBM
  * [stats](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions
 
 ## Search
