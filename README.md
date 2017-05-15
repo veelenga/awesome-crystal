@@ -191,6 +191,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [fast_sleep](https://github.com/asterite/fast_sleep) - Blazing fast (funny) implementation of sleep for Crystal
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - Build realtime applications with Kemal and WebSocket
  * [kemal-monetdb-test](https://github.com/puppetpies/kemal-monetdb-test) - MonetDB Kemal test project
+ * [kemal-heroku-example](https://github.com/cagataycali/kemal-heroku-example) - This repository shows, how you can publish your open source apps which powered kemal framework publish as heroku app in seconds
  * [kemal-pg-sample](https://github.com/sdogruyol/kemal-pg-sample) - Sample app to demonstrate kemal + postgresql usage
  * [kemal-react-chat](https://github.com/f/kemal-react-chat) - Build Realtime Web applications with Kemal and React
  * [kemal-react-pg-chat](https://github.com/Angarsk8/kemal-react-pg-chat) - Chat application developed with Kemal, React, ES2015 and PostgreSQL
@@ -204,7 +205,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rocky](https://github.com/codingphasedotcom/rocky) - React Over Crystal Kemal and Yarn
  * [try.cr](https://github.com/maiha/try.cr) - Try monad
  * [xcrystal](https://github.com/exercism/xcrystal) - Exercism exercises
- * [kemal-heroku-example](https://github.com/cagataycali/kemal-heroku-example) - This repository shows, how you can publish your open source apps which powered kemal framework publish as heroku app in seconds.
 
 ## Framework Components
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL (abusing macros)
