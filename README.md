@@ -116,6 +116,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Cli Builders
  * [admiral](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
  * [cli](https://github.com/mosop/cli) - Library for building command-line interface applications
+ * [clim](https://github.com/at-grandpa/clim) - Slim command line interface builder for Crystal.
  * [commander](https://github.com/mrrooijen/commander) - Command-line interface builder
  * [completion](https://github.com/f/completion) - Easy command line completion engine
  * [docopt](https://github.com/chenkovsky/docopt.cr) - A [docopt.org](http://docopt.org) port
