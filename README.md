@@ -268,6 +268,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crow](https://github.com/geppetto-apps/crow) - Transpile/compile Crystal to [Flow](https://flowtype.org/)
  * [crystal](https://github.com/crystal-lang/crystal) - Crystal itself is written in Crystal
  * [csmli](https://github.com/david50407/csmli) - Mini-Lisp interpreter
+ * [jade](https://github.com/tbrand/jade) - Realizes to write macros in any scripts into any languages
  * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - An OS written in Crystal as a Proof of Concept
  * [onix](https://github.com/ozra/onyx-lang) - ONYX Programming Language
  * [zir](https://github.com/tbrand/zir) - Realizes to write macros in any scripts into any languages
