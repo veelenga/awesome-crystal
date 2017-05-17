@@ -77,6 +77,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-rest-api](https://github.com/blocknotes/kemal-rest-api) - A library to create RESTful API with Kemal
 
 ## C bindings
+ * [asound-cr](https://github.com/TamasSzekeres/asound-cr) - Bindings for ALSA/libasound
+ * [crass](https://github.com/vonKingsley/crass) - Bindings for libsass
  * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
  * [crystal-dbus](https://github.com/BlaXpirit/crystal-dbus) - Bindings to D-Bus
  * [crystal-gsl](https://github.com/ruivieira/crystal-gsl) - GNU Scientific Library bindings
