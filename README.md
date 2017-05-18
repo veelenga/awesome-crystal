@@ -106,6 +106,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [soundfile](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
  * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
+ * [x11-cr](https://github.com/TamasSzekeres/x11-cr) - X11 bindings
  * [zeromq-crystal](https://github.com/benoist/zeromq-crystal) - Bindings for ZeroMQ
 
 ## Caching
