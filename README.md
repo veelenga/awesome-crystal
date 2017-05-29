@@ -237,7 +237,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-chipmunk](https://github.com/BlaXpirit/crystal-chipmunk) - Bindings for [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
  * [flight-crusader](https://github.com/umurgdk/flight-crusader) - POC top down flight game
  * [glove](https://github.com/ddfreyne/glove) - A library for gaming development
- * [inari](https://github.com/ddfreyne/inari) - A game written in Crystal, using the Glove project as the game engine
+ * [inari](https://github.com/ddfreyne/inari) - A collection of games using Glove as the game engine
  * [medico](https://github.com/konovod/medico) - Game about a medieval doctor
  * [mos_game](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game
 
