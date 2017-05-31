@@ -437,6 +437,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-github](https://github.com/felipeelias/crystal-github) - Wrapper for the [Github](https://github.com/) API
  * [crystal-mondo](https://github.com/barisbalic/crystal-mondo) - A client for the [Mondo API](https://getmondo.co.uk/docs/)
  * [crystal-newrelic](https://github.com/waj/crystal-newrelic) - NewRelic API client
+ * [crystal-ovh](https://github.com/ovh/crystal-ovh) - Lightweight Crystal wrapper around [OVH](https://eu.api.ovh.com/)'s API
  * [crystal-qiita](https://github.com/pine/crystal-qiita) - A wrapper for the [Qiita](https://qiita.com/) API
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper
  * [crystal_brium](https://github.com/manastech/crystal_brium) - Access Brium's API using Crystal
