@@ -166,6 +166,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rocksdb.cr](https://github.com/maiha/rocksdb.cr) - RocksDB client
 
 ## Database Tools
+ * [crecto-admin](https://github.com/Crecto/crecto-admin) - Admin dashboard for Crecto and your database
  * [micrate](https://github.com/juanedi/micrate) - Database migration tool
 
 ## Development Tools
