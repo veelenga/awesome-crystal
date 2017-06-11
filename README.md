@@ -343,7 +343,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
  * [crecto](https://github.com/fridgerator/crecto) - Database wrapper, based on Ecto
  * [jennifer](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
- * [kemalyst-model](https://github.com/drujensen/kemalyst-model) - ORM Model for the Kemalyst Framework
+ * [granite-orm](https://github.com/kemalyst/granite-orm) - ORM for Postgres, Mysql, Sqlite
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
  * [selenite-db](https://github.com/xdougx/selenite-db) - A simple persistency-model based library
@@ -351,7 +351,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [topaz](https://github.com/tbrand/topaz) - A simple and useful db wrapper
 
 ## Package Management
- * [shards](https://github.com/ysbaddaden/shards) - Dependency manager for the Crystal
+ * [shards](https://github.com/ysbaddaden/shards) - Dependency manager for the CrystalR
+ * [CRelease](https://github.com/elorest/crelease) - Version and git tag manager. Makes shard releases easy.
 
 ## Processes and Threads
  * [daemonize.cr](https://github.com/DougEverly/daemonize.cr) - Crystal process daemonizer
