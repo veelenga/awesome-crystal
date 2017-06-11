@@ -351,7 +351,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [topaz](https://github.com/tbrand/topaz) - A simple and useful db wrapper
 
 ## Package Management
- * [shards](https://github.com/ysbaddaden/shards) - Dependency manager for the CrystalR
+ * [shards](https://github.com/ysbaddaden/shards) - Dependency manager for the Crystal
  * [CRelease](https://github.com/elorest/crelease) - Version and git tag manager. Makes shard releases easy.
 
 ## Processes and Threads
