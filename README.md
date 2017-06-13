@@ -62,6 +62,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
  * [crystaledge](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
  * [crystalg](https://github.com/TobiasGSmollett/crystalg) - A Generic Algorithm Library
+ * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
  * [delimiter_tree](https://github.com/drujensen/delimiter_tree) - A tree structure that is built using a delimiter
  * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
  * [miller_rabin](https://github.com/kuende/miller_rabin) - Implements [Miller-Rabin](https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Primality_Testing) algorithm to check if a number is prime
@@ -291,6 +292,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Networking
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
+ * [bson.cr](https://github.com/jeromegn/bson.cr) - Native BSON implementation
  * [crystal-jwt](https://github.com/greyblake/crystal-jwt) - Implementation of JWT (JSON Web Token)
  * [CrystalIrc](https://github.com/Meoowww/CrystalIrc) - IRC implementation (Client, Server, Bots)
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
@@ -330,6 +332,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## Routing
+ * [beryl](https://github.com/luislavena/beryl) - Action-focused HTTP routing library
  * [crouter](https://github.com/jreinert/crouter) - A standalone router
  * [router.cr](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
  * [toro](https://github.com/soveran/toro) - Tree Oriented Routing
