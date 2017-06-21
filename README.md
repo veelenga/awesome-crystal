@@ -401,7 +401,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [TelegramBot](https://github.com/hangyas/TelegramBot) - A wrapper for the Telegram Bot API
 
 ## Virtualization
- * [backed_file_system](https://github.com/schovi/baked_file_system) - Virtual file system implementation
+ * [baked_file_system](https://github.com/schovi/baked_file_system) - Virtual file system implementation
  * [rcpu](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
 
 ## Web Frameworks
