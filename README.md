@@ -112,6 +112,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Cli Utils
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
+ * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
 
