@@ -151,11 +151,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [micrate](https://github.com/juanedi/micrate) - Database migration tool
 
 ## Development Tools
- * [Warden](https://github.com/diggersheep/warden) - Watches files, run command and a git command if succeed on file changes 
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
  * [kemal-watcher](https://github.com/faustinoaq/kemal-watcher) - Kemal plugin to watch files and live-reload the browser
  * [sentry](https://github.com/samueleaton/sentry) - Watches src files, rebuilds/reruns application on file changes
  * [sentry-run](https://github.com/faustinoaq/sentry-run) - Reload code changes using Sentry.run
+ * [Warden](https://github.com/diggersheep/warden) - Watches files, run command and a git command if succeed on file changes
  * [watcher](https://github.com/faustinoaq/watcher) - Watch file changes using File.stat
 
 ## Email
