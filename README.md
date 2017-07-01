@@ -28,6 +28,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Image Processing](#image-processing)
   * [Implementations/Compilers](#implementationscompilers)
   * [Logging and monitoring](#logging-and-monitoring)
+  * [Machine Learning](#machine-learning)
   * [Markdown/Text Processors](#markdowntext-processors)
   * [Misc](#misc)
   * [Networking](#networking)
@@ -260,6 +261,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [katip](https://github.com/guvencenanguvenal/katip) - JSONbase logger
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
  * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
+
+## Machine Learning
+ * [crystal-fann](https://github.com/bararchy/crystal-fann) - FANN (Fast Artifical Neural Network) binding
+ * [grey_matter](https://github.com/dorkrawk/grey_matter) - A basic artificial neural network library
 
 ## Markdown/Text Processors
  * [html-pipeline](https://github.com/huacnlee/html-pipeline) - HTML processing filters and utilities
