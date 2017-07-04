@@ -70,6 +70,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
  * [murmur3](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
+ * [ranger](https://github.com/akwiatkowski/ranger) - Range object operation library
+ * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) - Ternary Search Tree
+ * [text](https://github.com/johnjansen/text) - A collection of text algorithms
 
 ## Api Builders
  * [crystal_api](https://github.com/akwiatkowski/crystal_api) - Simple PostgreSQL REST API with Rails devise-like auth
