@@ -62,6 +62,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [primes](https://github.com/dkhofer/primes) - Library for testing if a number is prime and finding its prime factorization
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
  * [ranger](https://github.com/akwiatkowski/ranger) - Range object operation library
+ * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) - Ternary Search Tree
+ * [text](https://github.com/johnjansen/text) - A collection of text algorithms
 
 ## Api Builders
  * [crystal_api](https://github.com/akwiatkowski/crystal_api) - Simple PostgreSQL REST API with Rails devise-like auth
