@@ -1,19 +1,19 @@
-require "./spec_helper"
+require "spec"
 require "uri"
+require "../util/readme"
 
-README = "./README.md"
-readme = Readme.new(README)
+readme = Readme.new
 
 # Enable for debug purpose
 # File.write("readme.html", readme.html)
 
 describe "List of Crystal Awesomeness" do
   it "has references to awesomeness" do
-    readme.get_refs(/github\.com/).empty?.should be_false
+    readme.refs(/github\.com/).empty?.should be_false
   end
 
-  it "has references in 'https://github.com/path' format" do
-    readme.get_refs(/github\.com/).each do |ref|
+  it "has github references ('https://github.com/path')" do
+    readme.refs(/github\.com/).each do |ref|
       uri = URI.parse(ref)
       uri.scheme.should eq "https"
       uri.host.should eq "github.com"
@@ -21,13 +21,22 @@ describe "List of Crystal Awesomeness" do
     end
   end
 
-  it "hasn't duplicated references" do
+  it "has gitlab references ('https://gitlab.com/path')" do
+    readme.refs(/gitlab\.com/).each do |ref|
+      uri = URI.parse(ref)
+      uri.scheme.should eq "https"
+      uri.host.should eq "gitlab.com"
+      uri.path.should_not be nil
+    end
+  end
+
+  it "does not have duplicates" do
     prev = nil
-    readme.get_refs(/github\.com/).map do |ref|
+    readme.refs(/git(?:hub|lab)\.com/).map do |ref|
       uri = URI.parse(ref)
       host = uri.host.as String
-      path = uri.path.as String | Nil
-      "#{host.downcase}#{path.downcase if path}"
+      path = uri.path.as String?
+      "#{host.downcase}#{path.try &.downcase}"
     end.sort.each do |ref|
       ref.should_not eq prev
       prev = ref
@@ -35,7 +44,7 @@ describe "List of Crystal Awesomeness" do
   end
 
   it "has alphabetical case insensitive order" do
-    readme.get_groups.each do |group|
+    readme.groups.each do |group|
       sorted = group.sort { |x, y| x.downcase <=> y.downcase }
       group.each_with_index do |awesome, i|
         awesome.should eq sorted[i]
@@ -44,8 +53,8 @@ describe "List of Crystal Awesomeness" do
   end
 
   context "Document" do
-    it "hasn't trailing spaces" do
-      File.read_lines(README).each_with_index do |line, line_number|
+    it "does not have trailing spaces" do
+      File.read_lines(readme.path).each_with_index do |line, line_number|
         (line =~ /[ \t]+$/ && line_number + 1).should eq nil
       end
     end
