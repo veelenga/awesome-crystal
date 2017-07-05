@@ -96,7 +96,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [posix](https://github.com/ysbaddaden/posix) - POSIX/C bindings
  * [soundfile](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
  * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
- * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow](https://github.com/tensorflow/tensorflow)
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
  * [x11-cr](https://github.com/TamasSzekeres/x11-cr) - X11 bindings
 
@@ -267,7 +266,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Machine Learning
  * [crystal-fann](https://github.com/bararchy/crystal-fann) - FANN (Fast Artifical Neural Network) binding
+ * [crystal-learn](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library
  * [grey_matter](https://github.com/dorkrawk/grey_matter) - A basic artificial neural network library
+ * [machine](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm
+ * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow](https://github.com/tensorflow/tensorflow)
 
 ## Markdown/Text Processors
  * [html-pipeline](https://github.com/huacnlee/html-pipeline) - HTML processing filters and utilities
@@ -354,8 +356,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [schedule.cr](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 
 ## Science and Data analysis
- * [crystal-learn](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library
- * [machine](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm
  * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
  * [scorystal](https://github.com/asafschers/scorystal) - Scoring API for PMML - supports RF and GBM
  * [stats](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions
