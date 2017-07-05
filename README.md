@@ -118,6 +118,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
+ * [todo](https://github.com/Nephos/todo) - Todo list working in command line
 
 ## Configuration
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
@@ -301,8 +302,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
  * [tren](https://github.com/sdogruyol/tren) - Give your SQL some love
  * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
- * [transfer_more](https://github.com/Nephos/transfer_more) - Clone of transfer.sh to uploads files
- * [todo](https://github.com/Nephos/todo) - Todo list working in command line
  * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
 
 ## Networking
@@ -313,6 +312,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
  * [msgpack-crystal](https://github.com/benoist/msgpack-crystal) - MessagePack library
+ * [transfer_more](https://github.com/Nephos/transfer_more) - Clone of transfer.sh to uploads files
 
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
