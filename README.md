@@ -301,6 +301,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
  * [tren](https://github.com/sdogruyol/tren) - Give your SQL some love
  * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
+ * [transfer_more](https://github.com/Nephos/transfer_more) - Clone of transfer.sh to uploads files
+ * [todo](https://github.com/Nephos/todo) - Todo list working in command line
+ * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
 
 ## Networking
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
