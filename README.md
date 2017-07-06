@@ -149,6 +149,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
  * [rethinkdb-crystal](https://github.com/lbguilherme/rethinkdb-crystal) - RethinkDB Driver
  * [rocksdb.cr](https://github.com/maiha/rocksdb.cr) - RocksDB client
+ * [arangocr](https://github.com/solisoft/arangocr) - Binding for ArangoDB HTTP API
 
 ## Database Tools
  * [crecto-admin](https://github.com/Crecto/crecto-admin) - Admin dashboard for Crecto and your database
