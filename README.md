@@ -15,7 +15,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Configuration](#configuration)
   * [Converters](#converters)
   * [Data Generators](#data-generators)
-  * [Database Drivers](#database-drivers)
+  * [Database Drivers/Clients](#database-driversclients)
   * [Database Tools](#database-tools)
   * [Development Tools](#development-tools)
   * [Email](#email)
@@ -136,7 +136,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [faker](https://github.com/askn/faker) - A library for generating fake data
  * [hashids.cr](https://github.com/splattael/hashids.cr) - A library to generate YouTube-like ids from one or many numbers
 
-## Database Drivers
+## Database Drivers/Clients
+ * [arangocr](https://github.com/solisoft/arangocr) - HTTP API client for ArangoDB
  * [crystal-db](https://github.com/crystal-lang/crystal-db) - Common db api
  * [crystal-leveldb](https://github.com/greyblake/crystal-leveldb) - Crystal bindings for LevelDB
  * [crystal-monetdb-libmapi](https://github.com/puppetpies/crystal-monetdb-libmapi) - Bindings for MonetDB
