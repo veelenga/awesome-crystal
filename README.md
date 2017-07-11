@@ -196,6 +196,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rocky](https://github.com/codingphasedotcom/rocky) - React Over Crystal Kemal and Yarn
  * [try.cr](https://github.com/maiha/try.cr) - Try monad
  * [xcrystal](https://github.com/exercism/xcrystal) - Exercism exercises
+ * [clamp](https://github.com/johnjansen/clamp) - Clamp any Comparable
+
 
 ## Framework Components
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL (abusing macros)
