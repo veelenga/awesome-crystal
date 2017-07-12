@@ -360,6 +360,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [schedule.cr](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 
 ## Science and Data analysis
+ * [linalg](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
  * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
  * [scorystal](https://github.com/asafschers/scorystal) - Scoring API for PMML - supports RF and GBM
  * [stats](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions
