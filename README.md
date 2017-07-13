@@ -164,6 +164,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [watcher](https://github.com/faustinoaq/watcher) - Watch file changes using File.stat
 
 ## Email
+ * [crystal-email](https://github.com/arcage/crystal-email) - Simple e-mail sending library
  * [CrystalEmail](https://github.com/Nephos/CrystalEmail) - A RFC compliant Email validator
  * [devmail](https://github.com/tijn/devmail) - A combined SMTP/POP3-server with volatile mail storage
  * [sendgrid.cr](https://github.com/dlanileonardo/sendgrid.cr) - Simple Sendgrid Client
