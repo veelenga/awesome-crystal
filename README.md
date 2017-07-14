@@ -397,6 +397,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Third-party APIs
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
+ * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) - Bugsnag exception notifier and sidekiq middleware
  * [crystal-darksky](https://github.com/sb89/crystal-darksky) - Wrapper for the [Dark Sky](https://darksky.net) API
