@@ -176,16 +176,21 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rcm.cr](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
 
 ## Examples and funny stuff
+ * [chuck-norris-holy-quotes](https://github.com/codenoid/chuck-norris-holy-quotes) - Chuck Norris holy quotes
  * [crsfml-examples](https://github.com/BlaXpirit/crsfml-examples) - Simple games made with CrSFML
  * [crystal-benchmarks-game](https://github.com/kostya/crystal-benchmarks-game) - The Computer Language Benchmarks Game
  * [crystal-by-example](https://github.com/askn/crystal-by-example) - Crystal By Example
  * [Crystal-Maze](https://github.com/Demonstrandum/Crystal-Maze) - A* Path finding for PNG mazes
+ * [crystal-mysql-crud-example](https://github.com/codenoid/crystal-mysql-crud-example) - Crystal MySQL CRUD example
  * [crystal-patterns](https://github.com/veelenga/crystal-patterns) - Examples of GOF patters
  * [crystal_samples](https://github.com/tbpgr/crystal_samples) - Variety of Crystal samples
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
  * [docker-kemal](https://github.com/ianblenke/docker-kemal) - An example Dockerized Crystal Kemal project
+ * [jihantoro-cr-mysql](https://github.com/codenoid/jihantoro-cr-mysql) - Crystal MySQL from scratch sample app
+ * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) - Crystal & Kemal version of Serdar Dogruyol blog
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - Build realtime applications with Kemal and WebSocket
  * [kemal-heroku-example](https://github.com/cagataycali/kemal-heroku-example) - This repository shows, how you can publish your open source apps which powered kemal framework publish as heroku app in seconds
+ * [kemal-mysql-blog](https://github.com/codenoid/kemal-mysql-blog) - Blog written with Crystal, Kemal and MySQL
  * [kemal-react-chat](https://github.com/f/kemal-react-chat) - Build Realtime Web applications with Kemal and React
  * [kemal-react-pg-chat](https://github.com/Angarsk8/kemal-react-pg-chat) - Chat application developed with Kemal, React, ES2015 and PostgreSQL
  * [kemal-ws-pg-todo-app](https://github.com/Angarsk8/kemal-ws-pg-todo-app) - Realtime Todo application developed with Kemal, Websockets, jQuery, ES2015 and PostgreSQL
@@ -463,7 +468,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Crystal [ANN]](https://crystal-ann.com) - Announce new project, blog post, version update or any other Crystal work
  * [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
- * [Ficha](https://github.com/codenoid/ficha) - An super secret chat app, for any body who need privacy
+ * [Ficha](https://github.com/codenoid/ficha) - A super secret chat app, for any body who needs privacy
  * [icr](https://github.com/greyblake/crystal-icr) - Interactive console for Crystal (like IRB for Ruby)
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
