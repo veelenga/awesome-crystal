@@ -183,7 +183,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-patterns](https://github.com/veelenga/crystal-patterns) - Examples of GOF patters
  * [crystal_samples](https://github.com/tbpgr/crystal_samples) - Variety of Crystal samples
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
+ * [chuck-norris-holy-quotes](https://github.com/codenoid/chuck-norris-holy-quotes) Chuck Norris Holy Quotes
+ * [crystal-mysql-crud-example](https://github.com/codenoid/crystal-mysql-crud-example) - Crystal MySQL CRUD Example
  * [docker-kemal](https://github.com/ianblenke/docker-kemal) - An example Dockerized Crystal Kemal project
+ * [jihantoro-cr-mysql](https://github.com/codenoid/jihantoro-cr-mysql) - Crystal MySQL From Scratch
+ * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) - Crystal & Kemal version of Serdar Dogruyol blog
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - Build realtime applications with Kemal and WebSocket
  * [kemal-heroku-example](https://github.com/cagataycali/kemal-heroku-example) - This repository shows, how you can publish your open source apps which powered kemal framework publish as heroku app in seconds
  * [kemal-react-chat](https://github.com/f/kemal-react-chat) - Build Realtime Web applications with Kemal and React
@@ -460,6 +464,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 # Services and Apps
  * [carc.in](https://carc.in/) - A web service that runs your code and displays the result
  * [Crank](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
+ * [Crystal [ANN]](https://crystal-ann.com) - Announce new project, blog post, version update or any other Crystal work
  * [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [Ficha](https://github.com/codenoid/ficha) - An super secret chat app, for any body who need privacy
