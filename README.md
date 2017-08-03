@@ -176,6 +176,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rcm.cr](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
 
 ## Examples and funny stuff
+ * [breakout.cr](https://github.com/petoem/breakout.cr) - Breakout game written using crsfml
  * [chuck-norris-holy-quotes](https://github.com/codenoid/chuck-norris-holy-quotes) - Chuck Norris holy quotes
  * [clamp](https://github.com/johnjansen/clamp) - Clamp any Comparable
  * [crsfml-examples](https://github.com/BlaXpirit/crsfml-examples) - Simple games made with CrSFML
@@ -328,7 +329,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
  * [crecto](https://github.com/fridgerator/crecto) - Database wrapper, based on Ecto
  * [granite-orm](https://github.com/kemalyst/granite-orm) - ORM for Postgres, Mysql, Sqlite
- * [jennifer](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+ * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
  * [selenite-db](https://github.com/xdougx/selenite-db) - A simple persistency-model based library
@@ -436,6 +437,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal](https://github.com/sdogruyol/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [kemalyst](https://github.com/drujensen/kemalyst) - A Rails like framework inspired by Kemal but includes the kitchen sink
  * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
+ * [luckyframework](https://github.com/luckyframework) - Fast, maintainable and confidence boosting web framework
  * [mustafa](https://github.com/guvencenanguvenal/mustafa) - Simple MVC framework
 
 ## Web Servers
