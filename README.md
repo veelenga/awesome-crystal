@@ -443,6 +443,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
  * [luckyframework](https://github.com/luckyframework) - Fast, maintainable and confidence boosting web framework
  * [mustafa](https://github.com/guvencenanguvenal/mustafa) - Simple MVC framework
+ * [raze](https://github.com/samueleaton/raze) - Modular, light web framework
 
 ## Web Servers
  * [fast-http-server](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server
