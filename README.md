@@ -360,6 +360,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Queue
  * [dispatch](https://github.com/bmulvihill/dispatch) - In memory asynchronous job processing
  * [disque-cr](https://github.com/foca/disque-cr) - Client for [Disque](https://github.com/antirez/disque) queueing system
+ * [kafka.cr](https://github.com/packetzero/kafka.cr) - Wrapper around Kafka C-library (librdkafka) for producer/consumer
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## Routing
