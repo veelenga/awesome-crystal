@@ -400,6 +400,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Testing
  * [crotest](https://github.com/emancu/crotest) - A tiny and simple test framework
+ * [microtest](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
  * [spec2-mocks](https://github.com/waterlink/spec2-mocks.cr) - An adapter of mocks.cr for spec2.cr
