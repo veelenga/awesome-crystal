@@ -213,6 +213,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Framework Components
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL (abusing macros)
  * [cr-melon](https://github.com/gdotdesign/cr-melon) - Class based Http APIs
+ * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [kave](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
