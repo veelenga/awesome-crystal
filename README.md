@@ -212,7 +212,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [xcrystal](https://github.com/exercism/xcrystal) - Exercism exercises
 
 ## Feature Flipping
- * [flipper](https://github.com/metaware/flipper) - Feature flipping/flags/rollouts. Supports multiple backends.
+ * [flipper](https://github.com/metaware/flipper) - Feature flipping/flags/rollouts. Supports multiple backends
 
 ## Framework Components
  * [artanis](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL (abusing macros)
