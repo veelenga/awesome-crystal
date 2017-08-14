@@ -119,6 +119,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [optarg](https://github.com/mosop/optarg) - Yet another library for parsing command-line options and arguments
 
 ## Cli Utils
+ * [dl](https://github.com/creadone/dl) - Simple utility for download files by URLs from list
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
