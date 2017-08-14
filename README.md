@@ -119,6 +119,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [optarg](https://github.com/mosop/optarg) - Yet another library for parsing command-line options and arguments
 
 ## Cli Utils
+ * [dl](https://github.com/creadone/dl) - Simple utility for download files by URLs from list
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
@@ -192,7 +193,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-patterns](https://github.com/veelenga/crystal-patterns) - Examples of GOF patters
  * [crystal_samples](https://github.com/tbpgr/crystal_samples) - Variety of Crystal samples
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
- * [dl](https://github.com/creadone/dl) - Simple utility for download files by URLs from list
  * [docker-kemal](https://github.com/ianblenke/docker-kemal) - An example Dockerized Crystal Kemal project
  * [jihantoro-cr-mysql](https://github.com/codenoid/jihantoro-cr-mysql) - Crystal MySQL from scratch sample app
  * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) - Crystal & Kemal version of Serdar Dogruyol blog
