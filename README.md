@@ -105,7 +105,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [x11-cr](https://github.com/TamasSzekeres/x11-cr) - X11 bindings
 
 ## Caching
- * [Bloom Filter](https://github.com/greyblake/crystal-bloom_filter) - Implementation of Bloom filter
+ * [bloom_filter](https://github.com/crystal-community/bloom_filter) - Implementation of Bloom filter
  * [bojack](https://github.com/marceloboeira/bojack) - A non-reliable in-memory key-value store
  * [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
  * [Nuummite](https://github.com/CodeSteak/Nuummite) - A tiny persistent embedded key-value store
@@ -146,7 +146,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Database Drivers/Clients
  * [arangocr](https://github.com/solisoft/arangocr) - ArangoDB client
  * [crystal-db](https://github.com/crystal-lang/crystal-db) - Common db api
- * [crystal-leveldb](https://github.com/greyblake/crystal-leveldb) - Crystal bindings for LevelDB
  * [crystal-monetdb-libmapi](https://github.com/puppetpies/crystal-monetdb-libmapi) - Bindings for MonetDB
  * [crystal-mysql](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
@@ -154,6 +153,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
  * [eventql-crystal](https://github.com/measurechina/eventql-crystal) - EventQL driver
  * [influxdb.cr](https://github.com/jeromegn/influxdb.cr) - InfluxDB driver
+ * [leveldb](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
  * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
  * [rethinkdb.cr](https://github.com/CubosTecnologia/rethinkdb.cr) - RethinkDB Driver
  * [rocksdb.cr](https://github.com/maiha/rocksdb.cr) - RocksDB client
@@ -249,9 +249,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser
 
 ## HTTP
+ * [cossack](https://github.com/crystal-community/cossack) - Simple flexible HTTP client
  * [crul](https://github.com/porras/crul) - Command line HTTP client
  * [cryload](https://github.com/sdogruyol/cryload) - HTTP benchmarking tool
- * [crystal-cossack](https://github.com/greyblake/crystal-cossack) - Simple flexible HTTP client
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
  * [http-protection](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
  * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
@@ -327,10 +327,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Networking
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Native BSON implementation
- * [crystal-jwt](https://github.com/greyblake/crystal-jwt) - Implementation of JWT (JSON Web Token)
  * [CrystalIrc](https://github.com/Meoowww/CrystalIrc) - IRC implementation (Client, Server, Bots)
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
+ * [jwt](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
  * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
  * [transfer_more](https://github.com/Nephos/transfer_more) - Clone of transfer.sh to uploads files
 
@@ -484,7 +484,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [Ficha](https://github.com/codenoid/ficha) - A super secret chat app, for any body who needs privacy
- * [icr](https://github.com/greyblake/crystal-icr) - Interactive console for Crystal (like IRB for Ruby)
+ * [icr](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
  * [torrent](https://github.com/Papierkorb/torrent) - A BitTorrent client
