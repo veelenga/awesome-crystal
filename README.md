@@ -107,7 +107,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Caching
  * [bloom_filter](https://github.com/crystal-community/bloom_filter) - Implementation of Bloom filter
  * [bojack](https://github.com/marceloboeira/bojack) - A non-reliable in-memory key-value store
- * [cache-hash](https://github.com/samueleaton/cache-hash) - A key/value store where entries expire after a specified interval
  * [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
  * [Nuummite](https://github.com/CodeSteak/Nuummite) - A tiny persistent embedded key-value store
 
@@ -412,7 +411,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
  * [spec2-mocks](https://github.com/waterlink/spec2-mocks.cr) - An adapter of mocks.cr for spec2.cr
  * [spec2.cr](https://github.com/waterlink/spec2.cr) - Enhanced testing library
- * [timecop.cr](https://github.com/waterlink/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem](https://github.com/travisjeffery/timecop)
+ * [timecop.cr](https://github.com/TobiasGSmollett/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ## Third-party APIs
@@ -437,7 +436,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry](https://github.com/getsentry/sentry)
  * [slack.cr](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library
  * [spotify.cr](https://github.com/marceloboeira/spotify.cr) - A library to access the Spotify API
- * [tele.cr](https://github.com/vladfaust/tele.cr) - A *convenient* wrapper for the Telegram Bot API
  * [telegram_bot](https://github.com/hangyas/telegram_bot) - A wrapper for the Telegram Bot API
 
 ## Virtualization
