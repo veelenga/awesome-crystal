@@ -221,6 +221,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cr-melon](https://github.com/gdotdesign/cr-melon) - Class based Http APIs
  * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
+ * [graphql](https://github.com/ziprandom/graphql-crystal) - A graphql implementation for crystal
  * [kave](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
  * [kemal-flash](https://github.com/neovintage/kemal-flash) - Temporary storage between actions in Kemal
@@ -448,7 +449,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Web Frameworks
  * [amber](https://github.com/Amber-Crystal/amber) - Open source efficient and cohesive web application framework
  * [amethyst](https://github.com/Codcore/Amethyst) - A Rails inspired web-framework
- * [graphql](https://github.com/ziprandom/graphql-crystal) - A graphql implementation for crystal
  * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
  * [luckyframework](https://github.com/luckyframework) - Fast, maintainable and confidence boosting web framework
