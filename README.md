@@ -336,6 +336,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
  * [jwt](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
  * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
+ * [phoenix.cr](https://github.com/dtcristo/phoenix.cr) - Phoenix Channels client
  * [transfer_more](https://github.com/Nephos/transfer_more) - Clone of transfer.sh to uploads files
 
 ## ORM/ODM Extensions
