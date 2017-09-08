@@ -188,7 +188,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [chuck-norris-holy-quotes](https://github.com/codenoid/chuck-norris-holy-quotes) - Chuck Norris holy quotes
  * [clamp](https://github.com/johnjansen/clamp) - Clamp any Comparable
  * [crsfml-examples](https://github.com/oprypin/crsfml-examples) - Simple games made with CrSFML
- * [crystal-base](https://github.com/ruivieira/crystal-base) - CentOS base docker image for Crystal development
  * [crystal-benchmarks-game](https://github.com/kostya/crystal-benchmarks-game) - The Computer Language Benchmarks Game
  * [crystal-by-example](https://github.com/askn/crystal-by-example) - Crystal By Example
  * [Crystal-Maze](https://github.com/Demonstrandum/Crystal-Maze) - A* Path finding for PNG mazes
@@ -497,6 +496,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [torrent](https://github.com/Papierkorb/torrent) - A BitTorrent client
 
 # Tools
+ * [crystal-base](https://github.com/ruivieira/crystal-base) - CentOS base docker image for Crystal development
  * [crystal-ctags](https://github.com/SuperPaintman/crystal-ctags) - Ctags generator for Crystal
  * [crystal-dash-docset](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
 
