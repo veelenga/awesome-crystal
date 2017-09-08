@@ -497,6 +497,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [torrent](https://github.com/Papierkorb/torrent) - A BitTorrent client
 
 # Tools
+ * [crystal-base](https://github.com/ruivieira/crystal-base) - CentOS base docker image for Crystal development
  * [crystal-ctags](https://github.com/SuperPaintman/crystal-ctags) - Ctags generator for Crystal
  * [crystal-dash-docset](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
 
