@@ -259,6 +259,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crul](https://github.com/porras/crul) - Command line HTTP client
  * [cryload](https://github.com/sdogruyol/cryload) - HTTP benchmarking tool
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
+ * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) - Mounting multiple servers via routes (a.k.a. URL mapping)
  * [http-protection](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
  * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
  * [http_distributor](https://github.com/Nephos/http_distributor) - HTTP server which allows sneaky http requests
