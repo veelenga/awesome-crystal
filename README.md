@@ -345,7 +345,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
  * [crecto](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
- * [granite-orm](https://github.com/amber-crystal/granite-orm) - ORM for Postgres, Mysql, Sqlite
+ * [granite-orm](https://github.com/amberframework/granite-orm) - ORM for Postgres, Mysql, Sqlite
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
@@ -451,7 +451,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rcpu](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
 
 ## Web Frameworks
- * [amber](https://github.com/Amber-Crystal/amber) - Open source efficient and cohesive web application framework
+ * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
  * [amethyst](https://github.com/Codcore/Amethyst) - A Rails inspired web-framework
  * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
