@@ -294,7 +294,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
 
 ## Machine Learning
- * [crystal-fann](https://github.com/bararchy/crystal-fann) - FANN (Fast Artifical Neural Network) binding
+ * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
  * [crystal-learn](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library
  * [grey_matter](https://github.com/dorkrawk/grey_matter) - A basic artificial neural network library
  * [machine](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm
