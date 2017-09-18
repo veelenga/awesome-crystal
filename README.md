@@ -316,6 +316,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
  * [denetmen](https://github.com/izniburak/denetmen) - Useful micro validator / check library
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
+ * [HelpTransl8](https://github.com/papilip/helptransl8) - Tool for document translators
  * [hoop](https://github.com/0x73/hoop) - Building native OSX apps
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) - Internationalization shard
