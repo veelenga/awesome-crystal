@@ -303,7 +303,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Markdown/Text Processors
  * [html-pipeline](https://github.com/huacnlee/html-pipeline) - HTML processing filters and utilities
- * [markd](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification.
+ * [markd](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
  * [remarkdown](https://github.com/huacnlee/remarkdown) - GFM for Crystal
 
 ## Misc
