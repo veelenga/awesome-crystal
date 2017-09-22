@@ -258,6 +258,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cossack](https://github.com/crystal-community/cossack) - Simple flexible HTTP client
  * [crul](https://github.com/porras/crul) - Command line HTTP client
  * [cryload](https://github.com/sdogruyol/cryload) - HTTP benchmarking tool
+ * [halite](https://github.com/icyleaf/halite) - Yet another simple HTTP and REST client with a chainable API, built-in sessions and timeouts
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
  * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) - Mounting multiple servers via routes (a.k.a. URL mapping)
  * [http-protection](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
@@ -302,6 +303,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Markdown/Text Processors
  * [html-pipeline](https://github.com/huacnlee/html-pipeline) - HTML processing filters and utilities
+ * [markd](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
  * [remarkdown](https://github.com/huacnlee/remarkdown) - GFM for Crystal
 
 ## Misc
