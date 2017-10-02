@@ -194,7 +194,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-by-example](https://github.com/askn/crystal-by-example) - Crystal By Example
  * [Crystal-Maze](https://github.com/Demonstrandum/Crystal-Maze) - A* Path finding for PNG mazes
  * [crystal-mysql-crud-example](https://github.com/codenoid/crystal-mysql-crud-example) - Crystal MySQL CRUD example
- * [crystal-patterns](https://github.com/veelenga/crystal-patterns) - Examples of GOF patters
+ * [crystal-patterns](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
  * [crystal_samples](https://github.com/tbpgr/crystal_samples) - Variety of Crystal samples
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
  * [docker-kemal](https://github.com/ianblenke/docker-kemal) - An example Dockerized Crystal Kemal project
