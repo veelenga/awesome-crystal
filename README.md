@@ -71,6 +71,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
  * [delimiter_tree](https://github.com/drujensen/delimiter_tree) - A tree structure that is built using a delimiter
  * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
+ * [hash_ring](https://github.com/TobiasGSmollett/hash_ring) - An Implementation of Consistent Hash Ring
  * [miller_rabin](https://github.com/kuende/miller_rabin) - Implements [Miller-Rabin](https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Primality_Testing) algorithm to check if a number is prime
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
  * [murmur3](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra
