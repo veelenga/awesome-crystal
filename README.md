@@ -384,6 +384,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Routing
  * [beryl](https://github.com/luislavena/beryl) - Action-focused HTTP routing library
  * [crouter](https://github.com/jreinert/crouter) - A standalone router
+ * [orion](https://github.com/obsidian/orion) - A minimal, rails'esk routing library.
  * [router.cr](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
  * [toro](https://github.com/soveran/toro) - Tree Oriented Routing
 
