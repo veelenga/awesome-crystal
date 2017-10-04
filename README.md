@@ -344,6 +344,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
  * [jwt](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
+ * [jwt.cr](https://github.com/rogeriozambon/jwt.cr) - Simple JWT implementation
  * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
  * [transfer_more](https://github.com/Nephos/transfer_more) - Clone of transfer.sh to uploads files
 
