@@ -293,6 +293,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-logreader](https://github.com/arcage/crystal-logreader) - Tailing log file
  * [fluent-logger-crystal](https://github.com/TobiasGSmollett/fluent-logger-crystal) - A structured logger for [Fluentd](https://www.fluentd.org/)
  * [katip](https://github.com/guvencenanguvenal/katip) - JSONbase logger
+ * [logging](https://github.com/kiterminal/logging) - A logging library for using in Crystal language
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
  * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
 
