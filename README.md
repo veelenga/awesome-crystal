@@ -444,7 +444,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) - Google Maps API
  * [hncr](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper
  * [nexmo-crystal](https://github.com/timcraft/nexmo-crystal) - [Nexmo REST API](https://developer.nexmo.com/) client
- * [ocean_kit](https://github.com/osfx/ocean_kit) - [Digital Ocean v2 API](https://developers.digitalocean.com/documentation/v2) client
+ * [ocean_kit](https://github.com/osfx/ocean_kit) - [Digital Ocean v2 API](https://developers.digitalocean.com/documentation/v2/) client
  * [open_exchange_rates](https://github.com/osfx/open_exchange_rates) - A library to access [Open Exchange Rates](https://openexchangerates.org/) API
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
  * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry](https://github.com/getsentry/sentry)
@@ -459,7 +459,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
- * [amethyst](https://github.com/Codcore/Amethyst) - A Rails inspired web-framework
+ * [amethyst](https://github.com/crystal-community/Amethyst) - A Rails inspired web-framework
  * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
  * [luckyframework](https://github.com/luckyframework) - Fast, maintainable and confidence boosting web framework
@@ -479,7 +479,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [IRC](http://irc.lc/freenode/crystal-lang) - #crystal-lang on Freenode
  * [Metaruby](https://metaruby.com/c/crystal-forum) - Crystal Forum on Metaruby
  * [Reddit](https://www.reddit.com/r/crystal_programming/)
- * [Slack Group](http://crystal.pine.moe/en/)
  * [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
 
 # Resources
