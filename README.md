@@ -124,12 +124,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Cli Utils
  * [dl](https://github.com/creadone/dl) - Simple utility for download files by URLs from list
+ * [noteesh](https://github.com/arandilopez/noteesh) - Notes and Todo list in command line
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
  * [todo](https://github.com/Nephos/todo) - Todo list working in command line
- * [noteesh](https://github.com/arandilopez/noteesh) - Notes and Todo list in command line
 
 ## Configuration
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
