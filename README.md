@@ -320,6 +320,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [clamd.cr](https://github.com/RX14/clamd.cr) - Client for the clamd antivirus server
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
+ * [crystal_on_steroids](https://github.com/werner/crystal_on_steroids) - A group of methods to make Crystal more programmer friendly
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
  * [denetmen](https://github.com/izniburak/denetmen) - Useful micro validator / check library
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
