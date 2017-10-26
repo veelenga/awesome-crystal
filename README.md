@@ -204,6 +204,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-react-chat](https://github.com/f/kemal-react-chat) - Build Realtime Web applications with Kemal and React
  * [lattice-core-card-game](https://github.com/jasonl99/card_game) - A demo web app for (WebSocket-based) lattice-core
  * [medley](https://github.com/jwoertink/medley) - A mixture of music related methods
+ * [os-crystal](https://github.com/lbguilherme/os-crystal) - x86 Kernel implemented in Crystal
  * [realtime-todo-app](https://github.com/Angarsk8/realtime-todo-app) - Realtime Todo application developed with Kemal, Websockets, React, ES2015 and PostgreSQL
  * [rocky](https://github.com/codingphasedotcom/rocky) - React Over Crystal Kemal and Yarn
  * [try.cr](https://github.com/maiha/try.cr) - Try monad
@@ -233,10 +234,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) - Bindings for [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
  * [glove](https://github.com/ddfreyne/glove) - A library for gaming development
  * [inari](https://github.com/ddfreyne/inari) - A collection of games using Glove as the game engine
+ * [mos_game](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game
 
 ## HTML/XML Parsing
  * [crystagiri](https://github.com/madeindjs/Crystagiri) - An Html Reader / parser like [Nokogiri](https://github.com/sparklemotion/nokogiri) Ruby gem
  * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - Bindings for [Gumbo](https://github.com/google/gumbo-parser), an HTML5 parsing library made by Google
+ * [hq.cr](https://github.com/maiha/hq.cr) - Simple wrapper for crystal-xml
  * [modest](https://github.com/kostya/modest) - CSS selectors for HTML5 Parser myhtml
  * [myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser
 
@@ -245,8 +248,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crul](https://github.com/porras/crul) - Command line HTTP client
  * [cryload](https://github.com/sdogruyol/cryload) - HTTP benchmarking tool
  * [halite](https://github.com/icyleaf/halite) - Yet another simple HTTP and REST client with a chainable API, built-in sessions and timeouts
+ * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
  * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) - Mounting multiple servers via routes (a.k.a. URL mapping)
  * [http-protection](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
+ * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
  * [http_distributor](https://github.com/Nephos/http_distributor) - HTTP server which allows sneaky http requests
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
  * [keyer_cr](https://github.com/danielpclark/keyer_cr) - Adds HTTP GET/POST parameter parsing as a Hash-like object
@@ -261,6 +266,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [charly](https://github.com/charly-lang) - Charly Programming Language
  * [cltk](https://github.com/ziprandom/cltk) - A crystal port of the Ruby Language Toolkit
  * [cppize](https://github.com/unn4m3d/cppize) - Crystal-to-C++ transpiler
+ * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
  * [crow](https://github.com/geppetto-apps/crow) - Transpile/compile Crystal to [Flow](https://flow.org/)
  * [myst-lang](https://github.com/myst-lang/) - A practical, dynamic language designed to be written and understood as easily and efficiently as possible
  * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - An OS written in Crystal as a Proof of Concept
@@ -317,6 +323,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
  * [jwt](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
  * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
+ * [transfer_more](https://github.com/Nephos/transfer_more) - Clone of transfer.sh to uploads files
 
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
@@ -379,9 +386,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Template Engine
  * [crikey](https://github.com/domgetter/crikey) - Templating engine inspired by [Hiccup](https://github.com/weavejester/hiccup)
  * [crinja](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
+ * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
  * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
  * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
  * [teeplate](https://github.com/mosop/teeplate) - A library for rendering multiple template files
+ * [temel](https://github.com/f/temel) - Extensible HTML::Builder alternative for Crystal, supports custom tag definitions
 
 ## Testing
  * [crotest](https://github.com/emancu/crotest) - A tiny and simple test framework
@@ -403,8 +412,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-monzo](https://github.com/barisbalic/crystal-monzo) - A client for the [Monzo API](https://monzo.com/docs/)
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
+ * [dotacr](https://github.com/azah/dotacr) - Wrapper for Valve's DotA API
  * [GDAX](https://github.com/mccallofthewild/gdax) - GDAX REST and WebSocket API Wrapper with request signing
  * [gitlab.cr](https://github.com/icyleaf/gitlab.cr) - GitLab API wrapper
+ * [google_maps_api](https://github.com/fridgerator/google_maps_api) - Google Maps API
  * [hncr](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper
  * [mixpanel-crystal](https://github.com/petoem/mixpanel-crystal) - A library for sending events to Mixpanel
  * [nexmo-crystal](https://github.com/timcraft/nexmo-crystal) - [Nexmo REST API](https://developer.nexmo.com/) client
@@ -464,6 +475,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
  * [soundmemes.cr](https://github.com/vladfaust/soundmemes.cr) - Telegram Bot built on top of tele.cr
+ * [torrent](https://github.com/Papierkorb/torrent) - A BitTorrent client
 
 # Tools
  * [crystal-base](https://github.com/ruivieira/crystal-base) - CentOS base docker image for Crystal development
