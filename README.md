@@ -496,6 +496,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kr.crystal-lang.org](https://kr.crystal-lang.org/) - Korean
  * [ru.crystal-lang.org](http://ru.crystal-lang.org/) - Russian
  * [tw.crystal-lang.org](http://tw.crystal-lang.org/) - Chinese Traditional
+ 
+## Talks
+ * [Crystal: The Programming Language](https://www.youtube.com/watch?v=aEDnRjor21Y) - Presented by [Luis Ferreira](https://github.com/zamith) @ Eurucamp 2015
 
 # Services and Apps
  * [carc.in](https://carc.in/) - A web service that runs your code and displays the result
