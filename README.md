@@ -146,7 +146,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Data Generators
  * [faker](https://github.com/askn/faker) - A library for generating fake data
  * [hashids.cr](https://github.com/splattael/hashids.cr) - A library to generate YouTube-like ids from one or many numbers
-
+ * [uuid](https://github.com/wontruefree/uuid) - A library for generating UUIDs
+ 
 ## Database Drivers/Clients
  * [arangocr](https://github.com/solisoft/arangocr) - ArangoDB client
  * [crystal-db](https://github.com/crystal-lang/crystal-db) - Common db api
