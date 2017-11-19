@@ -328,6 +328,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
+ * [clear](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
  * [core](https://github.com/vladfaust/core.cr) - Pure, transparent and efficient ORM
  * [crecto](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
  * [granite-orm](https://github.com/amberframework/granite-orm) - ORM for Postgres, Mysql, Sqlite
