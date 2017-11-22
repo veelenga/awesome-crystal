@@ -132,6 +132,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
  * [crystal-toml](https://github.com/manastech/crystal-toml) - TOML parser
  * [dockerfile.cr](https://github.com/keplersj/dockerfile.cr) - Dockerfile Parsing Library
+ * [habitat](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules.
  * [zq](https://github.com/colstrom/zq) - Command-line ZPL processor
 
 ## Converters
