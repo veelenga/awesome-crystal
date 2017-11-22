@@ -437,7 +437,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
  * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
- * [luckyframework](https://github.com/luckyframework) - Fast, maintainable and confidence boosting web framework
+ * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests.
  * [raze](https://github.com/samueleaton/raze) - Modular, light web framework
 
 ## Web Servers
