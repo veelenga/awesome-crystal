@@ -320,7 +320,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Networking
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Native BSON implementation
- * [CrystalIrc](https://github.com/Meoowww/CrystalIrc) - IRC implementation (Client, Server, Bots)
+ * [Crirc](https://github.com/Meoowww/Crirc) - IRC protocol implementation (Client, Server, Bots)
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
  * [jwt](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
