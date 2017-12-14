@@ -1,31 +1,18 @@
 # Contribution guidelines
 
-  - **To add to the list**: submit a pull request
-  - **To remove from the list**: open an issue
+Keep in mind that the list is very mature by now, so the bar of getting something accepted is high. Only submit something unique and generally useful.
 
-## I want to add a new entry to the list
+  - **If you just created something, wait at least 30 days before submitting** to give it some time to mature and ensure it's not just a publish-and-forget type of project
+  - Actively maintained:
+    - Regular, recent commits
+    - Or, for finished projects, issues and pull requests are responded to
+  - Ensure your work follows general quality rules ([Crystal Shards 101](https://github.com/mccallofthewild/crystal-shards-101) if this is a Crystal shard)
 
-  - Contribute links to the packages/projects you are familiar with
-  - Search existed entry/suggestion before making a new one
-  - **Run specs (`crystal spec`) before opening a pull request**
+## List quality rules
 
-### List quality rules
+  - List items are sorted alphabetically
+  - Descriptions are clear and concise. For example, excessive information like *"... for Crystal programming language"* is omitted, because it is implied
+  - No duplicates
+  - No unnecessary empty lines and trailing spaces
 
-  - List items should be sorted alphabetically
-  - Each item should be limited to one link
-  - Description should be clear and concise. **Excessive information like *"... for Crystal programming language"* should be omitted**
-
-### New package requirements
-
-Package/project is a good candidate to add to the list if it is:
-
-  - Generally useful to the community
-  - Functional
-  - Actively maintained
-  - Stable
-  - Documented
-  - Has tests (when possible)
-
-## I want to open an issue
-
-Please open an issue if you find anything that could be enhanced or have any suggestions for making the list more useful.
+Most of this rules are guaranteed by automatic specs (`crystal spec`). Be sure specs pass before creating a PR.
