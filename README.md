@@ -291,6 +291,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
  * [crystal-learn](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library
  * [grey_matter](https://github.com/dorkrawk/grey_matter) - A basic artificial neural network library
+ * [shainet](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
  * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow](https://github.com/tensorflow/tensorflow)
 
 ## Markdown/Text Processors
