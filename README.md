@@ -73,11 +73,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [delimiter_tree](https://github.com/drujensen/delimiter_tree) - A tree structure that is built using a delimiter
  * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
  * [hash_ring](https://github.com/TobiasGSmollett/hash_ring) - An Implementation of Consistent Hash Ring
- * [oak](https://github.com/obsidian/oak) - A flexible Radix Tree implementation for crystal.
  * [markov](https://github.com/mccallofthewild/markov) - Build Markov Chains and run Markov Processes
  * [miller_rabin](https://github.com/kuende/miller_rabin) - Implements [Miller-Rabin](https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Primality_Testing) algorithm to check if a number is prime
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
  * [murmur3](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra
+ * [oak](https://github.com/obsidian/oak) - A flexible Radix Tree implementation for crystal.
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
  * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) - Ternary Search Tree
  * [text](https://github.com/johnjansen/text) - A collection of text algorithms
