@@ -77,6 +77,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [miller_rabin](https://github.com/kuende/miller_rabin) - Implements [Miller-Rabin](https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Primality_Testing) algorithm to check if a number is prime
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
  * [murmur3](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra
+ * [oak](https://github.com/obsidian/oak) - A flexible Radix Tree implementation
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
  * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) - Ternary Search Tree
  * [text](https://github.com/johnjansen/text) - A collection of text algorithms
