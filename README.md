@@ -369,7 +369,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Routing
  * [crouter](https://github.com/jreinert/crouter) - A standalone router
- * [orion](https://github.com/obsidian/orion) - A minimal, rails-esque routing library.
+ * [orion](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
  * [router.cr](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
  * [toro](https://github.com/soveran/toro) - Tree Oriented Routing
 
