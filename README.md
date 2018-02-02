@@ -325,6 +325,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [tren](https://github.com/sdogruyol/tren) - Give your SQL some love
  * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
  * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
+ * [Gravatarcr](https://github.com/changjoo-park/gravatarcr) - Gravatar url library 
 
 ## Networking
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
