@@ -369,6 +369,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Queues and Messaging
  * [dispatch](https://github.com/bmulvihill/dispatch) - In memory asynchronous job processing
+ * [mosquito](https://github.com/robacarp/mosquito/) - Redis backed periodic and ad hoc job processing
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## Routing
