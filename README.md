@@ -99,6 +99,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [java.cr](https://github.com/ysbaddaden/java.cr) - Java Native Interface (JNI) bindings (and generator)
  * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
  * [pcap.cr](https://github.com/maiha/pcap.cr) - Bindings for libpcap
+ * [pledge.cr](https://github.com/chris-huxtable/pledge.cr) - Bindings for OpenBSD's `pledge(2)`
  * [posix](https://github.com/ysbaddaden/posix) - POSIX/C bindings
  * [soundfile](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
  * [ssh2.cr](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
