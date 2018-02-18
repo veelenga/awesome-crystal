@@ -490,6 +490,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Ficha](https://github.com/codenoid/ficha) - A super secret chat app, for any body who needs privacy
  * [Firegrid](https://github.com/foliea/firegrid) - Click anywhere with only a few key strokes
  * [icr](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
+ * [JSON to Crystal](https://watzon.me/projects/json-to-crystal) - Paste in a JSON object and get Crystal mappings in response
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
  * [soundmemes.cr](https://github.com/vladfaust/soundmemes.cr) - Telegram Bot built on top of tele.cr
