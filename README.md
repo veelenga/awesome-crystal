@@ -42,7 +42,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Package Management](#package-management)
   * [Processes and Threads](#processes-and-threads)
   * [Project Generators](#project-generators)
-  * [Queue](#queue)
+  * [Queues and Messaging](#queues-and-messaging)
   * [Routing](#routing)
   * [Scheduling](#scheduling)
   * [Science and Data analysis](#science-and-data-analysis)
