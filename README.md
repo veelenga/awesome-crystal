@@ -366,7 +366,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [libgen](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
  * [wasp](https://github.com/icyleaf/wasp) - Static Site Generator
 
-## Queue
+## Queues and Messaging
  * [dispatch](https://github.com/bmulvihill/dispatch) - In memory asynchronous job processing
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
