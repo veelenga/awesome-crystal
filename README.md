@@ -266,6 +266,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [http_distributor](https://github.com/Nephos/http_distributor) - HTTP server which allows sneaky http requests
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
  * [keyer_cr](https://github.com/danielpclark/keyer_cr) - Adds HTTP GET/POST parameter parsing as a Hash-like object
+ * [ngrok.cr](https://github.com/watzon/ngrok.cr) - Ngrok wrapper
  * [resp-crystal](https://github.com/soveran/resp-crystal) - Lightweight RESP client
 
 ## Image processing
