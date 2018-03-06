@@ -18,6 +18,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Cli Utils](#cli-utils)
   * [Configuration](#configuration)
   * [Converters](#converters)
+  * [Data Formats](#data-formats)
   * [Data Generators](#data-generators)
   * [Database Drivers/Clients](#database-driversclients)
   * [Database Tools](#database-tools)
@@ -37,6 +38,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Machine Learning](#machine-learning)
   * [Markdown/Text Processors](#markdowntext-processors)
   * [Misc](#misc)
+  * [Network Protocols](#network-protocols)
   * [Networking](#networking)
   * [ORM/ODM Extensions](#ormodm-extensions)
   * [Package Management](#package-management)
@@ -120,6 +122,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [commander](https://github.com/mrrooijen/commander) - Command-line interface builder
  * [completion](https://github.com/f/completion) - Easy command line completion engine
  * [optarg](https://github.com/mosop/optarg) - Yet another library for parsing command-line options and arguments
+ * [OptionParser](https://crystal-lang.org/api/OptionParser.html) - command-line options processing (Crystal stdlib)
 
 ## Cli Utils
  * [dl](https://github.com/creadone/dl) - Simple utility for download files by URLs from list
@@ -132,10 +135,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Configuration
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
- * [crystal-toml](https://github.com/manastech/crystal-toml) - TOML parser
- * [dockerfile.cr](https://github.com/keplersj/dockerfile.cr) - Dockerfile Parsing Library
  * [habitat](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
- * [zq](https://github.com/colstrom/zq) - Command-line ZPL processor
 
 ## Converters
  * [human_file_size.cr](https://github.com/johnjansen/human_file_size.cr) - JSON & YAML mapping converter for human file sizes in serialized data
@@ -145,6 +145,19 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [time_format.cr](https://github.com/vladfaust/time_format.cr) - Convert time in human readable format with ease
  * [turkish-number](https://github.com/izniburak/turkish-number) - Turn integers into the Turkish words
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter)
+
+## Data Formats
+ * [crystal-toml](https://github.com/manastech/crystal-toml) - TOML parser
+ * [CSV](https://crystal-lang.org/api/CSV.html) - parsing and generating for comma-separated values (Crystal stdlib)
+ * [dockerfile.cr](https://github.com/keplersj/dockerfile.cr) - Dockerfile Parsing Library
+ * [Gzip](https://crystal-lang.org/api/Gzip.html) - readers and writers of gzip format (Crystal stdlib)
+ * [INI](https://crystal-lang.org/api/INI.html) - INI file parser (Crystal stdlib)
+ * [JSON](https://crystal-lang.org/api/JSON.html) - parsing and generating JSON documents (Crystal stdlib)
+ * [XML](https://crystal-lang.org/api/XML.html) - parsing and generating XML documents (Crystal stdlib)
+ * [YAML](https://crystal-lang.org/api/YAML.html) - parsing and generating YAML documents (Crystal stdlib)
+ * [Zip](https://crystal-lang.org/api/Zip.html) - readers and writers of zip format (Crystal stdlib)
+ * [Zlib](https://crystal-lang.org/api/Zlib.html) - readers and writers of zlib format (Crystal stdlib)
+ * [zq](https://github.com/colstrom/zq) - Command-line ZPL processor
 
 ## Data Generators
  * [faker](https://github.com/askn/faker) - A library for generating fake data
@@ -262,6 +275,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) - Mounting multiple servers via routes (a.k.a. URL mapping)
  * [http-protection](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
  * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
+ * [HTTP::Client](https://crystal-lang.org/api/HTTP/Client.html) - HTTP client (Crystal stdlib)
+ * [HTTP::Server](https://crystal-lang.org/api/HTTP/Server.html) - HTTP server (Crystal stdlib)
+ * [HTTP::WebSocket](https://crystal-lang.org/api/HTTP/WebSocket.html) - HTTP WebSocket client (Crystal stdlib)
  * [http_distributor](https://github.com/Nephos/http_distributor) - HTTP server which allows sneaky http requests
  * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
  * [keyer_cr](https://github.com/danielpclark/keyer_cr) - Adds HTTP GET/POST parameter parsing as a Hash-like object
@@ -287,6 +303,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-logreader](https://github.com/arcage/crystal-logreader) - Tailing log file
  * [fluent-logger-crystal](https://github.com/TobiasGSmollett/fluent-logger-crystal) - A structured logger for [Fluentd](https://www.fluentd.org/)
  * [katip](https://github.com/guvencenanguvenal/katip) - JSONbase logger
+ * [Logger](https://crystal-lang.org/api/Logger.html) - logging utility (Crystal stdlib)
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
  * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
 
@@ -327,15 +344,20 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
  * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
 
-## Networking
+## Network Protocols
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Native BSON implementation
  * [Crirc](https://github.com/Meoowww/Crirc) - IRC protocol implementation (Client, Server, Bots)
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
- * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
  * [jwt](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
  * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
+ * [OAuth](https://crystal-lang.org/api/OAuth.html) - OAuth consumer (Crystal stdlib)
+ * [OAuth2](https://crystal-lang.org/api/OAuth2.html) - OAuth2 client (Crystal stdlib)
+ * [OpenSSL](https://crystal-lang.org/api/OpenSSL.html) - bindings to libssl (Crystal stdlib)
  * [transfer_more](https://github.com/Nephos/transfer_more) - Clone of transfer.sh to uploads files
+
+## Networking
+ * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
 
 ## ORM/ODM Extensions
  * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
@@ -401,6 +423,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crikey](https://github.com/domgetter/crikey) - Templating engine inspired by [Hiccup](https://github.com/weavejester/hiccup)
  * [crinja](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
+ * [ECR (Embedded Crystal)](https://crystal-lang.org/api/ECR.html) - compile time template language which uses plain crystal expressions (Crystal stdlib)
  * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
  * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
  * [teeplate](https://github.com/mosop/teeplate) - A library for rendering multiple template files
@@ -411,6 +434,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [microtest](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
+ * [Spec](https://crystal-lang.org/api/Spec.html) - spec framework (Crystal stdlib)
  * [spec2-mocks](https://github.com/waterlink/spec2-mocks.cr) - An adapter of mocks.cr for spec2.cr
  * [spec2.cr](https://github.com/waterlink/spec2.cr) - Enhanced testing library
  * [timecop.cr](https://github.com/TobiasGSmollett/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem](https://github.com/travisjeffery/timecop)
