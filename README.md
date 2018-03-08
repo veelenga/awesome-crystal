@@ -16,6 +16,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Caching](#caching)
   * [Cli Builders](#cli-builders)
   * [Cli Utils](#cli-utils)
+  * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Configuration](#configuration)
   * [Converters](#converters)
   * [Data Formats](#data-formats)
@@ -133,6 +134,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
  * [todo](https://github.com/Nephos/todo) - Todo list working in command line
+
+## Code Analysis and Metrics
+ * [ameba](https://github.com/veelenga/ameba) - A static code analysis tool
 
 ## Configuration
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
