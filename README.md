@@ -276,7 +276,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crest](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
  * [crul](https://github.com/porras/crul) - Command line HTTP client
  * [cryload](https://github.com/sdogruyol/cryload) - HTTP benchmarking tool
- * [halite](https://github.com/icyleaf/halite) - Yet another simple HTTP and REST client with a chainable API, built-in sessions and timeouts
+ * [halite](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - Set security-related HTTP headers
  * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) - Mounting multiple servers via routes (a.k.a. URL mapping)
  * [http-protection](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
