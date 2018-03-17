@@ -187,7 +187,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crecto-admin](https://github.com/Crecto/crecto-admin) - Admin dashboard for Crecto and your database
  * [micrate](https://github.com/juanedi/micrate) - Database migration tool
  * [migrate](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
- * [migro](https://github.com/aisrael/migro) - A database migration tool that allows both SQL and YAML migrations
+ * [migro](https://github.com/aisrael/migro) - A database migration tool that allows migrations to be specified in either YAML or raw SQL
 
 ## Development Tools
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
