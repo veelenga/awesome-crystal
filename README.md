@@ -89,6 +89,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-rest-api](https://github.com/blocknotes/kemal-rest-api) - A library to create RESTful API with Kemal
 
 ## C bindings
+ * [android.cr](https://github.com/ysbaddaden/android.cr) - Create Android applications using Crystal and the NDK
  * [asound-cr](https://github.com/TamasSzekeres/asound-cr) - Bindings for ALSA/libasound
  * [cairo-cr](https://github.com/TamasSzekeres/cairo-cr) - Bindings for [Cairo](https://cairographics.org/) graphics library
  * [clang.cr](https://github.com/ysbaddaden/clang.cr) - Libclang bindings
@@ -333,7 +334,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Misc
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
  * [accord](https://github.com/neovintage/accord) - Sharable validations for Crystal objects
- * [android.cr](https://github.com/ysbaddaden/android.cr) - Create Android applications using Crystal and the NDK
  * [any_hash.cr](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
