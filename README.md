@@ -374,7 +374,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [clear](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
  * [core](https://github.com/vladfaust/core.cr) - Pure, transparent and efficient ORM
  * [crecto](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
- * [granite-orm](https://github.com/amberframework/granite-orm) - ORM for Postgres, Mysql, Sqlite
+ * [granite](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [record](https://github.com/luckyframework/record) - Type safe querying, saving and updating
