@@ -89,6 +89,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-rest-api](https://github.com/blocknotes/kemal-rest-api) - A library to create RESTful API with Kemal
 
 ## C bindings
+ * [android.cr](https://github.com/ysbaddaden/android.cr) - Create Android applications using Crystal and the NDK
  * [asound-cr](https://github.com/TamasSzekeres/asound-cr) - Bindings for ALSA/libasound
  * [cairo-cr](https://github.com/TamasSzekeres/cairo-cr) - Bindings for [Cairo](https://cairographics.org/) graphics library
  * [clang.cr](https://github.com/ysbaddaden/clang.cr) - Libclang bindings
