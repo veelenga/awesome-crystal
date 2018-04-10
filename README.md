@@ -99,7 +99,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
  * [icu.cr](https://github.com/olbat/icu.cr) - Bindings for the [ICU](http://site.icu-project.org/) library
- * [java.cr](https://github.com/ysbaddaden/java.cr) - Java Native Interface (JNI) bindings (and generator)
  * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
  * [pcap.cr](https://github.com/maiha/pcap.cr) - Bindings for libpcap
  * [pledge.cr](https://github.com/chris-huxtable/pledge.cr) - Bindings for OpenBSD's `pledge(2)`
