@@ -495,6 +495,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Web Servers
  * [fast-http-server](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server
  * [prax.cr](https://github.com/ysbaddaden/prax.cr) - Rack proxy server for development
+ * [salt](https://github.com/icyleaf/salt) - A Human Friendly Interface for HTTP server
  * [serve](https://github.com/SuperPaintman/serve) - Command line static HTTP server
 
 # Community
