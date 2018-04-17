@@ -506,6 +506,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Metaruby](https://metaruby.com/c/crystal-forum) - Crystal Forum on Metaruby
  * [Reddit](https://www.reddit.com/r/crystal_programming/)
  * [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
+ * [Telegram Group](https://t.me/joinchat/A8YzHUgzrzKuVvHrElQECQ)
 
 # Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - free book to bootstrap your Crystal journey
