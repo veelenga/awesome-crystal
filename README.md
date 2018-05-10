@@ -432,7 +432,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
 
 ## System
- * [baked_file_system](https://github.com/schovi/baked_file_system) - Virtual file system implementation           
+ * [baked_file_system](https://github.com/schovi/baked_file_system) - Virtual file system implementation
+ * [hardware](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
  * [rcpu](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
 
 ## Task management
