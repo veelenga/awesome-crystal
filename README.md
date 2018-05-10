@@ -267,9 +267,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [mos_game](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game
 
 ## GUI library
+ * [hedron](https://github.com/Qwerp-Derp/hedron) - An extendable GUI library, with markup language capabilities
  * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui](https://github.com/andlabs/libui)
  * [qt5.cr](https://github.com/Papierkorb/qt5.cr) - Qt5 bindings for Crystal, based on Bindgen
- * [hedron](https://github.com/Qwerp-Derp/hedron) - An extendable GUI library, based off of [libui](https://github.com/andlabs/libui)
 
 ## HTML/XML Parsing
  * [crystagiri](https://github.com/madeindjs/Crystagiri) - An Html Reader / parser like [Nokogiri](https://github.com/sparklemotion/nokogiri) Ruby gem
