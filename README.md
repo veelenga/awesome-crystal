@@ -52,11 +52,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Scheduling](#scheduling)
   * [Science and Data analysis](#science-and-data-analysis)
   * [Search](#search)
+  * [System](#system)
   * [Task management](#task-management)
   * [Template Engine](#template-engine)
   * [Testing](#testing)
   * [Third-party APIs](#third-party-apis)
-  * [Virtualization](#virtualization)
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
 * [Community](#community)
@@ -431,6 +431,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [query.cr](https://github.com/waterlink/query.cr) - Query abstraction
  * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
 
+## System
+ * [baked_file_system](https://github.com/schovi/baked_file_system) - Virtual file system implementation
+ * [hardware](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
+ * [rcpu](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
+
 ## Task management
  * [cake](https://github.com/axvm/cake) - Production-ready Make-like utility tool
  * [sam](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
@@ -484,10 +489,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [telegram_bot](https://github.com/hangyas/telegram_bot) - A wrapper for the Telegram Bot API
  * [tourmaline](https://github.com/watzon/tourmaline) - Yet another Telegram Bot API wrapper
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
-
-## Virtualization
- * [baked_file_system](https://github.com/schovi/baked_file_system) - Virtual file system implementation
- * [rcpu](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
 
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
