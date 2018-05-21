@@ -14,6 +14,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 * [Awesome Crystal](#awesome-crystal)
   * [Algorithms and Data structures](#algorithms-and-data-structures)
   * [Api Builders](#api-builders)
+  * [Blockchain](#blockchain)
   * [C Bindings](#c-bindings)
   * [Caching](#caching)
   * [Cli Builders](#cli-builders)
@@ -89,6 +90,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Api Builders
  * [kemal-rest-api](https://github.com/blocknotes/kemal-rest-api) - A library to create RESTful API with Kemal
+
+## Blockchain
+ * [SushiChain](https://github.com/SushiChain/SushiChain) - A custom blockchain platform
 
 ## C bindings
  * [asound-cr](https://github.com/TamasSzekeres/asound-cr) - Bindings for ALSA/libasound
