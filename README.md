@@ -561,6 +561,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## DevOps
  * [ansible-crystal](https://github.com/CorbanR/ansible-crystal) - Ansible playbook for installing crystal
  * [crystal-cookbook](https://github.com/vjdhama/crystal-cookbook) - Chef cookbook for installing crystal
+ * [capistrano-kemal](https://github.com/bitfex/capistrano-kemal) - Capistrano Plugin for Kemal
 
 ## Editor Plugins
  * Atom
