@@ -348,7 +348,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
  * [accord](https://github.com/neovintage/accord) - Sharable validations for Crystal objects
  * [any_hash.cr](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
- * [atomic_write.cr](https://github.com/chris-huxtable/atomic_write.cr) - Reduces the opportunity for file corruption during write or append
+ * [atomic_write.cr](https://github.com/chris-huxtable/atomic_write.cr) - Library for writing or apppending files atomically
  * [burocracia.cr](https://github.com/vnbrs/burocracia.cr) - burocracia.cr the dependecyless shard to validate, generate and format Brazilian burocracias such as CPF, CNPJ and CEP
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
