@@ -158,10 +158,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter)
 
 ## Data Formats
+ * [config.cr](https://github.com/chris-huxtable/config.cr) - Easy to use configuration format parser
  * [crinder](https://github.com/c910335/crinder) - Class based json renderer
  * [crystal-toml](https://github.com/manastech/crystal-toml) - TOML parser
  * [CSV](https://crystal-lang.org/api/CSV.html) - parsing and generating for comma-separated values (Crystal stdlib)
  * [dockerfile.cr](https://github.com/keplersj/dockerfile.cr) - Dockerfile Parsing Library
+ * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) - Separates a files front matter from its content
  * [Gzip](https://crystal-lang.org/api/Gzip.html) - readers and writers of gzip format (Crystal stdlib)
  * [INI](https://crystal-lang.org/api/INI.html) - INI file parser (Crystal stdlib)
  * [JSON](https://crystal-lang.org/api/JSON.html) - parsing and generating JSON documents (Crystal stdlib)
@@ -425,6 +427,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Scheduling
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
+ * [crystime](https://github.com/docelic/crystime) - Advanced time, calendar, schedule, and remind library
  * [quartz](https://github.com/andrewhamon/quartz) - Crystal clear timers
  * [schedule.cr](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 
@@ -560,6 +563,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## DevOps
  * [ansible-crystal](https://github.com/CorbanR/ansible-crystal) - Ansible playbook for installing crystal
+ * [capistrano-kemal](https://github.com/bitfex/capistrano-kemal) - Capistrano Plugin for Kemal
  * [crystal-cookbook](https://github.com/vjdhama/crystal-cookbook) - Chef cookbook for installing crystal
 
 ## Editor Plugins
