@@ -428,7 +428,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Scheduling
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
- * [crystime](https://github.com/docelic/crystime) - Advanced time, calendar, schedule, and remind library
+ * [crystime](https://gitlab.com/crystallabs/crystime) - Advanced time, calendar, schedule, and remind library
  * [quartz](https://github.com/andrewhamon/quartz) - Crystal clear timers
  * [schedule.cr](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 
