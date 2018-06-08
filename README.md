@@ -546,6 +546,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cry](https://github.com/elorest/cry) - Ability to execute crystal code in a fashion similar to Ruby's pry edit
  * [Crystal [ANN]](https://crystal-ann.com) - Announce new project, blog post, version update or any other Crystal work
  * [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
+ * [Crystular](http://www.crystular.org) - Regular expression tester
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [Ficha](https://github.com/codenoid/ficha) - A super secret chat app, for any body who needs privacy
  * [Firegrid](https://github.com/foliea/firegrid) - Click anywhere with only a few key strokes
