@@ -87,6 +87,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
  * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) - Ternary Search Tree
  * [text](https://github.com/johnjansen/text) - A collection of text algorithms
+ * [result.cr](https://github.com/anicholson/result.cr) - the Result Monad, written in Crystal
 
 ## Api Builders
  * [kemal-rest-api](https://github.com/blocknotes/kemal-rest-api) - A library to create RESTful API with Kemal
