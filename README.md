@@ -85,6 +85,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [murmur3](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra
  * [oak](https://github.com/obsidian/oak) - A flexible Radix Tree implementation
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
+ * [result.cr](https://github.com/anicholson/result.cr) - the Result Monad, written in Crystal
  * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) - Ternary Search Tree
  * [text](https://github.com/johnjansen/text) - A collection of text algorithms
 
