@@ -529,6 +529,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Reddit](https://www.reddit.com/r/crystal_programming/)
  * [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
 
+## Unofficial
+ * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - Добро пожаловать, товарищ!
+
 # Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - free book to bootstrap your Crystal journey
  * [crystal-lang.org](https://crystal-lang.org) - Official language site
