@@ -61,6 +61,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
 * [Community](#community)
+  * [Unofficial](#unofficial)
 * [Resources](#resources)
   * [Official Documentation Translations](#official-documentation-translations)
 * [Services and Apps](#services-and-apps)
@@ -528,6 +529,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Metaruby](https://metaruby.com/c/crystal-forum) - Crystal Forum on Metaruby
  * [Reddit](https://www.reddit.com/r/crystal_programming/)
  * [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
+
+## Unofficial
+ * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - Добро пожаловать, товарищ!
 
 # Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - free book to bootstrap your Crystal journey
