@@ -18,7 +18,7 @@ class Readme
   end
 
   def refs(selects = nil)
-    set = find("//ul/li/a/@href").as XML::NodeSet
+    set = find("//ul/li/a[1]/@href").as XML::NodeSet
     refs = set.map { |node| node.text.as String }
     refs.select! { |x| x =~ selects } if selects
     refs
