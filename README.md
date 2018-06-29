@@ -257,6 +257,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [device_detector](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
+ * [Exception Page](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) implementation
  * [kave](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
