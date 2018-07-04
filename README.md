@@ -409,6 +409,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [shards](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
 
 ## Processes and Threads
+ * [await_async](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
  * [neph](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
  * [promise](https://github.com/jwaldrip/promise.cr) - A Promise Implementation
 
