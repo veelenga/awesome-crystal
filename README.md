@@ -565,7 +565,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
- * [soundmemes.cr](https://github.com/vladfaust/soundmemes.cr) - Telegram Bot built on top of tele.cr
  * [torrent](https://github.com/Papierkorb/torrent) - A BitTorrent client
 
 # Tools
