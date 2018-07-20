@@ -53,6 +53,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Scheduling](#scheduling)
   * [Science and Data analysis](#science-and-data-analysis)
   * [Search](#search)
+  * [Serverless Computing](#serverless-computing)
   * [System](#system)
   * [Task management](#task-management)
   * [Template Engine](#template-engine)
@@ -449,6 +450,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [query-builder](https://github.com/izniburak/query-builder) - Sql Query Builder library
  * [query.cr](https://github.com/waterlink/query.cr) - Query abstraction
  * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
+
+## Serverless Computing
+ * [gcf.cr](https://github.com/sam0x17/gcf.cr) - Managed execution of Crystal in Google Cloud Functions
 
 ## System
  * [baked_file_system](https://github.com/schovi/baked_file_system) - Virtual file system implementation
