@@ -135,6 +135,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [OptionParser](https://crystal-lang.org/api/OptionParser.html) - command-line options processing (Crystal stdlib)
 
 ## Cli Utils
+ * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
  * [dl](https://github.com/creadone/dl) - Simple utility for download files by URLs from list
  * [noteesh](https://github.com/arandilopez/noteesh) - Notes and Todo list in command line
  * [progress](https://github.com/askn/progress) - [==..] Progress bar
