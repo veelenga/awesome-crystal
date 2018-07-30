@@ -609,4 +609,5 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
    * [vscode-crystal-lang](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
 
 ## Shell plugins
+ * [crun](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
  * [crystal-zsh](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugin
