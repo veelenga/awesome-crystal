@@ -320,6 +320,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) - Charly Programming Language
+ * [cibyl](https://github.com/senselogic/CIBYL) - Lightweight language which compiles to Ruby and Crystal.
  * [cltk](https://github.com/ziprandom/cltk) - A crystal port of the Ruby Language Toolkit
  * [cppize](https://github.com/unn4m3d/cppize) - Crystal-to-C++ transpiler
  * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
