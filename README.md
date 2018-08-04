@@ -381,7 +381,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
 
 ## Network Protocols
- * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Native BSON implementation
  * [Crirc](https://github.com/Meoowww/Crirc) - IRC protocol implementation (Client, Server, Bots)
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket](https://github.com/foi/ruby-json-socket)
@@ -427,6 +426,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [wasp](https://github.com/icyleaf/wasp) - Static Site Generator
 
 ## Queues and Messaging
+ * [amqp.cr](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
  * [dispatch](https://github.com/bmulvihill/dispatch) - In memory asynchronous job processing
  * [mosquito](https://github.com/robacarp/mosquito/) - Redis backed periodic and ad hoc job processing
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
