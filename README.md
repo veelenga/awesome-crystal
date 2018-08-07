@@ -89,6 +89,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
  * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) - Ternary Search Tree
  * [text](https://github.com/johnjansen/text) - A collection of text algorithms
+ * [bisect](https://github.com/spider-gazelle/bisect) - inserting values into a sorted array
 
 ## Api Builders
  * [kemal-rest-api](https://github.com/blocknotes/kemal-rest-api) - A library to create RESTful API with Kemal
@@ -416,6 +417,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [neph](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
  * [promise](https://github.com/jwaldrip/promise.cr) - A Promise Implementation
+ * [promise](https://github.com/spider-gazelle/promise) - A flexible Promise implementation that supports dynamic types
 
 ## Project Generators
  * [bindgencr](https://github.com/TechMagister/bindgencr) - Generator of bindings based on castxml output
@@ -442,6 +444,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystime](https://gitlab.com/crystallabs/crystime) - Advanced time, calendar, schedule, and remind library
  * [quartz](https://github.com/andrewhamon/quartz) - Crystal clear timers
  * [schedule.cr](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
+ * [tasker](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ## Science and Data analysis
  * [linalg](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
