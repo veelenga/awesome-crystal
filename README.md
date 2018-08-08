@@ -416,8 +416,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [await_async](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [neph](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
- * [promise](https://github.com/jwaldrip/promise.cr) - A Promise Implementation
- * [promise](https://github.com/spider-gazelle/promise) - A flexible Promise implementation that supports dynamic types
+ * [promise](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
 
 ## Project Generators
  * [bindgencr](https://github.com/TechMagister/bindgencr) - Generator of bindings based on castxml output
