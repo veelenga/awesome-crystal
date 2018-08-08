@@ -151,7 +151,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Configuration
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
  * [habitat](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
- * [totem](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats.
+ * [totem](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
 
 ## Converters
  * [base62.cr](https://github.com/Sija/base62.cr) - Base62 encoder/decoder, well suited for url-shortening
