@@ -524,7 +524,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lattice-core](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
  * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
- * [prism](https://github.com/vladfaust/prism) - Light, modular web framework
+ * [prism](https://github.com/vladfaust/prism) - Lightspeed web framework with typed params
  * [raze](https://github.com/samueleaton/raze) - Modular, light web framework
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
