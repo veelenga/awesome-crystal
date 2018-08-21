@@ -550,6 +550,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - free book to bootstrap your Crystal journey
  * [crystal-lang.org](https://crystal-lang.org) - Official language site
  * [devdocs.io](https://devdocs.io/crystal/) - API Documentation Browser with Crystal support
+ * [getgood.at](https://getgood.at/crystal/in-a-day) - Learn Crystal in a Day
 
 ## Official Documentation Translations
  * [br.crystal-lang.org](http://br.crystal-lang.org/) - Brazilian
