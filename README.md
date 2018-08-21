@@ -340,6 +340,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Logger](https://crystal-lang.org/api/Logger.html) - logging utility (Crystal stdlib)
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
  * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
+ * [syslog.cr](https://github.com/chris-huxtable/syslog.cr) - Adds syslog functionality to crystal
 
 ## Machine Learning
  * [ai4cr](https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (based on https://github.com/SergioFierens/ai4r)
