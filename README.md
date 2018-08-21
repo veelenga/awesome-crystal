@@ -73,6 +73,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Algorithms and Data structures
  * [aho_corasick](https://github.com/chenkovsky/aho_corasick) - AhoCorasick algorithm
+ * [bisect](https://github.com/spider-gazelle/bisect) - Inserting values into a sorted array
  * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
  * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
  * [crystaledge](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
@@ -417,7 +418,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [await_async](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
  * [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [neph](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
- * [promise](https://github.com/jwaldrip/promise.cr) - A Promise Implementation
+ * [promise](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
 
 ## Project Generators
  * [bindgencr](https://github.com/TechMagister/bindgencr) - Generator of bindings based on castxml output
@@ -444,6 +445,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystime](https://gitlab.com/crystallabs/crystime) - Advanced time, calendar, schedule, and remind library
  * [quartz](https://github.com/andrewhamon/quartz) - Crystal clear timers
  * [schedule.cr](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
+ * [tasker](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ## Science and Data analysis
  * [linalg](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
