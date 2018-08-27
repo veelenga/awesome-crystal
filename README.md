@@ -485,6 +485,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Testing
  * [coverage](https://github.com/anykeyh/crystal-coverage) – Generate cover report for your crystal code
  * [crotest](https://github.com/emancu/crotest) - A tiny and simple test framework
+ * [crystal-clear](https://github.com/Groogy/crystal-clear) - Design by Contract Library
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) - Automated browser tests similar to Capybara
  * [mass-spec](https://github.com/c910335/mass-spec) - Web API testing library
  * [microtest](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
