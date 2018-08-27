@@ -137,6 +137,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [OptionParser](https://crystal-lang.org/api/OptionParser.html) - command-line options processing (Crystal stdlib)
 
 ## Cli Utils
+ * [crayon](https://github.com/crystalrealm/crayon) - Terminal Coloring library for Crystal
  * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
  * [dl](https://github.com/creadone/dl) - Simple utility for download files by URLs from list
  * [noteesh](https://github.com/arandilopez/noteesh) - Notes and Todo list in command line
@@ -145,7 +146,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
  * [todo](https://github.com/Nephos/todo) - Todo list working in command line
- * [Crayon](https://github.com/crystalrealm/crayon) - Terminal Coloring library for Crystal
 
 ## Code Analysis and Metrics
  * [ameba](https://github.com/veelenga/ameba) - A static code analysis tool
