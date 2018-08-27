@@ -145,6 +145,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
  * [todo](https://github.com/Nephos/todo) - Todo list working in command line
+ * [Crayon](https://github.com/crystalrealm/crayon) - Terminal Coloring library for Crystal
 
 ## Code Analysis and Metrics
  * [ameba](https://github.com/veelenga/ameba) - A static code analysis tool
