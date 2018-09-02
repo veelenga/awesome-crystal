@@ -82,6 +82,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [delimiter_tree](https://github.com/drujensen/delimiter_tree) - A tree structure that is built using a delimiter
  * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
  * [hash_ring](https://github.com/TobiasGSmollett/hash_ring) - An Implementation of Consistent Hash Ring
+ * [ksuid.cr](https://github.com/Sija/ksuid.cr) - K-Sortable Globally Unique IDs
  * [markov](https://github.com/mccallofthewild/markov) - Build Markov Chains and run Markov Processes
  * [miller_rabin](https://github.com/kuende/miller_rabin) - Implements [Miller-Rabin](https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Primality_Testing) algorithm to check if a number is prime
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
