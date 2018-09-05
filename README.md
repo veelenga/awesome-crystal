@@ -74,6 +74,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Algorithms and Data structures
  * [aho_corasick](https://github.com/chenkovsky/aho_corasick) - AhoCorasick algorithm
  * [bisect](https://github.com/spider-gazelle/bisect) - Inserting values into a sorted array
+ * [CrOTP](https://github.com/philnash/crotp) - HOTP and TOTP implementation for two factor authentication
  * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
  * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
  * [crystaledge](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
