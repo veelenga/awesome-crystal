@@ -370,7 +370,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
  * [denetmen](https://github.com/izniburak/denetmen) - Useful micro validator / check library
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
- * [Fluence](https://github.com/crystallabs/fluence) - WYSIWYG wiki using markdown and Git
  * [hoop](https://github.com/0x73/hoop) - Building native OSX apps
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) - Internationalization shard
@@ -384,7 +383,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
  * [tren](https://github.com/sdogruyol/tren) - Give your SQL some love
  * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
- * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
 
 ## Network Protocols
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Native BSON implementation
@@ -579,12 +577,14 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [Ficha](https://github.com/codenoid/ficha) - A super secret chat app, for any body who needs privacy
  * [Firegrid](https://github.com/foliea/firegrid) - Click anywhere with only a few key strokes
+ * [Fluence](https://github.com/crystallabs/fluence) - WYSIWYG wiki using markdown and Git
  * [icr](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
  * [JSON to Crystal](https://watzon.me/projects/json-to-crystal) - Paste in a JSON object and get Crystal mappings in response
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
  * [torrent](https://github.com/Papierkorb/torrent) - A BitTorrent client
+ * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
 
 # Tools
  * [crystal-base](https://github.com/ruivieira/crystal-base) - CentOS base docker image for Crystal development
