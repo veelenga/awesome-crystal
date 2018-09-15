@@ -295,8 +295,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystagiri](https://github.com/madeindjs/Crystagiri) - An Html Reader / parser like [Nokogiri](https://github.com/sparklemotion/nokogiri) Ruby gem
  * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - Bindings for [Gumbo](https://github.com/google/gumbo-parser), an HTML5 parsing library made by Google
  * [hq.cr](https://github.com/maiha/hq.cr) - Simple wrapper for crystal-xml
- * [modest](https://github.com/kostya/modest) - CSS selectors for HTML5 Parser myhtml
- * [myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser
+ * [myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
 
 ## HTTP
  * [cossack](https://github.com/crystal-community/cossack) - Simple flexible HTTP client
