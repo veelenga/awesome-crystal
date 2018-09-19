@@ -382,6 +382,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
  * [tren](https://github.com/sdogruyol/tren) - Give your SQL some love
  * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
+ * [validations](https://github.com/vladfaust/validations.cr) - Validations module
 
 ## Network Protocols
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Native BSON implementation
