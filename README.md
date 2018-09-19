@@ -364,6 +364,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [any_hash.cr](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
  * [atomic_write.cr](https://github.com/chris-huxtable/atomic_write.cr) - Library for writing or apppending files atomically
  * [burocracia.cr](https://github.com/vnbrs/burocracia.cr) - burocracia.cr the dependecyless shard to validate, generate and format Brazilian burocracias such as CPF, CNPJ and CEP
+ * [callbacks](https://github.com/vladfaust/callbacks.cr) - Expressive callbacks module
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
