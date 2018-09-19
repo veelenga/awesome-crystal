@@ -59,6 +59,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Template Engine](#template-engine)
   * [Testing](#testing)
   * [Third-party APIs](#third-party-apis)
+  * [Validation](#validation)
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
 * [Community](#community)
@@ -360,14 +361,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Misc
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
- * [accord](https://github.com/neovintage/accord) - Sharable validations for Crystal objects
  * [any_hash.cr](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
  * [atomic_write.cr](https://github.com/chris-huxtable/atomic_write.cr) - Library for writing or apppending files atomically
  * [burocracia.cr](https://github.com/vnbrs/burocracia.cr) - burocracia.cr the dependecyless shard to validate, generate and format Brazilian burocracias such as CPF, CNPJ and CEP
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
- * [denetmen](https://github.com/izniburak/denetmen) - Useful micro validator / check library
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [hoop](https://github.com/0x73/hoop) - Building native OSX apps
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
@@ -382,7 +381,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
  * [tren](https://github.com/sdogruyol/tren) - Give your SQL some love
  * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
- * [validations](https://github.com/vladfaust/validations.cr) - Validations module
 
 ## Network Protocols
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Native BSON implementation
@@ -526,6 +524,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [telegram_bot](https://github.com/hangyas/telegram_bot) - A wrapper for the Telegram Bot API
  * [tourmaline](https://github.com/watzon/tourmaline) - Yet another Telegram Bot API wrapper
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
+
+## Validation
+ * [accord](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
+ * [denetmen](https://github.com/izniburak/denetmen) - Micro check library that patches Crystal stdlib
+ * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
 
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
