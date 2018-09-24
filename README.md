@@ -244,6 +244,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-mysql-crud-example](https://github.com/codenoid/crystal-mysql-crud-example) - Crystal MySQL CRUD example
  * [crystal-patterns](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
+ * [crystalworld](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
  * [exercism-crystal](https://github.com/exercism/crystal) - Exercism exercises
  * [jihantoro-cr-mysql](https://github.com/codenoid/jihantoro-cr-mysql) - Crystal MySQL from scratch sample app
  * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) - Crystal & Kemal version of Serdar Dogruyol blog
