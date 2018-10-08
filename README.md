@@ -559,7 +559,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [Fluence](https://github.com/crystallabs/fluence) - WYSIWYG wiki using markdown and Git
  * [icr](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
- * [JSON to Crystal](https://watzon.me/projects/json-to-crystal) - Paste in a JSON object and get Crystal mappings in response
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [quicktype](https://quicktype.io/) - Generate models and serializers from JSON, JSON Schema, GraphQL, and TypeScript
