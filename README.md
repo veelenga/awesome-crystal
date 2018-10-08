@@ -335,7 +335,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [myst-lang](https://github.com/myst-lang/) - A practical, dynamic language designed to be written and understood as easily and efficiently as possible
  * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - An OS written in Crystal as a Proof of Concept
  * [runic-lang](https://github.com/runic-lang) - In-design toy language
- * [zir](https://github.com/tbrand/zir) - Realizes to write macros in any scripts into any languages
 
 ## Logging and monitoring
  * [crometheus](https://gitlab.com/ezrast/crometheus) - A [Prometheus](https://prometheus.io/) client library
