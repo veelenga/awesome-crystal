@@ -139,7 +139,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Cli Utils
  * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
- * [dl](https://github.com/creadone/dl) - Simple utility for download files by URLs from list
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
  * [todo](https://github.com/Nephos/todo) - Todo list working in command line
