@@ -8,6 +8,8 @@ Keep in mind that the list is very mature by now, so the bar of getting somethin
     - Or, for finished projects, issues and pull requests are responded to
   - Ensure your work follows general quality rules
   (look at [Writing Shards](https://crystal-lang.org/docs/guides/writing_shards.html) tutorial if this is a Crystal shard)
+  - Your shard **must** have periodical (e.g. daily or weekly) builds set up on a publicly accessible CI against latest stable Crystal (nightly is optional)
+    - For Travis CI see https://docs.travis-ci.com/user/cron-jobs. Note that you can also run Crystal nightly builds using [Docker-based approach](https://gist.github.com/vladfaust/9cf8ca03b00a3ab5c0e86ca8381acad7)
 
 ## List quality rules
 
