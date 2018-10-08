@@ -579,7 +579,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
  * [Crystular](http://www.crystular.org) - Regular expression tester
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
- * [Firegrid](https://github.com/foliea/firegrid) - Click anywhere with only a few key strokes
  * [Fluence](https://github.com/crystallabs/fluence) - WYSIWYG wiki using markdown and Git
  * [icr](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
  * [JSON to Crystal](https://watzon.me/projects/json-to-crystal) - Paste in a JSON object and get Crystal mappings in response
