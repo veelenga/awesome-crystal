@@ -563,7 +563,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [quicktype](https://quicktype.io/) - Generate models and serializers from JSON, JSON Schema, GraphQL, and TypeScript
- * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
  * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
 
 # Tools
