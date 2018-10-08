@@ -492,7 +492,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
  * [discordcr](https://github.com/meew0/discordcr) - A minimalist Discord API library
- * [dotacr](https://github.com/azah/dotacr) - Wrapper for Valve's DotA API
  * [GDAX](https://github.com/mccallofthewild/gdax) - GDAX REST and WebSocket API Wrapper with request signing
  * [gitlab.cr](https://github.com/icyleaf/gitlab.cr) - GitLab API wrapper
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) - Google Maps API
