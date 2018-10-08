@@ -381,7 +381,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [manual-generator](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
  * [raytracer](https://github.com/l3kn/raytracer) - CPU Raytracer with examples
  * [retriable.cr](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
- * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
  * [tren](https://github.com/sdogruyol/tren) - Give your SQL some love
  * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
 
