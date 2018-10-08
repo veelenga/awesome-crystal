@@ -185,7 +185,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [hashids.cr](https://github.com/splattael/hashids.cr) - A library to generate YouTube-like ids from one or many numbers
 
 ## Database Drivers/Clients
- * [arangocr](https://github.com/solisoft/arangocr) - ArangoDB client
  * [crystal-db](https://github.com/crystal-lang/crystal-db) - Common db api
  * [crystal-monetdb-libmapi](https://github.com/puppetpies/crystal-monetdb-libmapi) - Bindings for MonetDB
  * [crystal-mysql](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
