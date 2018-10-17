@@ -591,6 +591,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [quicktype](https://quicktype.io/) - Generate models and serializers from JSON, JSON Schema, GraphQL, and TypeScript
+ * [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub](https://github.com/mamantoha/shards-info)
  * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
  * [torrent](https://github.com/Papierkorb/torrent) - A BitTorrent client
  * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
