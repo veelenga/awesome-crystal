@@ -193,6 +193,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Database Drivers/Clients
  * [arangocr](https://github.com/solisoft/arangocr) - ArangoDB client
+ * [couchdb.cr](https://github.com/TechMagister/couchdb.cr) - CouchDB client
  * [crystal-db](https://github.com/crystal-lang/crystal-db) - Common db api
  * [crystal-monetdb-libmapi](https://github.com/puppetpies/crystal-monetdb-libmapi) - Bindings for MonetDB
  * [crystal-mysql](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
