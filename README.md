@@ -599,6 +599,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
 
 # Tools
+ * [ast_helper](https://github.com/bcardiff/crystal-ast-helper) - Helper tool to debug parser and formatter
  * [crystal-base](https://github.com/ruivieira/crystal-base) - CentOS base docker image for Crystal development
  * [crystal-ctags](https://github.com/SuperPaintman/crystal-ctags) - Ctags generator for Crystal
  * [crystal-dash-docset](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
