@@ -86,13 +86,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [hash_ring](https://github.com/TobiasGSmollett/hash_ring) - An Implementation of Consistent Hash Ring
  * [ksuid.cr](https://github.com/Sija/ksuid.cr) - K-Sortable Globally Unique IDs
  * [markov](https://github.com/mccallofthewild/markov) - Build Markov Chains and run Markov Processes
- * [miller_rabin](https://github.com/kuende/miller_rabin) - Implements [Miller-Rabin](https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Primality_Testing) algorithm to check if a number is prime
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
  * [murmur3](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra
  * [oak](https://github.com/obsidian/oak) - A flexible Radix Tree implementation
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
  * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) - Ternary Search Tree
- * [text](https://github.com/johnjansen/text) - A collection of text algorithms
 
 ## Api Builders
  * [kemal-rest-api](https://github.com/blocknotes/kemal-rest-api) - A library to create RESTful API with Kemal
@@ -141,11 +139,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Cli Utils
  * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
- * [dl](https://github.com/creadone/dl) - Simple utility for download files by URLs from list
- * [noteesh](https://github.com/arandilopez/noteesh) - Notes and Todo list in command line
- * [progress](https://github.com/askn/progress) - [==..] Progress bar
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
- * [spinner](https://github.com/askn/spinner) - Terminal Spinner
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
  * [todo](https://github.com/Nephos/todo) - Todo list working in command line
 
@@ -161,7 +155,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Converters
  * [base62.cr](https://github.com/Sija/base62.cr) - Base62 encoder/decoder, well suited for url-shortening
- * [human_file_size.cr](https://github.com/johnjansen/human_file_size.cr) - JSON & YAML mapping converter for human file sizes in serialized data
  * [money](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney](https://github.com/RubyMoney/money))
  * [moola](https://github.com/dorkrawk/moola) - Library for dealing with money and conversion (inspired by [RubyMoney](https://github.com/RubyMoney/money))
  * [ms](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
@@ -174,7 +167,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [config.cr](https://github.com/chris-huxtable/config.cr) - Easy to use configuration format parser
  * [crinder](https://github.com/c910335/crinder) - Class based json renderer
  * [CSV](https://crystal-lang.org/api/CSV.html) - parsing and generating for comma-separated values (Crystal stdlib)
- * [dockerfile.cr](https://github.com/keplersj/dockerfile.cr) - Dockerfile Parsing Library
  * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) - Separates a files front matter from its content
  * [Gzip](https://crystal-lang.org/api/Gzip.html) - readers and writers of gzip format (Crystal stdlib)
  * [INI](https://crystal-lang.org/api/INI.html) - INI file parser (Crystal stdlib)
@@ -192,7 +184,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [hashids.cr](https://github.com/splattael/hashids.cr) - A library to generate YouTube-like ids from one or many numbers
 
 ## Database Drivers/Clients
- * [arangocr](https://github.com/solisoft/arangocr) - ArangoDB client
  * [couchdb.cr](https://github.com/TechMagister/couchdb.cr) - CouchDB client
  * [crystal-db](https://github.com/crystal-lang/crystal-db) - Common db api
  * [crystal-monetdb-libmapi](https://github.com/puppetpies/crystal-monetdb-libmapi) - Bindings for MonetDB
@@ -277,7 +268,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-session](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
  * [mime-types.cr](https://github.com/jwaldrip/mime-types.cr) - A port of the Ruby MIME-types library
  * [multi-auth](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
- * [phoenix.cr](https://github.com/dtcristo/phoenix.cr) - Phoenix Channels client
  * [request_id](https://github.com/SuperPaintman/request-id) - Middleware for generates / pick up a unique request ID for Crystal servers
  * [response_time](https://github.com/SuperPaintman/response-time) - Response time for Crystal servers (pure http server, kemal, etc.)
  * [spec-kemal](https://github.com/kemalcr/spec-kemal) - Easy testing for Kemal
@@ -314,8 +304,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [HTTP::Client](https://crystal-lang.org/api/HTTP/Client.html) - HTTP client (Crystal stdlib)
  * [HTTP::Server](https://crystal-lang.org/api/HTTP/Server.html) - HTTP server (Crystal stdlib)
  * [HTTP::WebSocket](https://crystal-lang.org/api/HTTP/WebSocket.html) - HTTP WebSocket client (Crystal stdlib)
- * [http_distributor](https://github.com/Nephos/http_distributor) - HTTP server which allows sneaky http requests
- * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib](https://github.com/nodejs/http-parser)
  * [keyer_cr](https://github.com/danielpclark/keyer_cr) - Adds HTTP GET/POST parameter parsing as a Hash-like object
  * [ngrok.cr](https://github.com/watzon/ngrok.cr) - Ngrok wrapper
  * [resp-crystal](https://github.com/soveran/resp-crystal) - Lightweight RESP client
@@ -337,7 +325,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [myst-lang](https://github.com/myst-lang/) - A practical, dynamic language designed to be written and understood as easily and efficiently as possible
  * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - An OS written in Crystal as a Proof of Concept
  * [runic-lang](https://github.com/runic-lang) - In-design toy language
- * [zir](https://github.com/tbrand/zir) - Realizes to write macros in any scripts into any languages
 
 ## Logging and monitoring
  * [crometheus](https://gitlab.com/ezrast/crometheus) - A [Prometheus](https://prometheus.io/) client library
@@ -353,14 +340,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ai4cr](https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (based on https://github.com/SergioFierens/ai4r)
  * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
  * [crystal-learn](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library
- * [grey_matter](https://github.com/dorkrawk/grey_matter) - A basic artificial neural network library
  * [shainet](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
  * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow](https://github.com/tensorflow/tensorflow)
 
 ## Markdown/Text Processors
  * [html-pipeline](https://github.com/huacnlee/html-pipeline) - HTML processing filters and utilities
  * [markd](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
- * [remarkdown](https://github.com/huacnlee/remarkdown) - GFM for Crystal
 
 ## Misc
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
@@ -383,7 +368,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [manual-generator](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
  * [raytracer](https://github.com/l3kn/raytracer) - CPU Raytracer with examples
  * [retriable.cr](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
- * [syscall.cr](https://github.com/kubo39/syscall.cr) - Raw syscall interface
  * [tren](https://github.com/sdogruyol/tren) - Give your SQL some love
  * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
 
@@ -404,7 +388,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
 
 ## ORM/ODM Extensions
- * [active_record.cr](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
  * [clear](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
  * [core](https://github.com/vladfaust/core) - Pure, transparent and efficient ORM
  * [crecto](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
@@ -449,14 +432,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Scheduling
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
  * [crystime](https://gitlab.com/crystallabs/crystime) - Advanced time, calendar, schedule, and remind library
- * [quartz](https://github.com/andrewhamon/quartz) - Crystal clear timers
  * [schedule.cr](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
  * [tasker](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ## Science and Data analysis
  * [linalg](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
  * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
- * [scorystal](https://github.com/asafschers/scorystal) - Scoring API for PMML - supports RF and GBM
  * [stats](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions
 
 ## Search
@@ -479,7 +460,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [sam](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## Template Engine
- * [crikey](https://github.com/domgetter/crikey) - Templating engine inspired by [Hiccup](https://github.com/weavejester/hiccup)
  * [crinja](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
  * [ECR (Embedded Crystal)](https://crystal-lang.org/api/ECR.html) - compile time template language which uses plain crystal expressions (Crystal stdlib)
@@ -498,8 +478,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
  * [Spec](https://crystal-lang.org/api/Spec.html) - spec framework (Crystal stdlib)
- * [spec2-mocks](https://github.com/waterlink/spec2-mocks.cr) - An adapter of mocks.cr for spec2.cr
- * [spec2.cr](https://github.com/waterlink/spec2.cr) - Enhanced testing library
  * [timecop.cr](https://github.com/TobiasGSmollett/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
@@ -514,21 +492,17 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
  * [discordcr](https://github.com/meew0/discordcr) - A minimalist Discord API library
- * [dotacr](https://github.com/azah/dotacr) - Wrapper for Valve's DotA API
  * [GDAX](https://github.com/mccallofthewild/gdax) - GDAX REST and WebSocket API Wrapper with request signing
  * [gitlab.cr](https://github.com/icyleaf/gitlab.cr) - GitLab API wrapper
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) - Google Maps API
  * [hncr](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper
  * [mixpanel-crystal](https://github.com/petoem/mixpanel-crystal) - A library for sending events to Mixpanel
  * [nexmo-crystal](https://github.com/timcraft/nexmo-crystal) - [Nexmo REST API](https://developer.nexmo.com/) client
- * [ocean_kit](https://github.com/osfx/ocean_kit) - [Digital Ocean v2 API](https://developers.digitalocean.com/documentation/v2/) client
  * [open_exchange_rates](https://github.com/osfx/open_exchange_rates) - A library to access [Open Exchange Rates](https://openexchangerates.org/) API
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
  * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry](https://github.com/getsentry/sentry)
  * [slack.cr](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library
- * [spotify.cr](https://github.com/marceloboeira/spotify.cr) - A library to access the Spotify API
  * [telegram_bot](https://github.com/hangyas/telegram_bot) - A wrapper for the Telegram Bot API
- * [tourmaline](https://github.com/watzon/tourmaline) - Yet another Telegram Bot API wrapper
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
 
 ## Validation
@@ -580,24 +554,18 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 # Services and Apps
  * [carc.in](https://carc.in/) - A web service that runs your code and displays the result
- * [Crank](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
  * [cry](https://github.com/elorest/cry) - Ability to execute crystal code in a fashion similar to Ruby's pry edit
  * [Crystal [ANN]](https://crystal-ann.com) - Announce new project, blog post, version update or any other Crystal work
  * [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
  * [Crystular](http://www.crystular.org) - Regular expression tester
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
- * [Ficha](https://github.com/codenoid/ficha) - A super secret chat app, for any body who needs privacy
- * [Firegrid](https://github.com/foliea/firegrid) - Click anywhere with only a few key strokes
  * [Fluence](https://github.com/crystallabs/fluence) - WYSIWYG wiki using markdown and Git
  * [icr](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
  * [Invidious](https://github.com/omarroth/invidious) - Invidious is an alternative front-end to YouTube
- * [JSON to Crystal](https://watzon.me/projects/json-to-crystal) - Paste in a JSON object and get Crystal mappings in response
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [quicktype](https://quicktype.io/) - Generate models and serializers from JSON, JSON Schema, GraphQL, and TypeScript
  * [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub](https://github.com/mamantoha/shards-info)
- * [shards.rocks](https://shards.rocks/) - Service that manages dependencies inspired by [Gemnasium](https://gemnasium.com/) and [David](https://david-dm.org/)
- * [torrent](https://github.com/Papierkorb/torrent) - A BitTorrent client
  * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
 
 # Tools
