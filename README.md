@@ -1,7 +1,7 @@
 <p align="center"><img src="logo/logotype_horizontal.png" alt="awesome-crystal"></p>
 
 # Awesome Crystal
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Build Status](https://api.travis-ci.org/veelenga/awesome-crystal.svg)](https://travis-ci.org/veelenga/awesome-crystal)
 
 A curated list of awesome Crystal code and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
@@ -184,6 +184,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [hashids.cr](https://github.com/splattael/hashids.cr) - A library to generate YouTube-like ids from one or many numbers
 
 ## Database Drivers/Clients
+ * [couchdb.cr](https://github.com/TechMagister/couchdb.cr) - CouchDB client
  * [crystal-db](https://github.com/crystal-lang/crystal-db) - Common db api
  * [crystal-monetdb-libmapi](https://github.com/puppetpies/crystal-monetdb-libmapi) - Bindings for MonetDB
  * [crystal-mysql](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
@@ -446,6 +447,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
 
 ## Serverless Computing
+ * [crystal_openfaas](https://github.com/TPei/crystal_openfaas/) - Template to enable crystal as first class citizens in OpenFaaS
  * [gcf.cr](https://github.com/sam0x17/gcf.cr) - Managed execution of Crystal in Google Cloud Functions
 
 ## System
@@ -537,6 +539,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 # Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - Free book to bootstrap your Crystal journey
+ * [Crystal Mastery](https://crystalmastery.io/) - Screencasts for learning Crystal
  * [crystal-lang.org](https://crystal-lang.org) - Official language site
  * [devdocs.io](https://devdocs.io/crystal/) - API Documentation Browser with Crystal support
  * [getgood.at](https://getgood.at/crystal/in-a-day) - Learn Crystal in a Day
@@ -558,12 +561,15 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [Fluence](https://github.com/crystallabs/fluence) - WYSIWYG wiki using markdown and Git
  * [icr](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
+ * [Invidious](https://github.com/omarroth/invidious) - Invidious is an alternative front-end to YouTube
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [quicktype](https://quicktype.io/) - Generate models and serializers from JSON, JSON Schema, GraphQL, and TypeScript
+ * [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub](https://github.com/mamantoha/shards-info)
  * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
 
 # Tools
+ * [ast_helper](https://github.com/bcardiff/crystal-ast-helper) - Helper tool to debug parser and formatter
  * [crystal-base](https://github.com/ruivieira/crystal-base) - CentOS base docker image for Crystal development
  * [crystal-ctags](https://github.com/SuperPaintman/crystal-ctags) - Ctags generator for Crystal
  * [crystal-dash-docset](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
