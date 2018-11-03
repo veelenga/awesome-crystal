@@ -251,7 +251,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [realtime-todo-app](https://github.com/Angarsk8/realtime-todo-app) - Realtime Todo application developed with Kemal, Websockets, React, ES2015 and PostgreSQL
  * [rocky](https://github.com/codingphasedotcom/rocky) - React Over Crystal Kemal and Yarn
  * [try.cr](https://github.com/maiha/try.cr) - Try monad
- * https://github.com/KieranP/Game-Of-Life-Implementations - Compare Game of Life in Crystal and other languages
+ * [game-of-life-implementations] (https://github.com/KieranP/Game-Of-Life-Implementations) - Game of Life in Crystal and other languages
 
 ## Feature Flipping
  * [flipper](https://github.com/metaware/flipper) - Feature flipping/flags/rollouts. Supports multiple backends
