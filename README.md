@@ -306,6 +306,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [HTTP::WebSocket](https://crystal-lang.org/api/HTTP/WebSocket.html) - HTTP WebSocket client (Crystal stdlib)
  * [keyer_cr](https://github.com/danielpclark/keyer_cr) - Adds HTTP GET/POST parameter parsing as a Hash-like object
  * [ngrok.cr](https://github.com/watzon/ngrok.cr) - Ngrok wrapper
+ * [params](https://github.com/vladfaust/params.cr) - The strongly-typed HTTP params parsing module
  * [resp-crystal](https://github.com/soveran/resp-crystal) - Lightweight RESP client
 
 ## Image processing
