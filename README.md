@@ -480,7 +480,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
  * [Spec](https://crystal-lang.org/api/Spec.html) - spec framework (Crystal stdlib)
- * [timecop.cr](https://github.com/TobiasGSmollett/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem](https://github.com/travisjeffery/timecop)
+ * [timecop.cr](https://github.com/crystal-community/timecop.cr) - Library for mocking with `Time.now`. Inspired by the [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ## Third-party APIs
