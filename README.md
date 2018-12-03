@@ -268,6 +268,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-session](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
  * [mime-types.cr](https://github.com/jwaldrip/mime-types.cr) - A port of the Ruby MIME-types library
  * [multi-auth](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
+ * [praetorian](https://github.com/ilanusse/praetorian) - Minimalist authorization library for Crystal inspired by Pundit.
  * [request_id](https://github.com/SuperPaintman/request-id) - Middleware for generates / pick up a unique request ID for Crystal servers
  * [response_time](https://github.com/SuperPaintman/response-time) - Response time for Crystal servers (pure http server, kemal, etc.)
  * [spec-kemal](https://github.com/kemalcr/spec-kemal) - Easy testing for Kemal
