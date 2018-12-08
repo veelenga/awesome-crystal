@@ -17,8 +17,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Blockchain](#blockchain)
   * [C Bindings](#c-bindings)
   * [Caching](#caching)
-  * [Cli Builders](#cli-builders)
-  * [Cli Utils](#cli-utils)
+  * [CLI Builders](#cli-builders)
+  * [CLI Utils](#cli-utils)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Configuration](#configuration)
   * [Converters](#converters)
@@ -127,7 +127,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
  * [Nuummite](https://github.com/CodeSteak/Nuummite) - A tiny persistent embedded key-value store
 
-## Cli Builders
+## CLI Builders
  * [admiral](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
  * [cli](https://github.com/mosop/cli) - Library for building command-line interface applications
  * [clicr](https://github.com/j8r/clicr) -  A simple declarative command line interface builder
@@ -137,7 +137,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [optarg](https://github.com/mosop/optarg) - Yet another library for parsing command-line options and arguments
  * [OptionParser](https://crystal-lang.org/api/OptionParser.html) - command-line options processing (Crystal stdlib)
 
-## Cli Utils
+## CLI Utils
  * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
