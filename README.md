@@ -509,6 +509,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Validation
  * [accord](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
+ * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) - Extensible annotation based serialization/deserialization/validation library
  * [denetmen](https://github.com/izniburak/denetmen) - Micro check library that patches Crystal stdlib
  * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
 
