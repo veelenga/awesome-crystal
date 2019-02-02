@@ -228,6 +228,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Examples and funny stuff
  * [battlesnake_crystal](https://github.com/nbw/battlesnake_crystal) - Tron snake for [battlesnake](https://www.battlesnake.io/) competition
+ * [blackjack-cr](https://github.com/gdonald/blackjack-cr) - Console Blackjack
  * [breakout.cr](https://github.com/petoem/breakout.cr) - Breakout game written using crsfml
  * [chuck-norris-holy-quotes](https://github.com/codenoid/chuck-norris-holy-quotes) - Chuck Norris holy quotes
  * [clamp](https://github.com/johnjansen/clamp) - Clamp any Comparable
