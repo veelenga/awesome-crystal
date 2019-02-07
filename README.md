@@ -192,11 +192,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-mysql](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
  * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
+ * [crystal-rethinkdb](https://github.com/kingsleyh/crystal-rethinkdb) - driver for rethinkdb / rebirthdb
  * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
  * [eventql-crystal](https://github.com/measurechina/eventql-crystal) - EventQL driver
  * [leveldb](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
  * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
- * [rethinkdb.cr](https://github.com/CubosTecnologia/rethinkdb.cr) - RethinkDB Driver
  * [rocksdb.cr](https://github.com/maiha/rocksdb.cr) - RocksDB client
  * [tarantool-crystal](https://github.com/vladfaust/tarantool-crystal) - Tarantool driver
 
