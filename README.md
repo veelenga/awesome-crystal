@@ -454,6 +454,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [soegen](https://github.com/Ragmaanir/soegen) - Elasticsearch client for Crystal similar to the stretcher gem for ruby
 
 ## Serverless Computing
+ * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal.
  * [crystal_openfaas](https://github.com/TPei/crystal_openfaas/) - Template to enable crystal as first class citizens in OpenFaaS
  * [gcf.cr](https://github.com/sam0x17/gcf.cr) - Managed execution of Crystal in Google Cloud Functions
 
