@@ -377,6 +377,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [retriable.cr](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
  * [tren](https://github.com/sdogruyol/tren) - Give your SQL some love
  * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
+ * [pangu.cr](https://github.com/isaced/pangu.cr) - Paranoid text spacing in Crystal.
 
 ## Network Protocols
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Native BSON implementation
