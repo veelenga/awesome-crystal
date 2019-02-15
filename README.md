@@ -174,6 +174,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Gzip](https://crystal-lang.org/api/Gzip.html) - readers and writers of gzip format (Crystal stdlib)
  * [INI](https://crystal-lang.org/api/INI.html) - INI file parser (Crystal stdlib)
  * [JSON](https://crystal-lang.org/api/JSON.html) - parsing and generating JSON documents (Crystal stdlib)
+ * [JSON tools](https://github.com/impatienttraveller/json-tools) - An implementation of JSON Patch and Pointer RFC's
  * [maxminddb.cr](https://github.com/delef/maxminddb.cr) - MaxMindDB reader
  * [toml.cr](https://github.com/crystal-community/toml.cr) - TOML parser
  * [XML](https://crystal-lang.org/api/XML.html) - parsing and generating XML documents (Crystal stdlib)
