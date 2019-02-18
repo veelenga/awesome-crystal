@@ -143,7 +143,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
- * [todo](https://github.com/Nephos/todo) - Todo list working in command line
+ * [todo](https://git.sceptique.eu/Sceptique/todo) - Todo list working in command line
 
 ## Code Analysis and Metrics
  * [ameba](https://github.com/veelenga/ameba) - A static code analysis tool
@@ -219,7 +219,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Email
  * [carbon](https://github.com/luckyframework/carbon) - Fun, testable, and adapter-based email library
  * [crystal-email](https://github.com/arcage/crystal-email) - Simple e-mail sending library
- * [CrystalEmail](https://github.com/Nephos/CrystalEmail) - A RFC compliant Email validator
+ * [CrystalEmail](https://git.sceptique.eu/Sceptique/CrystalEmail) - A RFC compliant Email validator
  * [devmail](https://github.com/tijn/devmail) - A combined SMTP/POP3-server with volatile mail storage
  * [sendgrid.cr](https://github.com/dlanileonardo/sendgrid.cr) - Simple Sendgrid Client
 
@@ -391,7 +391,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [OAuth2](https://crystal-lang.org/api/OAuth2.html) - OAuth2 client (Crystal stdlib)
  * [OpenSSL](https://crystal-lang.org/api/OpenSSL.html) - bindings to libssl (Crystal stdlib)
  * [Socks](https://github.com/wontruefree/socks) - SOCKS proxy
- * [transfer_more](https://github.com/Nephos/transfer_more) - Clone of transfer.sh to uploads files
+ * [transfer_more](https://git.sceptique.eu/Sceptique/transfer_more) - Clone of transfer.sh to uploads files
 
 ## Networking
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
@@ -447,7 +447,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Science and Data analysis
  * [linalg](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
  * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
- * [stats](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions
+ * [stats](https://git.sceptique.eu/Sceptique/stats) - An expressive implementation of statistical distributions
 
 ## Search
  * [hermes](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
@@ -579,7 +579,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [nes](https://github.com/romeroadrian/nes.cr) - A NES emulator
  * [quicktype](https://quicktype.io/) - Generate models and serializers from JSON, JSON Schema, GraphQL, and TypeScript
  * [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub](https://github.com/mamantoha/shards-info)
- * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
+ * [wikicr](https://git.sceptique.eu/Sceptique/wikicr) - Wiki using git to manage revisions
 
 # Tools
  * [ast_helper](https://github.com/bcardiff/crystal-ast-helper) - Helper tool to debug parser and formatter
