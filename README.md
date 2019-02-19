@@ -398,11 +398,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## ORM/ODM Extensions
  * [clear](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
- * [core](https://github.com/vladfaust/core) - Pure, transparent and efficient ORM
  * [crecto](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
  * [granite](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
+ * [onyx-sql](https://github.com/onyxframework/sql) - DB-agnostic SQL ORM with beautiful DSL and type-safe Query builder
  * [record](https://github.com/luckyframework/record) - Type safe querying, saving and updating
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
  * [stal-crystal](https://github.com/soveran/stal-crystal) - Set algebra solver for Redis
