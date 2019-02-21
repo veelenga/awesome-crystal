@@ -392,7 +392,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [OAuth2](https://crystal-lang.org/api/OAuth2.html) - OAuth2 client (Crystal stdlib)
  * [OpenSSL](https://crystal-lang.org/api/OpenSSL.html) - bindings to libssl (Crystal stdlib)
  * [Socks](https://github.com/wontruefree/socks) - SOCKS proxy
- * [transfer_more](https://github.com/Nephos/transfer_more) - Clone of transfer.sh to uploads files
+ * [transfer_more](https://git.sceptique.eu/Sceptique/transfer_more) - Clone of transfer.sh to uploads files
 
 ## Networking
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
