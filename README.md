@@ -258,6 +258,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [try.cr](https://github.com/maiha/try.cr) - Try monad
 
 ## Feature Flipping
+ * [can_use](https://github.com/rodrigopinto/can_use) - It is a minimalist feature toggle/flag for crystal based on yaml
  * [flipper](https://github.com/metaware/flipper) - Feature flipping/flags/rollouts. Supports multiple backends
 
 ## Framework Components
