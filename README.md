@@ -558,6 +558,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [devdocs.io](https://devdocs.io/crystal/) - API Documentation Browser with Crystal support
  * [getgood.at](https://getgood.at/crystal/in-a-day) - Learn Crystal in a Day
  * [Programming Crystal](https://pragprog.com/book/crystal/programming-crystal) - PragProg book to start your Crystal journey
+ * [Fast Crystal](https://github.com/konung/fast-crystal) - Benchmarks of common idioms in Crystal, to help write more performant code, ported from popular [fast-ruby](https://github.com/JuanitoFatas/fast-ruby) project
 
 ## Official Documentation Translations
  * [br.crystal-lang.org](http://br.crystal-lang.org/) - Brazilian
