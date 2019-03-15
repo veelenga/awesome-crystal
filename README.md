@@ -375,6 +375,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [m3u8](https://github.com/akiicat/m3u8) - Generate and parse m3u8 playlists for HTTP Live Streaming
  * [manual-generator](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
  * [message_verifier.cr](https://github.com/danielwestendorf/message_verifier.cr) - Verify and generate Rails `ActiveSupport::MessageVerifier` signed tokens
+ * [pangu.cr](https://github.com/isaced/pangu.cr) - Paranoid text spacing in Crystal
  * [raytracer](https://github.com/l3kn/raytracer) - CPU Raytracer with examples
  * [retriable.cr](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
  * [tren](https://github.com/sdogruyol/tren) - Give your SQL some love
