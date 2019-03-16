@@ -204,7 +204,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [tarantool-crystal](https://github.com/vladfaust/tarantool-crystal) - Tarantool driver
 
 ## Database Tools
- * [crecto-admin](https://github.com/Crecto/crecto-admin) - Admin dashboard for Crecto and your database
  * [micrate](https://github.com/juanedi/micrate) - Database migration tool
  * [migrate](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
  * [migro](https://github.com/aisrael/migro) - A database migration tool that allows migrations to be specified in either YAML or raw SQL
@@ -402,7 +401,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## ORM/ODM Extensions
  * [clear](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
- * [crecto](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
  * [granite](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
