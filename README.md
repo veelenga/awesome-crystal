@@ -299,6 +299,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [hq.cr](https://github.com/maiha/hq.cr) - Simple wrapper for crystal-xml
  * [myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
 
+## HTML Builders
+ * [form_builder.cr](https://github.com/westonganger/form_builder) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+ * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
+
 ## HTTP
  * [cossack](https://github.com/crystal-community/cossack) - Simple flexible HTTP client
  * [crest](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
@@ -369,7 +373,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [hoop](https://github.com/0x73/hoop) - Building native OSX apps
- * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) - Internationalization shard
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [inflector.cr](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
