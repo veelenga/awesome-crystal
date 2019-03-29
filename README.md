@@ -300,7 +300,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
 
 ## HTML Builders
- * [form_builder.cr](https://github.com/westonganger/form_builder) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
  * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
 
 ## HTTP
