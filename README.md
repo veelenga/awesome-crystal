@@ -34,8 +34,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Framework Components](#framework-components)
   * [Game Development](#game-development)
   * [GUI library](#gui-library)
-  * [HTML/XML parsing](#htmlxml-parsing)
   * [HTML Builders](#html-builders)
+  * [HTML/XML parsing](#htmlxml-parsing)
   * [HTTP](#http)
   * [Image Processing](#image-processing)
   * [Implementations/Compilers](#implementationscompilers)
@@ -293,16 +293,16 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [hedron](https://github.com/Qwerp-Derp/hedron) - An extendable GUI library, with markup language capabilities
  * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui](https://github.com/andlabs/libui)
  * [qt5.cr](https://github.com/Papierkorb/qt5.cr) - Qt5 bindings for Crystal, based on Bindgen
+ 
+## HTML Builders
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+ * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
 
 ## HTML/XML Parsing
  * [crystagiri](https://github.com/madeindjs/Crystagiri) - An Html Reader / parser like [Nokogiri](https://github.com/sparklemotion/nokogiri) Ruby gem
  * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - Bindings for [Gumbo](https://github.com/google/gumbo-parser), an HTML5 parsing library made by Google
  * [hq.cr](https://github.com/maiha/hq.cr) - Simple wrapper for crystal-xml
  * [myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
-
-## HTML Builders
- * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
- * [html_builder](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
 
 ## HTTP
  * [cossack](https://github.com/crystal-community/cossack) - Simple flexible HTTP client
