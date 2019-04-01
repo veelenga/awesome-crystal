@@ -35,6 +35,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Game Development](#game-development)
   * [GUI library](#gui-library)
   * [HTML/XML parsing](#htmlxml-parsing)
+  * [HTML Builders](#html-builders)
   * [HTTP](#http)
   * [Image Processing](#image-processing)
   * [Implementations/Compilers](#implementationscompilers)
