@@ -371,6 +371,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [compiled_license](https://github.com/elorest/compiled_license) - Compiles licenses into binary for complience with MIT when copying binary to system or container without the code
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
+ * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [hoop](https://github.com/0x73/hoop) - Building native OSX apps
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) - Internationalization shard
