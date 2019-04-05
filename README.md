@@ -412,6 +412,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [onyx-sql](https://github.com/onyxframework/sql) - DB-agnostic SQL ORM with beautiful DSL and type-safe Query builder
  * [record](https://github.com/luckyframework/record) - Type safe querying, saving and updating
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
+ * [rethinkdb-orm](https://github.com/spider-gazelle/rethinkdb-orm) - ORM for RethinkDB / RebirthDB
  * [stal-crystal](https://github.com/soveran/stal-crystal) - Set algebra solver for Redis
  * [topaz](https://github.com/topaz-crystal/topaz) - A simple and useful db wrapper
 
