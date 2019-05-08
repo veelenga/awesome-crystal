@@ -525,6 +525,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry](https://github.com/getsentry/sentry)
  * [slack.cr](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library
  * [telegram_bot](https://github.com/hangyas/telegram_bot) - A wrapper for the Telegram Bot API
+ * [tourmaline](https://github.com/watzon/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
 
 ## Validation
