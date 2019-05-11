@@ -88,6 +88,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [graphlb](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
  * [hash_ring](https://github.com/TobiasGSmollett/hash_ring) - An Implementation of Consistent Hash Ring
  * [haversine](https://github.com/mamantoha/haversine) - An Implementation of the Haversine formula
+ * [kd_tree](https://github.com/mamantoha/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
  * [ksuid.cr](https://github.com/Sija/ksuid.cr) - K-Sortable Globally Unique IDs
  * [markov](https://github.com/mccallofthewild/markov) - Build Markov Chains and run Markov Processes
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
@@ -109,6 +110,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crass](https://github.com/vonKingsley/crass) - Bindings for libsass
  * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
  * [crystal-gsl](https://github.com/ruivieira/crystal-gsl) - GNU Scientific Library bindings
+ * [crystal-hunspell](https://github.com/mamantoha/crystal-hunspell) - Bindings for [Hunspell](https://hunspell.github.io/)
  * [curl-crystal](https://github.com/blocknotes/curl-crystal) - Bindings for [libcurl](https://curl.haxx.se/libcurl/)
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
