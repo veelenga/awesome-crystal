@@ -398,6 +398,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [bson.cr](https://github.com/jeromegn/bson.cr) - Native BSON implementation
  * [Crirc](https://github.com/Meoowww/Crirc) - IRC protocol implementation (Client, Server, Bots)
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket](https://github.com/foi/ruby-json-socket)
+ * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - An SNMP implementation with version 1, 2c and 3 support
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [gopher.cr](https://github.com/anicholson/gopher.cr) - Gopher server toolkit
  * [jwt](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
@@ -405,7 +406,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [OAuth](https://crystal-lang.org/api/OAuth.html) - OAuth consumer (Crystal stdlib)
  * [OAuth2](https://crystal-lang.org/api/OAuth2.html) - OAuth2 client (Crystal stdlib)
  * [OpenSSL](https://crystal-lang.org/api/OpenSSL.html) - bindings to libssl (Crystal stdlib)
- * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - An SNMP implementation with version 1, 2c and 3 support
  * [Socks](https://github.com/wontruefree/socks) - SOCKS proxy
  * [transfer_more](https://git.sceptique.eu/Sceptique/transfer_more) - Clone of transfer.sh to uploads files
 
