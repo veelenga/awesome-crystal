@@ -534,6 +534,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [slack.cr](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library
  * [telegram_bot](https://github.com/hangyas/telegram_bot) - A wrapper for the Telegram Bot API
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
+ * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) - A library to interact with your YNAB data
 
 ## Validation
  * [accord](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
