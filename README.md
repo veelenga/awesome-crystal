@@ -513,6 +513,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ## Third-party APIs
+ * [aws-credentials](https://github.com/y2k2mt/aws-credentials) - Get AWS credentials in various ways
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
