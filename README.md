@@ -389,6 +389,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [manual-generator](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
  * [message_verifier.cr](https://github.com/danielwestendorf/message_verifier.cr) - Verify and generate Rails `ActiveSupport::MessageVerifier` signed tokens
  * [pangu.cr](https://github.com/isaced/pangu.cr) - Paranoid text spacing in Crystal
+ * [pinger](https://github.com/spider-gazelle/pinger) - Ping IP addresses and DNS entries without requiring sudo
  * [port_midi](https://github.com/jimm/crystal_port_midi) - Crystal C bindings for the PortMIDI cross-platform MIDI I/O library
  * [raytracer](https://github.com/l3kn/raytracer) - CPU Raytracer with examples
  * [retriable.cr](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
