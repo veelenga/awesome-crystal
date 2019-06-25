@@ -327,6 +327,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ngrok.cr](https://github.com/watzon/ngrok.cr) - Ngrok wrapper
  * [params](https://github.com/vladfaust/params.cr) - The strongly-typed HTTP params parsing module
  * [resp-crystal](https://github.com/soveran/resp-crystal) - Lightweight RESP client
+ * [sse.cr](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
 
 ## Image processing
  * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) - Bindings for [MagickWand](https://www.imagemagick.org/script/magick-wand.php), the C interface for ImageMagick processing libraries
