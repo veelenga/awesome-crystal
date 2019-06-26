@@ -22,6 +22,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Configuration](#configuration)
   * [Converters](#converters)
+  * [Cryptography](#cryptography)
   * [Data Formats](#data-formats)
   * [Data Generators](#data-generators)
   * [Database Drivers/Clients](#database-driversclients)
@@ -169,6 +170,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [time_format.cr](https://github.com/vladfaust/time_format.cr) - Convert time in human readable format with ease
  * [turkish-number](https://github.com/izniburak/turkish-number) - Turn integers into the Turkish words
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter)
+
+## Cryptography
+ * [cox](https://github.com/didactic-drunk/cox) - Crystal wrapper for the libsodium crypto API
+ * [openssl.cr](https://github.com/z64/openssl.cr) - This library provides binding for OpenSSL library
 
 ## Data Formats
  * [BinData](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
