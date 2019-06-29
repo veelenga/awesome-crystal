@@ -172,8 +172,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter)
 
 ## Cryptography
- * [cox](https://github.com/didactic-drunk/cox) - Crystal wrapper for the libsodium crypto API
  * [openssl.cr](https://github.com/z64/openssl.cr) - This library provides binding for OpenSSL library
+ * [sodium.cr](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
 
 ## Data Formats
  * [BinData](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
