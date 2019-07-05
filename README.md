@@ -529,6 +529,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-monzo](https://github.com/barisbalic/crystal-monzo) - A client for the [Monzo API](https://monzo.com/docs/)
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
+ * [dialogflow](https://github.com/krthr/dialogflow-crystal) - Crystal client for [Dialogflow](https://dialogflow.com)
  * [discordcr](https://github.com/meew0/discordcr) - A minimalist Discord API library
  * [GDAX](https://github.com/mccallofthewild/gdax) - GDAX REST and WebSocket API Wrapper with request signing
  * [gitlab.cr](https://github.com/icyleaf/gitlab.cr) - GitLab API wrapper
