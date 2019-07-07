@@ -227,6 +227,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Warden](https://github.com/diggersheep/warden) - Watches files, run command and a git command if succeed on file changes
  * [watcher](https://github.com/faustinoaq/watcher) - Watch file changes using File.stat
 
+## Dependency Injection
+* [syringe](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
+
 ## Email
  * [carbon](https://github.com/luckyframework/carbon) - Fun, testable, and adapter-based email library
  * [crystal-email](https://github.com/arcage/crystal-email) - Simple e-mail sending library
