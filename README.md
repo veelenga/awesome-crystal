@@ -360,6 +360,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [instana](https://github.com/instana/crystal-sensor) - A metrics and distributed trace collector for [Instana](https://www.instana.com/)
  * [katip](https://github.com/guvencenanguvenal/katip) - JSONbase logger
  * [Logger](https://crystal-lang.org/api/Logger.html) - logging utility (Crystal stdlib)
+ * [newrelic.cr](https://github.com/romul/newrelic.cr) - NewRelic Crystal Agent (built over C SDK)
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
  * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
 
