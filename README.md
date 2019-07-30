@@ -27,6 +27,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Data Generators](#data-generators)
   * [Database Drivers/Clients](#database-driversclients)
   * [Database Tools](#database-tools)
+  * [Dependency Injection](#dependency-injection)
   * [Development Tools](#development-tools)
   * [Email](#email)
   * [Environment Management](#environment-management)
@@ -218,6 +219,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [migrate](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
  * [migro](https://github.com/aisrael/migro) - A database migration tool that allows migrations to be specified in either YAML or raw SQL
 
+## Dependency Injection
+* [syringe](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
+
 ## Development Tools
  * [docker-crystal](https://github.com/aca-labs/docker-crystal) - Docker wrapper for the Crystal CLI
  * [guardian](https://github.com/f/guardian) - File change watcher for Crystal and Non-Crystal libs
@@ -226,9 +230,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [sentry-run](https://github.com/faustinoaq/sentry-run) - Reload code changes using Sentry.run
  * [Warden](https://github.com/diggersheep/warden) - Watches files, run command and a git command if succeed on file changes
  * [watcher](https://github.com/faustinoaq/watcher) - Watch file changes using File.stat
-
-## Dependency Injection
-* [syringe](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
 
 ## Email
  * [carbon](https://github.com/luckyframework/carbon) - Fun, testable, and adapter-based email library
