@@ -153,7 +153,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [todo](https://git.sceptique.eu/Sceptique/todo) - Todo list working in command line
 
 ## Code Analysis and Metrics
- * [ameba](https://github.com/veelenga/ameba) - A static code analysis tool
+ * [ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool
  * [trashman](https://github.com/Groogy/trashman) - A simple memory profiler for Crystal applications
 
 ## Configuration
