@@ -220,7 +220,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [migro](https://github.com/aisrael/migro) - A database migration tool that allows migrations to be specified in either YAML or raw SQL
 
 ## Dependency Injection
-* [syringe](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
+ * [athena](https://github.com/blacksmoke16/athena) - DI Service Container module with tagged services, and auto injection
+ * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
+ * [syringe](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
 
 ## Development Tools
  * [docker-crystal](https://github.com/aca-labs/docker-crystal) - Docker wrapper for the Crystal CLI
@@ -278,7 +280,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Framework Components
  * [cr-melon](https://github.com/gdotdesign/cr-melon) - Class based Http APIs
- * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [device_detector](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
  * [Exception Page](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
@@ -360,6 +361,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Logging and monitoring
  * [crafana](https://github.com/spoved/crafana.cr) - A [Grafana](https://grafana.com/) library to help autogenerate dashboards
  * [crometheus](https://gitlab.com/ezrast/crometheus) - A [Prometheus](https://prometheus.io/) client library
+ * [crylog](https://github.com/blacksmoke16/crylog) - Flexible logging framework based on Monolog
  * [crystal-logreader](https://github.com/arcage/crystal-logreader) - Tailing log file
  * [fluent-logger-crystal](https://github.com/TobiasGSmollett/fluent-logger-crystal) - A structured logger for [Fluentd](https://www.fluentd.org/)
  * [instana](https://github.com/instana/crystal-sensor) - A metrics and distributed trace collector for [Instana](https://www.instana.com/)
