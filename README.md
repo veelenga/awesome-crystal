@@ -27,6 +27,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Data Generators](#data-generators)
   * [Database Drivers/Clients](#database-driversclients)
   * [Database Tools](#database-tools)
+  * [Dependency Injection](#dependency-injection)
   * [Development Tools](#development-tools)
   * [Email](#email)
   * [Environment Management](#environment-management)
@@ -149,10 +150,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [tallboy](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
+ * [terminimal](https://github.com/aca-labs/terminimal) - A tiny CLI toolkit for building terminal apps for humans
  * [todo](https://git.sceptique.eu/Sceptique/todo) - Todo list working in command line
 
 ## Code Analysis and Metrics
- * [ameba](https://github.com/veelenga/ameba) - A static code analysis tool
+ * [ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool
  * [trashman](https://github.com/Groogy/trashman) - A simple memory profiler for Crystal applications
 
 ## Configuration
@@ -217,6 +219,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [micrate](https://github.com/juanedi/micrate) - Database migration tool
  * [migrate](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
  * [migro](https://github.com/aisrael/migro) - A database migration tool that allows migrations to be specified in either YAML or raw SQL
+
+## Dependency Injection
+* [syringe](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
 
 ## Development Tools
  * [docker-crystal](https://github.com/aca-labs/docker-crystal) - Docker wrapper for the Crystal CLI
@@ -316,6 +321,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## HTTP
  * [arachnid](https://github.com/watzon/arachnid) - Powerful web scraping framework
+ * [Cable](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
  * [cossack](https://github.com/crystal-community/cossack) - Simple flexible HTTP client
  * [crest](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
  * [crul](https://github.com/porras/crul) - Command line HTTP client
