@@ -590,6 +590,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Unofficial
  * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - Добро пожаловать, товарищ!
+ * [Crystal Programming Discord Server](https://discord.gg/YPGkQ5A) - Unofficial Discord server dedicated to the Crystal Programming Language.
 
 # Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - Free book to bootstrap your Crystal journey
