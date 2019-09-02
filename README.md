@@ -589,9 +589,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
 
 ## Unofficial
+ * [Chinese-speaking Telegram Group](https://t.me/crystal_cn) - 来吧！TG 中文圈的朋友们！
  * [Crystal Programming Discord Server](https://discord.gg/YPGkQ5A) - Unofficial Discord server dedicated to the Crystal Programming Language
  * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - Добро пожаловать, товарищ!
- * [Chinese-speaking Telegram Group](https://t.me/crystal_cn) - 来吧！TG 中文圈的朋友们！
 
 # Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - Free book to bootstrap your Crystal journey
