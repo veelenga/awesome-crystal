@@ -27,6 +27,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Data Generators](#data-generators)
   * [Database Drivers/Clients](#database-driversclients)
   * [Database Tools](#database-tools)
+  * [Debugging](#debugging)
   * [Dependency Injection](#dependency-injection)
   * [Development Tools](#development-tools)
   * [Email](#email)
@@ -221,6 +222,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [micrate](https://github.com/juanedi/micrate) - Database migration tool
  * [migrate](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
  * [migro](https://github.com/aisrael/migro) - A database migration tool that allows migrations to be specified in either YAML or raw SQL
+
+## Debugging
+ * [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
 
 ## Dependency Injection
 * [syringe](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
@@ -630,7 +634,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-base](https://github.com/ruivieira/crystal-base) - CentOS base docker image for Crystal development
  * [crystal-ctags](https://github.com/SuperPaintman/crystal-ctags) - Ctags generator for Crystal
  * [crystal-dash-docset](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
- * [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
  * [helptransl8](https://github.com/papilip/helptransl8) - Tool for document translators
 
 ## DevOps
