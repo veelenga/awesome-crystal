@@ -158,9 +158,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 - [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
 - [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
+- [tablo](https://github.com/hutou/tablo) - a flexible terminal table generator
 - [tallboy](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
 - [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
-- [tablo](https://github.com/hutou/tablo) - a flexible terminal table generator
 - [terminimal](https://github.com/aca-labs/terminimal) - A tiny CLI toolkit for building terminal apps for humans
 - [todo](https://git.sceptique.eu/Sceptique/todo) - Todo list working in command line
 
