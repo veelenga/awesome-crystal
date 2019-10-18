@@ -444,6 +444,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## ORM/ODM Extensions
  * [clear](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
+ * [crecto](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
  * [granite](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
