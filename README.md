@@ -20,6 +20,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [CLI Builders](#cli-builders)
   * [CLI Utils](#cli-utils)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
+  * [Compression](#compression)
   * [Configuration](#configuration)
   * [Converters](#converters)
   * [Cryptography](#cryptography)
@@ -129,7 +130,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox](https://github.com/nsf/termbox) (terminal UI library)
  * [x11-cr](https://github.com/TamasSzekeres/x11-cr) - X11 bindings
  * [x_do.cr](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool`](https://github.com/jordansissel/xdotool))
- * [zstd.cr](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard](https://github.com/facebook/zstd) compression library
 
 ## Caching
  * [bloom_filter](https://github.com/crystal-community/bloom_filter) - Implementation of Bloom filter
@@ -161,6 +161,16 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool
  * [trashman](https://github.com/Groogy/trashman) - A simple memory profiler for Crystal applications
 
+## Compression
+ * [brotli.cr](https://github.com/naqvis/brotli.cr) - Bindings to the Google brotli compression library
+ * [Crystar](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
+ * [Gzip](https://crystal-lang.org/api/Gzip.html) - readers and writers of gzip format (Crystal stdlib)
+ * [snappy](https://github.com/naqvis/snappy) -  Snappy compression format reader/writer for Crystal
+ * [xz](https://github.com/naqvis/xz.cr) - Bindings to the xz (lzma) compression library
+ * [Zip](https://crystal-lang.org/api/Zip.html) - readers and writers of zip format (Crystal stdlib)
+ * [Zlib](https://crystal-lang.org/api/Zlib.html) - readers and writers of zlib format (Crystal stdlib)
+ * [zstd.cr](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard](https://github.com/facebook/zstd) compression library
+
 ## Configuration
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
  * [envyable](https://github.com/philnash/envyable.cr) -  A simple YAML to ENV config loader
@@ -185,11 +195,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [BinData](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
  * [config.cr](https://github.com/chris-huxtable/config.cr) - Easy to use configuration format parser
  * [crinder](https://github.com/c910335/crinder) - Class based json renderer
- * [Crystar](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
  * [CSV](https://crystal-lang.org/api/CSV.html) - parsing and generating for comma-separated values (Crystal stdlib)
  * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) - Separates a files front matter from its content
  * [geoip2.cr](https://github.com/delef/geoip2.cr) - GeoIP2 reader
- * [Gzip](https://crystal-lang.org/api/Gzip.html) - readers and writers of gzip format (Crystal stdlib)
  * [INI](https://crystal-lang.org/api/INI.html) - INI file parser (Crystal stdlib)
  * [JSON](https://crystal-lang.org/api/JSON.html) - parsing and generating JSON documents (Crystal stdlib)
  * [JSON tools](https://github.com/impatienttraveller/json-tools) - An implementation of JSON Patch and Pointer RFC's
@@ -197,8 +205,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [toml.cr](https://github.com/crystal-community/toml.cr) - TOML parser
  * [XML](https://crystal-lang.org/api/XML.html) - parsing and generating XML documents (Crystal stdlib)
  * [YAML](https://crystal-lang.org/api/YAML.html) - parsing and generating YAML documents (Crystal stdlib)
- * [Zip](https://crystal-lang.org/api/Zip.html) - readers and writers of zip format (Crystal stdlib)
- * [Zlib](https://crystal-lang.org/api/Zlib.html) - readers and writers of zlib format (Crystal stdlib)
  * [zq](https://github.com/colstrom/zq) - Command-line ZPL processor
 
 ## Data Generators
