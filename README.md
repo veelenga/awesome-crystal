@@ -352,6 +352,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [keyer_cr](https://github.com/danielpclark/keyer_cr) - Adds HTTP GET/POST parameter parsing as a Hash-like object
  * [ngrok.cr](https://github.com/watzon/ngrok.cr) - Ngrok wrapper
  * [params](https://github.com/vladfaust/params.cr) - The strongly-typed HTTP params parsing module
+ * [proxy-fetcher.cr](https://github.com/nbulaj/proxy-fetcher.cr) - Proxy lists fetching & validating library
  * [resp-crystal](https://github.com/soveran/resp-crystal) - Lightweight RESP client
  * [sse.cr](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
 
