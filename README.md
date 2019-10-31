@@ -333,6 +333,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [HTTP::WebSocket](https://crystal-lang.org/api/HTTP/WebSocket.html) - HTTP WebSocket client (Crystal stdlib)
  * [keyer_cr](https://github.com/danielpclark/keyer_cr) - Adds HTTP GET/POST parameter parsing as a Hash-like object
  * [proxy-fetcher.cr](https://github.com/nbulaj/proxy-fetcher.cr) - Proxy lists fetching & validating library
+ * [resp-crystal](https://github.com/soveran/resp-crystal) - Lightweight RESP client
  * [sse.cr](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
 
 ## Image processing
@@ -428,9 +429,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crecto](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
  * [granite](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+ * [ohm-crystal](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [onyx-sql](https://github.com/onyxframework/sql) - DB-agnostic SQL ORM with beautiful DSL and type-safe Query builder
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
  * [rethinkdb-orm](https://github.com/spider-gazelle/rethinkdb-orm) - ORM for RethinkDB / RebirthDB
+ * [stal-crystal](https://github.com/soveran/stal-crystal) - Set algebra solver for Redis
  * [topaz](https://github.com/topaz-crystal/topaz) - A simple and useful db wrapper
 
 ## Package Management
@@ -460,6 +463,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Routing
  * [orion](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
  * [router.cr](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
+ * [toro](https://github.com/soveran/toro) - Tree Oriented Routing
 
 ## Scheduling
  * [cron_scheduler](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns

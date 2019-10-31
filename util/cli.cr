@@ -42,6 +42,15 @@ end
 class Shard
   include YAML::Serializable
 
+  # Manually keep track of shards using `CI::Actions` since there
+  # is not currently a way to resolve if a shard uses it.
+  private USING_GH_ACTIONS = {
+    "soveran/toro",
+    "soveran/ohm-crystal",
+    "soveran/stal-crystal",
+    "soveran/resp-crystal",
+  }
+
   # The owner of the shard's repo.
   #
   # Can either be a user or organization.
@@ -97,6 +106,12 @@ class Shard
 
     if response.status.success?
       responses[CI::Drone] = Array(DroneBuild).from_json(response.body).find(&.started).try &.started
+    end
+
+    # Manually set the shard to use GH actions if its one in a static list.
+    # Also assume it last ran today since there isn't a way to resolve it ATM.
+    if USING_GH_ACTIONS.includes? "#{@owner}/#{@name}"
+      responses[CI::Actions] = Time.utc
     end
 
     pp responses
