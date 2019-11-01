@@ -45,6 +45,7 @@ class Shard
   # Manually keep track of shards using `CI::Actions` since there
   # is not currently a way to resolve if a shard uses it.
   private USING_GH_ACTIONS = {
+    "blacksmoke16/assert",
     "soveran/toro",
     "soveran/ohm-crystal",
     "soveran/stal-crystal",
