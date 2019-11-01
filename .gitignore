@@ -3,7 +3,7 @@
 /.crystal/
 bin/
 
-# Don't trck the shard report files
+# Don't track the shard report files
 shard_list.yml
 report.md
 
