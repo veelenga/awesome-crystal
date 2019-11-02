@@ -357,6 +357,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [sse.cr](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
 
 ## Image processing
+ * [libpixel.cr](https://github.com/libpixel/libpixel.cr)
  * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) - Bindings for [MagickWand](https://www.imagemagick.org/script/magick-wand.php), the C interface for ImageMagick processing libraries
  * [stumpy_gif](https://github.com/stumpycr/stumpy_gif) - Write (animated) GIF images
  * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
