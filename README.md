@@ -110,7 +110,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## C bindings
  * [asound-cr](https://github.com/TamasSzekeres/asound-cr) - Bindings for ALSA/libasound
  * [cairo-cr](https://github.com/TamasSzekeres/cairo-cr) - Bindings for [Cairo](https://cairographics.org/) graphics library
- * [clang.cr](https://github.com/crystal-lang/clang.cr) - Libclang bindings  
+ * [clang.cr](https://github.com/crystal-lang/clang.cr) - Libclang bindings
  * [crass](https://github.com/vonKingsley/crass) - Bindings for libsass
  * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
  * [crystal-gsl](https://github.com/ruivieira/crystal-gsl) - GNU Scientific Library bindings
@@ -426,6 +426,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
 
 ## ORM/ODM Extensions
+ * [avram](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases.
  * [clear](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
  * [crecto](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
  * [granite](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
@@ -629,6 +630,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
    * [crystal-tools](https://atom.io/packages/crystal-tools) - Enables built in tools in Crystal compiler
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) - Crystal language support in Atom
  * Emacs
+   * [emacs-crystal-mode](https://github.com/dotmilk/emacs-crystal-mode) - Crystal language support for Emacs
    * [play-crystal.el](https://github.com/veelenga/play-crystal.el) - [play.crystal-lang.org](https://play.crystal-lang.org/#/cr) integration in Emacs
  * [scry](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
  * Spacemacs
@@ -647,3 +649,4 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Shell plugins
  * [crun](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
+ * [crystal-zsh](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugin

@@ -50,6 +50,7 @@ enum CI
   Actions
   Drone
   TravisPro
+  Exempt
 end
 
 # Represents a shard within `README.md`.
@@ -64,6 +65,14 @@ class Shard
     "soveran/ohm-crystal",
     "soveran/stal-crystal",
     "soveran/resp-crystal",
+  }
+
+  # Shards that are exempt from reporting.
+  # Mainly for utilities and plugins that
+  # can't really be tested autonomously.
+  private EXEMPT_SHARDS = {
+    "dotmilk/emacs-crystal-mode",
+    "veelenga/crystal-zsh",
   }
 
   # The owner of the shard's repo.
@@ -129,6 +138,11 @@ class Shard
     # Also assume it last ran today since there isn't a way to resolve it ATM.
     if USING_GH_ACTIONS.includes? "#{@owner}/#{@name}"
       responses[CI::Actions] = Time.utc
+    end
+
+    # Set exempt shards last build time to now.
+    if EXEMPT_SHARDS.includes? "#{@owner}/#{@name}"
+      responses[CI::Exempt] = Time.utc
     end
 
     pp responses
