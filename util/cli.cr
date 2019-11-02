@@ -5,6 +5,20 @@ require "http/client"
 require "colorize"
 require "option_parser"
 
+module EnumConverter(T)
+  def self.from_yaml(ctx : YAML::ParseContext, node : YAML::Nodes::Node) : T
+    unless node.is_a?(YAML::Nodes::Scalar)
+      node.raise "Expected scalar, not #{node.class}"
+    end
+
+    T.parse node.value
+  end
+
+  def self.to_yaml(value : T, yaml : YAML::Nodes::Builder)
+    yaml.scalar value.to_s
+  end
+end
+
 GITLAB_CLIENT     = HTTP::Client.new "gitlab.com", tls: true
 TRAVIS_CLIENT     = HTTP::Client.new "api.travis-ci.org", tls: true
 TRAVIS_PRO_CLIENT = HTTP::Client.new "api.travis-ci.com", tls: true
@@ -60,9 +74,11 @@ class Shard
   # The name of the shard's repo.
   getter name : String
 
+  @[YAML::Field(converter: EnumConverter(VC))]
   # Which `VC` `self` uses.
   getter vc : VC
 
+  @[YAML::Field(converter: EnumConverter(CI))]
   # Which `CI` `self` uses.
   getter ci : CI
 
