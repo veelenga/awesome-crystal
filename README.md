@@ -151,6 +151,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## CLI Utils
  * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
+ * [oq](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq](https://github.com/stedolan/jq) filters to transform the data.
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [tablo](https://github.com/hutou/tablo) - A flexible terminal table generator
  * [tallboy](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
@@ -236,7 +237,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
 
 ## Dependency Injection
-* [syringe](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
+ * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
+ * [syringe](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
 
 ## Development Tools
  * [docker-crystal](https://github.com/aca-labs/docker-crystal) - Docker wrapper for the Crystal CLI
@@ -294,7 +296,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Framework Components
  * [cr-melon](https://github.com/gdotdesign/cr-melon) - Class based Http APIs
- * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
  * [crystal-mime](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [device_detector](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
  * [Exception Page](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
@@ -379,6 +380,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Logging and monitoring
  * [crafana](https://github.com/spoved/crafana.cr) - A [Grafana](https://grafana.com/) library to help autogenerate dashboards
  * [crometheus](https://gitlab.com/ezrast/crometheus) - A [Prometheus](https://prometheus.io/) client library
+ * [crylog](https://github.com/blacksmoke16/crylog) - Flexible logging framework based on Monolog
  * [crystal-logreader](https://github.com/arcage/crystal-logreader) - Tailing log file
  * [fluent-logger-crystal](https://github.com/TobiasGSmollett/fluent-logger-crystal) - A structured logger for [Fluentd](https://www.fluentd.org/)
  * [instana](https://github.com/instana/crystal-sensor) - A metrics and distributed trace collector for [Instana](https://www.instana.com/)
@@ -408,6 +410,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
  * [compiled_license](https://github.com/elorest/compiled_license) - Compiles licenses into binary for complience with MIT when copying binary to system or container without the code
  * [containerregistry.cr](https://github.com/naqvis/containerregistry.cr) - Library for working with container registries
+ * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) - Extensible annotation based serialization/deserialization library
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
@@ -582,7 +585,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Validation
  * [accord](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
- * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) - Extensible annotation based serialization/deserialization/validation library
+ * [assert](https://github.com/blacksmoke16/assert) - Extensible annotation based object validation library
  * [denetmen](https://github.com/izniburak/denetmen) - Micro check library that patches Crystal stdlib
  * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
 
