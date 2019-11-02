@@ -1,6 +1,11 @@
 /.deps/
 /lib/
 /.crystal/
+bin/
+
+# Don't track the shard report files
+shard_list.yml
+report.md
 
 
 # Libraries don't need dependency lock
