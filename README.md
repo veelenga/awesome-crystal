@@ -37,7 +37,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Feature Flipping](#feature-flipping)
   * [Framework Components](#framework-components)
   * [Game Development](#game-development)
-  * [GUI library](#gui-library)
   * [HTML Builders](#html-builders)
   * [HTML/XML parsing](#htmlxml-parsing)
   * [HTTP](#http)
@@ -266,8 +265,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [CrSFML](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
  * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) - Bindings for [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
  * [glove](https://github.com/ddfreyne/glove) - A library for gaming development
-
-## GUI library
 
 ## HTML Builders
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
