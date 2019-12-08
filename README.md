@@ -89,8 +89,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
  * [graphlb](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
  * [hash_ring](https://github.com/TobiasGSmollett/hash_ring) - An Implementation of Consistent Hash Ring
- * [haversine](https://github.com/mamantoha/haversine) - An Implementation of the Haversine formula
- * [kd_tree](https://github.com/mamantoha/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
+ * [haversine](https://github.com/geocrystal/haversine) - An Implementation of the Haversine formula
+ * [kd_tree](https://github.com/geocrystal/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
  * [ksuid.cr](https://github.com/Sija/ksuid.cr) - K-Sortable Globally Unique IDs
  * [markov](https://github.com/mccallofthewild/markov) - Build Markov Chains and run Markov Processes
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
@@ -431,6 +431,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Science and Data analysis
  * [bottle](https://github.com/crystal-data/bottle) - Numerical computing library supporting N-Dimensional data
  * [linalg](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
+ * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
  * [stats](https://git.sceptique.eu/Sceptique/stats) - An expressive implementation of statistical distributions
 
 ## Search
@@ -549,7 +550,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
  * [Crystular](http://www.crystular.org) - Regular expression tester
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
- * [Fluence](https://github.com/crystallabs/fluence) - WYSIWYG wiki using markdown and Git
+ * [Fluence](https://github.com/docelic/fluence) - WYSIWYG wiki using markdown and Git
  * [icr](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
  * [Invidious](https://github.com/omarroth/invidious) - Invidious is an alternative front-end to YouTube
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
