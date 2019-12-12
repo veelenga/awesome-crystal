@@ -1,5 +1,5 @@
 require "xml"
-require "markdown"
+require "markd"
 
 class Readme
   getter html : XML::Node
@@ -35,7 +35,7 @@ class Readme
   private def to_html(markdown)
     XML.parse_html %[
       <html>
-        #{Markdown.to_html(markdown)}
+        #{Markd.to_html(markdown)}
       </html>
     ]
   end

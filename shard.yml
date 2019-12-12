@@ -1,0 +1,11 @@
+name: 'Awesome Crystal'
+version: 0.1.0
+
+targets:
+  cli:
+    main: util/cli.cr
+
+development_dependencies:
+  markd:
+    github: icyleaf/markd
+    branch: master
