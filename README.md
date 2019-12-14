@@ -187,6 +187,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter)
 
 ## Cryptography
+ * [cmac](https://github.com/spider-gazelle/cmac) - Crystal implementation of Cipher-based Message Authentication Code (CMAC)
  * [openssl.cr](https://github.com/z64/openssl.cr) - This library provides binding for OpenSSL library
  * [sodium.cr](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
 
