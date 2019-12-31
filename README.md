@@ -186,6 +186,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [CSV](https://crystal-lang.org/api/CSV.html) - parsing and generating for comma-separated values (Crystal stdlib)
  * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) - Separates a files front matter from its content
  * [geoip2.cr](https://github.com/delef/geoip2.cr) - GeoIP2 reader
+ * [HAR](https://github.com/NeuraLegion/har) - HAR (HTTP Archive) parser
  * [INI](https://crystal-lang.org/api/INI.html) - INI file parser (Crystal stdlib)
  * [JSON](https://crystal-lang.org/api/JSON.html) - parsing and generating JSON documents (Crystal stdlib)
  * [JSON tools](https://github.com/impatienttraveller/json-tools) - An implementation of JSON Patch and Pointer RFC's
@@ -260,6 +261,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [praetorian](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
  * [request_id](https://github.com/SuperPaintman/request-id) - Middleware for generates / pick up a unique request ID for Crystal servers
  * [response_time](https://github.com/SuperPaintman/response-time) - Response time for Crystal servers (pure http server, kemal, etc.)
+ * [shrine.cr](https://github.com/jetrockets/shrine.cr) - File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby
  * [tourmaline](https://github.com/watzon/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
 
 ## Game Development
@@ -341,6 +343,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
  * [containerregistry.cr](https://github.com/naqvis/containerregistry.cr) - Library for working with container registries
  * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) - Extensible annotation based serialization/deserialization library
+ * [CrSignals](https://github.com/firejox/CrSignals) - Signals/slots notification library
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
@@ -427,8 +430,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [tasker](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ## Science and Data analysis
- * [bottle](https://github.com/crystal-data/bottle) - Numerical computing library supporting N-Dimensional data
  * [linalg](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
+ * [num.cr](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
  * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
  * [stats](https://git.sceptique.eu/Sceptique/stats) - An expressive implementation of statistical distributions
 
@@ -523,7 +526,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Unofficial
  * [Chinese-speaking Telegram Group](https://t.me/crystal_cn) - 来吧！TG 中文圈的朋友们！
- * [Crystal Programming Discord Server](https://discord.gg/YPGkQ5A) - Unofficial Discord server dedicated to the Crystal Programming Language
+ * [Crystal Programming Discord Server](https://discord.gg/YS7YvQy) - Unofficial Discord server dedicated to the Crystal Programming Language
  * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - Добро пожаловать, товарищ!
 
 # Resources
