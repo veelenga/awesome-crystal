@@ -60,6 +60,7 @@ class Shard
   # Manually keep track of shards using `CI::Actions` since there
   # is not currently a way to resolve if a shard uses it.
   private USING_GH_ACTIONS = {
+    "cadmiumcr/cadmium",
     "blacksmoke16/assert",
     "soveran/toro",
     "soveran/ohm-crystal",
@@ -71,7 +72,19 @@ class Shard
   # Mainly for utilities and plugins that
   # can't really be tested autonomously.
   private EXEMPT_SHARDS = {
+    "bcardiff/crystal-ast-helper",
+    "crystal-lang/clang.cr",
+    "crystal-lang-tools/Crystal.tmbundle",
+    "crystal-lang-tools/sublime-crystal",
+    "crystal-lang-tools/crystal-ide",
     "dotmilk/emacs-crystal-mode",
+    "elorest/vim-slang",
+    "elorest/cry",
+    "g3ortega/vscode-crystal",
+    "jhass/DeBot",
+    "juanedi/crystal-spacemacs-layer",
+    "ruivieira/crystal-base",
+    "Sija/crystal-dash-docset",
     "veelenga/crystal-zsh",
   }
 
