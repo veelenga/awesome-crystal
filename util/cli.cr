@@ -62,6 +62,8 @@ class Shard
   private USING_GH_ACTIONS = {
     "cadmiumcr/cadmium",
     "blacksmoke16/assert",
+    "firejox/CrSignals",
+    "mamantoha/crest",
     "soveran/toro",
     "soveran/ohm-crystal",
     "soveran/stal-crystal",
