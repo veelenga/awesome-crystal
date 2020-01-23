@@ -210,7 +210,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
  * [eventql-crystal](https://github.com/measurechina/eventql-crystal) - EventQL driver
  * [leveldb](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
- * [mongo.cr](https://github.com/ambercommunity/mongo.cr) - Binding for MongoDB C driver
+ * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
  * [rocksdb.cr](https://github.com/maiha/rocksdb.cr) - RocksDB client
 
 ## Database Tools
