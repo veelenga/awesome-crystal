@@ -85,9 +85,11 @@ class Shard
     "g3ortega/vscode-crystal",
     "jhass/DeBot",
     "juanedi/crystal-spacemacs-layer",
+    "marciogm/asdf-crystal",
     "ruivieira/crystal-base",
     "Sija/crystal-dash-docset",
     "veelenga/crystal-zsh",
+    "vscode-crystal-lang",
   }
 
   # The owner of the shard's repo.
