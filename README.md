@@ -217,6 +217,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Database Tools
  * [migrate](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
+ * [queryit](https://github.com/hugopl/queryit) - A setupless terminal based SQL query runner.
 
 ## Debugging
  * [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
