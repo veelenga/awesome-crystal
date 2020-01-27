@@ -101,6 +101,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-rest-api](https://github.com/blocknotes/kemal-rest-api) - A library to create RESTful API with Kemal
 
 ## Blockchain
+ * [Cocol](https://github.com/cocol-project/cocol) - A minimal blockchain testbed
+ * [secp256k1.cr](https://github.com/q9f/secp256k1.cr) - Elliptic curve used in the public-private-key cryptography
  * [SushiChain](https://github.com/SushiChain/SushiChain) - A custom blockchain platform
 
 ## C bindings
