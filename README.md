@@ -374,6 +374,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [connect-proxy](https://github.com/spider-gazelle/connect-proxy) - Connect method style of HTTP tunnelling / HTTP proxy
  * [cr-xmpp](https://github.com/naqvis/cr-xmpp) - XMPP/Jabber Library
  * [Crirc](https://github.com/Meoowww/Crirc) - IRC protocol implementation (Client, Server, Bots)
+ * [crystal-dns](https://gitlab.com/jgillich/crystal-dns) - DNS protocol implementation and resolver
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - An SNMP implementation with version 1, 2c and 3 support
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
