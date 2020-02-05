@@ -467,6 +467,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
  * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
  * [teeplate](https://github.com/mosop/teeplate) - A library for rendering multiple template files
+ * [Water](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## Testing
  * [crotest](https://github.com/emancu/crotest) - A tiny and simple test framework
