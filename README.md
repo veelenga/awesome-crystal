@@ -202,6 +202,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Data Generators
  * [faker](https://github.com/askn/faker) - A library for generating fake data
  * [hashids.cr](https://github.com/splattael/hashids.cr) - A library to generate YouTube-like ids from one or many numbers
+ * [prime](https://github.com/wontruefree/prime) - A prime number generator
 
 ## Database Drivers/Clients
  * [couchdb.cr](https://github.com/TechMagister/couchdb.cr) - CouchDB client
