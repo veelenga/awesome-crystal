@@ -86,6 +86,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystalg](https://github.com/TobiasGSmollett/crystalg) - A Generic Algorithm Library
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
  * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
+ * [fzy](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
  * [graphlb](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
  * [hash_ring](https://github.com/TobiasGSmollett/hash_ring) - An Implementation of Consistent Hash Ring
  * [haversine](https://github.com/geocrystal/haversine) - An Implementation of the Haversine formula
