@@ -451,6 +451,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal_openfaas](https://github.com/TPei/crystal_openfaas/) - Template to enable crystal as first class citizens in OpenFaaS
  * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal.
  * [gcf.cr](https://github.com/sam0x17/gcf.cr) - Managed execution of Crystal in Google Cloud Functions
+ * [Crambda](https://github.com/lambci/crambda) - AWS Lambda custom runtime for Crystal
 
 ## System
  * [baked_file_system](https://github.com/schovi/baked_file_system) - Virtual file system implementation
