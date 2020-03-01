@@ -81,6 +81,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crie](https://github.com/c910335/crie) - Compile-time Trie
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
  * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
+ * [fzy](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
  * [graphlb](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
  * [haversine](https://github.com/geocrystal/haversine) - An Implementation of the Haversine formula
  * [kd_tree](https://github.com/geocrystal/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
@@ -91,6 +92,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Api Builders
 
 ## Blockchain
+ * [Cocol](https://github.com/cocol-project/cocol) - A minimal blockchain testbed
+ * [secp256k1.cr](https://github.com/q9f/secp256k1.cr) - Elliptic curve used in the public-private-key cryptography
  * [SushiChain](https://github.com/SushiChain/SushiChain) - A custom blockchain platform
 
 ## C bindings
@@ -134,6 +137,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [sass.cr](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass](https://github.com/sass/libsass/) binding)
 
 ## Cryptography
+ * [cmac](https://github.com/spider-gazelle/cmac) - Crystal implementation of Cipher-based Message Authentication Code (CMAC)
 
 ## Data Formats
  * [BinData](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
@@ -164,6 +168,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Database Tools
  * [migrate](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
+ * [queryit](https://github.com/hugopl/queryit) - A setupless terminal based SQL query runner.
 
 ## Debugging
  * [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
@@ -227,7 +232,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Logging and monitoring
  * [crafana](https://github.com/spoved/crafana.cr) - A [Grafana](https://grafana.com/) library to help autogenerate dashboards
- * [crylog](https://github.com/blacksmoke16/crylog) - Flexible logging framework based on Monolog
  * [Logger](https://crystal-lang.org/api/Logger.html) - logging utility (Crystal stdlib)
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
 
@@ -256,6 +260,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Network Protocols
  * [connect-proxy](https://github.com/spider-gazelle/connect-proxy) - Connect method style of HTTP tunnelling / HTTP proxy
+ * [crystal-dns](https://gitlab.com/jgillich/crystal-dns) - DNS protocol implementation and resolver
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - An SNMP implementation with version 1, 2c and 3 support
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
@@ -321,6 +326,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crinja](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
  * [ECR (Embedded Crystal)](https://crystal-lang.org/api/ECR.html) - compile time template language which uses plain crystal expressions (Crystal stdlib)
  * [Jbuilder](https://github.com/shootingfly/jbuilder) - Generate JSON objects with a Builder-style DSL, inspired by jbuilder
+ * [Water](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## Testing
  * [crytic](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
@@ -345,12 +351,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) - A library to interact with your YNAB data
 
 ## Validation
- * [assert](https://github.com/blacksmoke16/assert) - Extensible annotation based object validation library
  * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
 
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
- * [athena](https://github.com/blacksmoke16/athena) - Modular, annotation based, API oriented framework with built in param conversion
+ * [athena](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+ * [grip](grip-framework/grip) - Class oriented fork of the Kemal framework based on a JSON request/response model
  * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
@@ -375,7 +381,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Crystal Mastery](https://crystalmastery.io/) - Screencasts for learning Crystal
  * [crystal-lang.org](https://crystal-lang.org) - Official language site
  * [devdocs.io](https://devdocs.io/crystal/) - API Documentation Browser with Crystal support
- * [getgood.at](https://getgood.at/crystal/in-a-day) - Learn Crystal in a Day
+ * [getgood.at](https://getgood.at/in-a-day/crystal) - Learn Crystal in a Day
  * [Programming Crystal](https://pragprog.com/book/crystal/programming-crystal) - PragProg book to start your Crystal journey
 
 ## Official Documentation Translations

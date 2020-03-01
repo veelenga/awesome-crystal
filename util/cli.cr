@@ -64,6 +64,7 @@ class Shard
     "blacksmoke16/assert",
     "firejox/CrSignals",
     "mamantoha/crest",
+    "q9f/secp256k1.cr",
     "soveran/toro",
     "soveran/ohm-crystal",
     "soveran/stal-crystal",
