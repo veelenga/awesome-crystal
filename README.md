@@ -112,7 +112,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Caching
 
 ## CLI Builders
- * [clim](https://github.com/at-grandpa/clim) - Slim command line interface builder
  * [OptionParser](https://crystal-lang.org/api/OptionParser.html) - command-line options processing (Crystal stdlib)
  * [Phreak](https://github.com/shinzlet/phreak) - A highly flexible Crystal CLI builder in the style of OptionParser
 
@@ -180,7 +179,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Development Tools
 
 ## Email
- * [crystal-email](https://github.com/arcage/crystal-email) - Simple e-mail sending library
  * [CrystalEmail](https://git.sceptique.eu/Sceptique/CrystalEmail) - A RFC compliant Email validator
 
 ## Environment Management
@@ -244,7 +242,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [markd](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
 
 ## Misc
- * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
  * [any_hash.cr](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
  * [callbacks](https://github.com/vladfaust/callbacks.cr) - Expressive callbacks module
  * [CrSignals](https://github.com/firejox/CrSignals) - Signals/slots notification library
@@ -295,7 +292,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [libgen](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
 
 ## Queues and Messaging
- * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## Routing
  * [orion](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
@@ -419,7 +415,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) - Crystal language support in Atom
  * Emacs
    * [emacs-crystal-mode](https://github.com/dotmilk/emacs-crystal-mode) - Crystal language support for Emacs
- * [scry](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
  * Spacemacs
    * [crystal-spacemacs-layer](https://github.com/juanedi/crystal-spacemacs-layer) - Spacemacs contribution layer for Crystal
  * Sublime

@@ -60,15 +60,16 @@ class Shard
   # Manually keep track of shards using `CI::Actions` since there
   # is not currently a way to resolve if a shard uses it.
   private USING_GH_ACTIONS = {
+    "athena-framework/athena",
     "cadmiumcr/cadmium",
-    "blacksmoke16/assert",
+    "cocol-project/cocol",
     "firejox/CrSignals",
     "mamantoha/crest",
     "q9f/secp256k1.cr",
-    "soveran/toro",
     "soveran/ohm-crystal",
-    "soveran/stal-crystal",
     "soveran/resp-crystal",
+    "soveran/stal-crystal",
+    "soveran/toro",
   }
 
   # Shards that are exempt from reporting.
@@ -76,19 +77,25 @@ class Shard
   # can't really be tested autonomously.
   private EXEMPT_SHARDS = {
     "bcardiff/crystal-ast-helper",
-    "crystal-lang/clang.cr",
+    "crystal-community/crystal-patterns",
+    "crystal-lang-tools/crystal-ide",
     "crystal-lang-tools/Crystal.tmbundle",
     "crystal-lang-tools/sublime-crystal",
-    "crystal-lang-tools/crystal-ide",
+    "crystal-lang-tools/vscode-crystal-lang",
+    "crystal-lang/clang.cr",
+    "crystal-lang/crystal-mysql",
+    "exercism/crystal",
     "dotmilk/emacs-crystal-mode",
-    "elorest/vim-slang",
     "elorest/cry",
+    "elorest/vim-slang",
     "g3ortega/vscode-crystal",
+    "https://github.com/will/crystal-pg",
     "jhass/DeBot",
     "juanedi/crystal-spacemacs-layer",
     "marciogm/asdf-crystal",
     "ruivieira/crystal-base",
     "Sija/crystal-dash-docset",
+    "will/crystal-pg",
     "veelenga/crystal-zsh",
     "vscode-crystal-lang",
   }
