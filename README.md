@@ -516,7 +516,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
  * [athena](https://github.com/blacksmoke16/athena) - Modular, annotation based, API oriented framework with built in param conversion
- * [grip](https://github.com/grip-framework/grip) - Class oriented fork of the Kemal framework based on a JSON request/response model
+ * [grip](https://github.com/grip-framework/grip) - A microframework for building RESTful web applications, with ease and joy
  * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
