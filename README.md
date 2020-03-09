@@ -359,7 +359,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) - Internationalization shard
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [inflector.cr](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
- * [ishi](https://github.com/toddsundsted/ishi) - Graph plotting package with a small API powered by gnuplot
  * [iterm2](https://github.com/toddsundsted/iterm2) - Display images within the terminal using the ITerm2 Inline Images Protocol
  * [lirith](https://github.com/lirith-engine/lirith) - Graphics engine
  * [m3u8](https://github.com/akiicat/m3u8) - Generate and parse m3u8 playlists for HTTP Live Streaming
@@ -368,7 +367,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [pangu.cr](https://github.com/isaced/pangu.cr) - Paranoid text spacing in Crystal
  * [pinger](https://github.com/spider-gazelle/pinger) - Ping IP addresses and DNS entries without requiring sudo
  * [port_midi](https://github.com/jimm/crystal_port_midi) - Crystal C bindings for the PortMIDI cross-platform MIDI I/O library
- * [public_suffix](https://github.com/toddsundsted/public_suffix) - A small library designed to make the Public Suffix List (https://publicsuffix.org/) easier to use
  * [retriable.cr](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
  * [tren](https://github.com/sdogruyol/tren) - Give your SQL some love
  * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
@@ -384,7 +382,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - An SNMP implementation with version 1, 2c and 3 support
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [gopher.cr](https://github.com/anicholson/gopher.cr) - Gopher server toolkit
- * [host_meta](https://github.com/toddsundsted/host_meta) - A Web Host Metadata (https://tools.ietf.org/html/rfc6415) client
  * [jwt](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
  * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
  * [OAuth](https://crystal-lang.org/api/OAuth.html) - OAuth consumer (Crystal stdlib)
@@ -392,7 +389,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [OpenSSL](https://crystal-lang.org/api/OpenSSL.html) - bindings to libssl (Crystal stdlib)
  * [telnet.cr](https://github.com/spider-gazelle/telnet.cr) - Telnet protocol
  * [transfer_more](https://git.sceptique.eu/Sceptique/transfer_more) - Clone of transfer.sh to uploads files
- * [web_finger](https://github.com/toddsundsted/web_finger) - A WebFinger (https://tools.ietf.org/html/rfc7033) client
 
 ## Networking
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
@@ -443,6 +439,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [tasker](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ## Science and Data analysis
+ * [ishi](https://github.com/toddsundsted/ishi) - Graph plotting package with a small API and sensible defaults powered by gnuplot.Graph plotting package with a small API powered by gnuplot
  * [linalg](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
  * [num.cr](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
  * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
@@ -506,11 +503,13 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [GDAX](https://github.com/mccallofthewild/gdax) - GDAX REST and WebSocket API Wrapper with request signing
  * [gitlab.cr](https://github.com/icyleaf/gitlab.cr) - GitLab API wrapper
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) - Google Maps API
+ * [host_meta](https://github.com/toddsundsted/host_meta) - A Web Host Metadata (https://tools.ietf.org/html/rfc6415) client
  * [kube-client.cr](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
  * [mixpanel-crystal](https://github.com/petoem/mixpanel-crystal) - A library for sending events to Mixpanel
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
  * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry](https://github.com/getsentry/sentry)
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
+ * [web_finger](https://github.com/toddsundsted/web_finger) - A WebFinger (https://tools.ietf.org/html/rfc7033) client
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) - A library to interact with your YNAB data
 
 ## Validation
@@ -579,6 +578,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-base](https://github.com/ruivieira/crystal-base) - CentOS base docker image for Crystal development
  * [crystal-ctags](https://github.com/SuperPaintman/crystal-ctags) - Ctags generator for Crystal
  * [crystal-dash-docset](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
+ * [public_suffix](https://github.com/toddsundsted/public_suffix) - A small library designed to make the Public Suffix List (https://publicsuffix.org/) easier to use
 
 ## DevOps
  * [ansible-crystal](https://github.com/CorbanR/ansible-crystal) - Ansible playbook for installing crystal
