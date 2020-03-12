@@ -199,6 +199,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [toml.cr](https://github.com/crystal-community/toml.cr) - TOML parser
  * [XML](https://crystal-lang.org/api/XML.html) - parsing and generating XML documents (Crystal stdlib)
  * [YAML](https://crystal-lang.org/api/YAML.html) - parsing and generating YAML documents (Crystal stdlib)
+ * [DOCX](https://github.com/aristotelesbr2014/docx_cr_converter) - parse DOCX Word
 
 ## Data Generators
  * [faker](https://github.com/askn/faker) - A library for generating fake data
