@@ -188,6 +188,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [config.cr](https://github.com/chris-huxtable/config.cr) - Easy to use configuration format parser
  * [crinder](https://github.com/c910335/crinder) - Class based json renderer
  * [CSV](https://crystal-lang.org/api/CSV.html) - parsing and generating for comma-separated values (Crystal stdlib)
+ * [DOCX](https://github.com/aristotelesbr2014/docx_cr_converter) - parse DOCX Word
  * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) - Separates a files front matter from its content
  * [geoip2.cr](https://github.com/delef/geoip2.cr) - GeoIP2 reader
  * [HAR](https://github.com/NeuraLegion/har) - HAR (HTTP Archive) parser
@@ -199,7 +200,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [toml.cr](https://github.com/crystal-community/toml.cr) - TOML parser
  * [XML](https://crystal-lang.org/api/XML.html) - parsing and generating XML documents (Crystal stdlib)
  * [YAML](https://crystal-lang.org/api/YAML.html) - parsing and generating YAML documents (Crystal stdlib)
- * [DOCX](https://github.com/aristotelesbr2014/docx_cr_converter) - parse DOCX Word
 
 ## Data Generators
  * [faker](https://github.com/askn/faker) - A library for generating fake data
