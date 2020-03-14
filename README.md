@@ -512,6 +512,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [assert](https://github.com/blacksmoke16/assert) - Extensible annotation based object validation library
  * [denetmen](https://github.com/izniburak/denetmen) - Micro check library that patches Crystal stdlib
  * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
+ * [validator](https://github.com/Nicolab/crystal-validator) - Data check and validation
 
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
