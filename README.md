@@ -440,7 +440,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [linalg](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
  * [num.cr](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
  * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
- * [stats](https://git.sceptique.eu/Sceptique/stats) - An expressive implementation of statistical distributions
 
 ## Search
  * [hermes](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
