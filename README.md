@@ -263,7 +263,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) implementation
  * [kave](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-session](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
- * [mochi](https://github.com/gitlato/mochi) - Authentication shard inspired by Devise. Includes Authenticable, Confirmable, Invitable & more.
+ * [mochi](https://github.com/gitlato/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
  * [multi-auth](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
  * [praetorian](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
  * [request_id](https://github.com/SuperPaintman/request-id) - Middleware for generates / pick up a unique request ID for Crystal servers
