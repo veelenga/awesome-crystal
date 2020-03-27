@@ -493,6 +493,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-consul](https://github.com/rogerwelin/crystal-consul) - Consul API client
  * [crystal-darksky](https://github.com/sb89/crystal-darksky) - Wrapper for the [Dark Sky](https://darksky.net) API
  * [crystal-github](https://github.com/felipeelias/crystal-github) - Wrapper for the [Github](https://github.com/) API
+ * [crystal-rollbar](https://github.com/msa7/crystal-rollbar) - An unofficial client for the [Rollbar](https://rollbar.com) error tracking service
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper
  * [crystal_slack](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
  * [discordcr](https://github.com/meew0/discordcr) - A minimalist Discord API library
