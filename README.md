@@ -317,6 +317,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [zaru_crystal](https://github.com/szTheory/zaru_crystal) - Filename sanitization
 
 ## Network Protocols
+ * [amqp-client.cr](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
  * [connect-proxy](https://github.com/spider-gazelle/connect-proxy) - Connect method style of HTTP tunnelling / HTTP proxy
  * [cr-xmpp](https://github.com/naqvis/cr-xmpp) - XMPP/Jabber Library
  * [Crirc](https://github.com/Meoowww/Crirc) - IRC protocol implementation (Client, Server, Bots)
@@ -452,6 +453,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [grip](https://github.com/grip-framework/grip) - A microframework for building RESTful web applications, with ease and joy
  * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
+ * [Shivneri](https://github.com/ujjwalguptaofficial/shivneri) - Component based MVC web framework for crystal targeting good code structures, modularity & performance
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
 ## Web Servers
