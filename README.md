@@ -80,6 +80,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [bisect](https://github.com/spider-gazelle/bisect) - Inserting values into a sorted array
  * [crie](https://github.com/c910335/crie) - Compile-time Trie
  * [CrOTP](https://github.com/philnash/crotp) - HOTP and TOTP implementation for two factor authentication
+ * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
  * [crystaledge](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
  * [crystalg](https://github.com/TobiasGSmollett/crystalg) - A Generic Algorithm Library
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
@@ -91,6 +92,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ksuid.cr](https://github.com/Sija/ksuid.cr) - K-Sortable Globally Unique IDs
  * [markov](https://github.com/mccallofthewild/markov) - Build Markov Chains and run Markov Processes
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
+ * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
  * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) - Ternary Search Tree
 
 ## Api Builders
@@ -109,6 +111,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
  * [icu.cr](https://github.com/olbat/icu.cr) - Bindings for the [ICU](http://site.icu-project.org/) library
+ * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
  * [pcap.cr](https://github.com/maiha/pcap.cr) - Bindings for libpcap
  * [pledge.cr](https://github.com/chris-huxtable/pledge.cr) - Bindings for OpenBSD's `pledge(2)`
  * [ssh2.cr](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
@@ -129,6 +132,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## CLI Utils
  * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
  * [oq](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq](https://github.com/stedolan/jq) filters to transform the data.
+ * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [tablo](https://github.com/hutou/tablo) - A flexible terminal table generator
  * [tallboy](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
  * [terminimal](https://github.com/aca-labs/terminimal) - A tiny CLI toolkit for building terminal apps for humans
@@ -147,6 +151,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Configuration
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
+ * [envyable](https://github.com/philnash/envyable.cr) -  A simple YAML to ENV config loader
  * [habitat](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
  * [totem](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
 
@@ -256,6 +261,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [halite](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
  * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) - Mounting multiple servers via routes (a.k.a. URL mapping)
  * [http-params-serializable](https://github.com/vladfaust/http-params-serializable) - HTTP params (de)serialization, applicable to URL queries and URL-encoded forms
+ * [http-protection](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
  * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
  * [HTTP::Client](https://crystal-lang.org/api/HTTP/Client.html) - HTTP client (Crystal stdlib)
  * [HTTP::Server](https://crystal-lang.org/api/HTTP/Server.html) - HTTP server (Crystal stdlib)
@@ -302,6 +308,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [containerregistry.cr](https://github.com/naqvis/containerregistry.cr) - Library for working with container registries
  * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) - Extensible annotation based serialization/deserialization library
  * [CrSignals](https://github.com/firejox/CrSignals) - Signals/slots notification library
+ * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
@@ -409,6 +416,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Water](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## Testing
+ * [crotest](https://github.com/emancu/crotest) - A tiny and simple test framework
  * [crytic](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) - Automated browser tests similar to Capybara
  * [mass-spec](https://github.com/c910335/mass-spec) - Web API testing library
@@ -442,7 +450,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) - A library to interact with your YNAB data
 
 ## Validation
- * [accord](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
  * [assert](https://github.com/blacksmoke16/assert) - Extensible annotation based object validation library
  * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
  * [validator](https://github.com/Nicolab/crystal-validator) - Data check and validation

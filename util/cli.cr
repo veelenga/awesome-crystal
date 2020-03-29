@@ -75,6 +75,7 @@ class Shard
     "soveran/resp-crystal",
     "soveran/stal-crystal",
     "soveran/toro",
+    "ujjwalguptaofficial/shivneri",
   }
 
   # Shards that are exempt from reporting.
