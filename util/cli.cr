@@ -6,7 +6,7 @@ require "colorize"
 require "option_parser"
 
 # A shard must have been built sometime in this span in order to be considered active.
-private TIME_WINDOW = (30 * 12).days # 12 months
+private TIME_WINDOW = 1.year
 
 module EnumConverter(T)
   def self.from_yaml(ctx : YAML::ParseContext, node : YAML::Nodes::Node) : T
@@ -313,7 +313,7 @@ record ShardList, shards : Array(Shard) = [] of Shard do
   end
 
   # Returns an array of shards that has CI but the last build was over *span* days ago.
-  def self.not_within(span : Time::Span) : Array(Shard)
+  def self.not_within(span : Time::Span | Time::MonthSpan) : Array(Shard)
     read.shards.select { |s| !s.ci.none? && s.last_build && (s.last_build.not_nil! <= span.ago) }.sort
   end
 
