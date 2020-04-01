@@ -226,6 +226,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Dependency Injection
  * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
+ * [HardWire](https://github.com/jerometwell/hardwire) - A compile-time non-intrusive dependency injection system.
  * [syringe](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
 
 ## Development Tools
