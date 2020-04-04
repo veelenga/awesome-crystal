@@ -141,6 +141,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [optarg](https://github.com/mosop/optarg) - Yet another library for parsing command-line options and arguments
  * [OptionParser](https://crystal-lang.org/api/OptionParser.html) - command-line options processing (Crystal stdlib)
  * [Phreak](https://github.com/shinzlet/phreak) - A highly flexible Crystal CLI builder in the style of OptionParser
+ * [Keimeno](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
 
 ## CLI Utils
  * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
