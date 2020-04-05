@@ -138,6 +138,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [clicr](https://github.com/j8r/clicr) -  A simple declarative command line interface builder
  * [clim](https://github.com/at-grandpa/clim) - Slim command line interface builder
  * [commander](https://github.com/mrrooijen/commander) - Command-line interface builder
+ * [Keimeno](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
  * [optarg](https://github.com/mosop/optarg) - Yet another library for parsing command-line options and arguments
  * [OptionParser](https://crystal-lang.org/api/OptionParser.html) - command-line options processing (Crystal stdlib)
  * [Phreak](https://github.com/shinzlet/phreak) - A highly flexible Crystal CLI builder in the style of OptionParser
