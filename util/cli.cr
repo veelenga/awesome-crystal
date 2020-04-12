@@ -71,6 +71,7 @@ class Shard
     "firejox/CrSignals",
     "jerometwell/hardwire",
     "mamantoha/crest",
+    "neovintage/accord",
     "q9f/secp256k1.cr",
     "robacarp/keimeno",
     "soveran/ohm-crystal",

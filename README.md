@@ -465,6 +465,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) - A library to interact with your YNAB data
 
 ## Validation
+ * [accord](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
  * [assert](https://github.com/blacksmoke16/assert) - Extensible annotation based object validation library
  * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
  * [validator](https://github.com/Nicolab/crystal-validator) - Data check and validation
