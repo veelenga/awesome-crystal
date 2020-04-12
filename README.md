@@ -226,6 +226,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rcm.cr](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
 
 ## Examples and funny stuff
+ * [blackjack-cr](https://github.com/gdonald/blackjack-cr) - Console Blackjack
  * [crystal-patterns](https://github.com/crystal-community/crystal-patterns) - Examples of GOF patters
  * [crystalworld](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
  * [exercism-crystal](https://github.com/exercism/crystal) - Exercism exercises
@@ -282,6 +283,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) - Charly Programming Language
  * [cltk](https://github.com/ziprandom/cltk) - A crystal port of the Ruby Language Toolkit
+ * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
  * [LinCAS-lang](https://github.com/LinCAS-lang) - A programming language for scientific computation
  * [mint-lang](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web
  * [myst-lang](https://github.com/myst-lang/) - A practical, dynamic language designed to be written and understood as easily and efficiently as possible
@@ -439,6 +441,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Third-party APIs
  * [aws-credentials](https://github.com/y2k2mt/aws-credentials) - Get AWS credentials in various ways
+ * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
  * [crystal-consul](https://github.com/rogerwelin/crystal-consul) - Consul API client
