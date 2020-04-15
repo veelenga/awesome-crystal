@@ -329,7 +329,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crometheus](https://gitlab.com/ezrast/crometheus) - A [Prometheus](https://prometheus.io/) client library
  * [crylog](https://github.com/blacksmoke16/crylog) - Flexible logging framework based on Monolog
  * [fluent-logger-crystal](https://github.com/TobiasGSmollett/fluent-logger-crystal) - A structured logger for [Fluentd](https://www.fluentd.org/)
- * [Logger](https://crystal-lang.org/api/Logger.html) - logging utility (Crystal stdlib)
+ * [Log](https://crystal-lang.org/api/Log.html) - logging utility (Crystal stdlib)
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
  * [syslog.cr](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client
 
