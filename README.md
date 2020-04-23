@@ -359,6 +359,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
+ * [gphoto2-web.cr](https://github.com/Sija/gphoto2-web.cr) - Web API for libgphoto2
  * [hoop](https://github.com/0x73/hoop) - Building native OSX apps
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) - Internationalization shard
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
