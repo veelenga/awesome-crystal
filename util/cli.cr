@@ -74,6 +74,7 @@ class Shard
     "neovintage/accord",
     "q9f/secp256k1.cr",
     "robacarp/keimeno",
+    "RomainFranceschini/quartz",
     "soveran/ohm-crystal",
     "soveran/resp-crystal",
     "soveran/stal-crystal",
@@ -215,7 +216,7 @@ class Shard
       {CI::None, nil}
     when 1
       responses.first
-    when .> 1
+    else
       if responses.values.all?
         responses.max_by { |_k, v| v.not_nil! }
       else

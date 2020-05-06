@@ -13,7 +13,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 * [Awesome Crystal](#awesome-crystal)
   * [Algorithms and Data structures](#algorithms-and-data-structures)
-  * [Api Builders](#api-builders)
   * [Blockchain](#blockchain)
   * [C Bindings](#c-bindings)
   * [Caching](#caching)
@@ -30,7 +29,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Database Tools](#database-tools)
   * [Debugging](#debugging)
   * [Dependency Injection](#dependency-injection)
-  * [Development Tools](#development-tools)
   * [Email](#email)
   * [Environment Management](#environment-management)
   * [Examples and funny stuff](#examples-and-funny-stuff)
@@ -65,7 +63,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Third-party APIs](#third-party-apis)
   * [Validation](#validation)
   * [Web Frameworks](#web-frameworks)
-  * [Web Servers](#web-servers)
 * [Community](#community)
   * [Unofficial](#unofficial)
 * [Resources](#resources)
@@ -95,8 +92,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
  * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) - Ternary Search Tree
 
-## Api Builders
-
 ## Blockchain
  * [Cocol](https://github.com/cocol-project/cocol) - A minimal blockchain testbed
  * [secp256k1.cr](https://github.com/q9f/secp256k1.cr) - Elliptic curve used in the public-private-key cryptography
@@ -120,6 +115,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Caching
  * [bloom_filter](https://github.com/crystal-community/bloom_filter) - Implementation of Bloom filter
+ * [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
 
 ## CLI Builders
  * [admiral](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
@@ -198,7 +194,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-rethinkdb](https://github.com/kingsleyh/crystal-rethinkdb) - Driver for RethinkDB / RebirthDB
  * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
  * [leveldb](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
- * [mongo.cr](https://github.com/ambercommunity/mongo.cr) - Binding for MongoDB C driver
  * [rocksdb.cr](https://github.com/maiha/rocksdb.cr) - RocksDB client
 
 ## Database Tools
@@ -212,8 +207,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
  * [HardWire](https://github.com/jerometwell/hardwire) - A compile-time non-intrusive dependency injection system.
  * [syringe](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
-
-## Development Tools
 
 ## Email
  * [carbon](https://github.com/luckyframework/carbon) - Fun, testable, and adapter-based email library
@@ -254,6 +247,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [glove](https://github.com/ddfreyne/glove) - A library for gaming development
 
 ## HTML Builders
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
 
 ## HTML/XML Parsing
  * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - Bindings for [Gumbo](https://github.com/google/gumbo-parser), an HTML5 parsing library made by Google
@@ -292,7 +286,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Logging and monitoring
  * [crafana](https://github.com/spoved/crafana.cr) - A [Grafana](https://grafana.com/) library to help autogenerate dashboards
- * [crylog](https://github.com/blacksmoke16/crylog) - Flexible logging framework based on Monolog
  * [Log](https://crystal-lang.org/api/Log.html) - logging utility (Crystal stdlib)
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
 
@@ -443,7 +436,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ## Third-party APIs
- * [aws-credentials](https://github.com/y2k2mt/aws-credentials) - Get AWS credentials in various ways
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) - Sign HTTP::Request objects and generate presigned post forms
@@ -481,8 +473,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
  * [Shivneri](https://github.com/ujjwalguptaofficial/shivneri) - Component based MVC web framework for crystal targeting good code structures, modularity & performance
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
-
-## Web Servers
 
 # Community
  * [Crystal weekly newsletters](http://crystalweekly.com/)
