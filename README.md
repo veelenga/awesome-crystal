@@ -250,6 +250,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Game Development
  * [CrSFML](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
  * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) - Bindings for [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
+ * [entitas.cr](https://github.com/spoved/entitas.cr) - A Entity Component System Framework for Crystal
  * [glove](https://github.com/ddfreyne/glove) - A library for gaming development
 
 ## HTML Builders
@@ -292,7 +293,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Logging and monitoring
  * [crafana](https://github.com/spoved/crafana.cr) - A [Grafana](https://grafana.com/) library to help autogenerate dashboards
  * [crylog](https://github.com/blacksmoke16/crylog) - Flexible logging framework based on Monolog
- * [Logger](https://crystal-lang.org/api/Logger.html) - logging utility (Crystal stdlib)
+ * [Log](https://crystal-lang.org/api/Log.html) - logging utility (Crystal stdlib)
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) client library
 
 ## Machine Learning
@@ -319,6 +320,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
+ * [gphoto2-web.cr](https://github.com/Sija/gphoto2-web.cr) - Web API for libgphoto2
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) - Internationalization shard
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [iterm2](https://github.com/toddsundsted/iterm2) - Display images within the terminal using the ITerm2 Inline Images Protocol
@@ -396,6 +398,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [linalg](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
  * [num.cr](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
  * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
+ * [quartz](https://github.com/RomainFranceschini/quartz) - Modeling and simulation framework
 
 ## Search
  * [hermes](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
