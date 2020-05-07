@@ -68,6 +68,7 @@ class Shard
     "blacksmoke16/oq",
     "cadmiumcr/cadmium",
     "cocol-project/cocol",
+    "dlanileonardo/sendgrid.cr",
     "firejox/CrSignals",
     "jerometwell/hardwire",
     "mamantoha/crest",
