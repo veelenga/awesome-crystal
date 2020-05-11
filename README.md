@@ -188,6 +188,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Database Drivers/Clients
  * [couchdb.cr](https://github.com/TechMagister/couchdb.cr) - CouchDB client
  * [crystal-db](https://github.com/crystal-lang/crystal-db) - Common db api
+ * [crystal-ldap](https://github.com/spider-gazelle/crystal-ldap) - LDAP client
  * [crystal-mysql](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
  * [crystal-pg](https://github.com/will/crystal-pg) - A Postgres driver
  * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
