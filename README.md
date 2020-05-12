@@ -75,6 +75,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Algorithms and Data structures
  * [bisect](https://github.com/spider-gazelle/bisect) - Inserting values into a sorted array
+ * [blurhash.cr](https://github.com/Sija/blurhash.cr) - [BlurHash](https://github.com/woltapp/blurhash) implementation
  * [crie](https://github.com/c910335/crie) - Compile-time Trie
  * [CrOTP](https://github.com/philnash/crotp) - HOTP and TOTP implementation for two factor authentication
  * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
