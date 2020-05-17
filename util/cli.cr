@@ -22,6 +22,7 @@ module EnumConverter(T)
   end
 end
 
+GITHUB_CLIENT     = HTTP::Client.new "api.github.com", tls: true
 GITLAB_CLIENT     = HTTP::Client.new "gitlab.com", tls: true
 TRAVIS_CLIENT     = HTTP::Client.new "api.travis-ci.org", tls: true
 TRAVIS_PRO_CLIENT = HTTP::Client.new "api.travis-ci.com", tls: true
@@ -33,7 +34,7 @@ enum VC
   Github
   Gitlab
 
-  # Returns the protocal and domain for `self`.
+  # Returns the protocol and domain for `self`.
   def host : String
     case self
     when .github? then "https://github.com"
@@ -60,28 +61,6 @@ end
 class Shard
   include YAML::Serializable
   include Comparable(Shard)
-
-  # Manually keep track of shards using `CI::Actions` since there
-  # is not currently a way to resolve if a shard uses it.
-  private USING_GH_ACTIONS = {
-    "athena-framework/athena",
-    "blacksmoke16/oq",
-    "cadmiumcr/cadmium",
-    "cocol-project/cocol",
-    "dlanileonardo/sendgrid.cr",
-    "firejox/CrSignals",
-    "jerometwell/hardwire",
-    "mamantoha/crest",
-    "neovintage/accord",
-    "q9f/secp256k1.cr",
-    "robacarp/keimeno",
-    "RomainFranceschini/quartz",
-    "soveran/ohm-crystal",
-    "soveran/resp-crystal",
-    "soveran/stal-crystal",
-    "soveran/toro",
-    "ujjwalguptaofficial/shivneri",
-  }
 
   # Shards that are exempt from reporting.
   # Mainly for utilities and plugins that
@@ -171,10 +150,10 @@ class Shard
       responses[CI::Drone] = Array(DroneBuild).from_json(response.body).find(&.started).try &.started
     end
 
-    # Manually set the shard to use GH actions if its one in a static list.
-    # Also assume it last ran today since there isn't a way to resolve it ATM.
-    if USING_GH_ACTIONS.includes? "#{@owner}/#{@name}"
-      responses[CI::Actions] = Time.utc
+    response = GITHUB_CLIENT.get("/repos/#{@owner}/#{@name}/actions/runs", headers: HTTP::Headers{"Accept" => "application/vnd.github.v3+json"})
+
+    if response.status.success?
+      responses[CI::Actions] = Array(GHActionsBuild).from_json(response.body, root: "workflow_runs").first?.try &.created_at
     end
 
     # Set exempt shards last build time to now.
@@ -250,6 +229,11 @@ struct DroneBuild
   getter started : Time
 end
 
+# Represents a build within `CI::Actions`.
+record GHActionsBuild, created_at : Time do
+  include JSON::Serializable
+end
+
 # Type to wrap the shard list.
 #
 # Provides methods used in the cli to interact with `README.md` and the shard list.
@@ -261,6 +245,12 @@ record ShardList, shards : Array(Shard) = [] of Shard do
 
   # Parses `README.md` to build out the shard list, resolving the CI/VC of each shard.
   def self.initialize : self
+    if (gh_username = ENV["GH_USERNAME"]?) && (gh_token = ENV["GH_TOKEN"]?)
+      GITHUB_CLIENT.basic_auth(gh_username, gh_token)
+    else
+      raise "Missing GitHub credentials ENV vars.  Define GH_USERNAME and GH_TOKEN in order to authenticate with the GitHub API.\n\nNOTE: The GH token does not need to have any permissions."
+    end
+
     rm = Readme.new
     shard_list = new
 
