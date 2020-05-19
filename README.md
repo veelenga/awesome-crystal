@@ -19,6 +19,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [CLI Builders](#cli-builders)
   * [CLI Utils](#cli-utils)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
+  * [Community](#community)
   * [Compression](#compression)
   * [Configuration](#configuration)
   * [Converters](#converters)
@@ -138,6 +139,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Code Analysis and Metrics
  * [ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+
+## Community
+ * [Chicago Crystal](https://podcasts.apple.com/us/podcast/chicago-crystal/id1513656215) - A podcast about the Crystal language
 
 ## Compression
  * [Crystar](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
