@@ -128,6 +128,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Phreak](https://github.com/shinzlet/phreak) - A highly flexible Crystal CLI builder in the style of OptionParser
 
 ## CLI Utils
+ * [climate](https://github.com/Sija/climate.cr) - Tiny tool to make your CLI output 🌈  coloured
  * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
  * [oq](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq](https://github.com/stedolan/jq) filters to transform the data.
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
