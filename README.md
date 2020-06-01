@@ -138,6 +138,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Code Analysis and Metrics
  * [ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+ * [linguist.cr](https://github.com/microgit-com/linguist.cr) - Using multiple ways to find programming language used in files, based on Github's Linguist
 
 ## Compression
  * [Crystar](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
