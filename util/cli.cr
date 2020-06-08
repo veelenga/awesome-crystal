@@ -248,7 +248,7 @@ record ShardList, shards : Array(Shard) = [] of Shard do
     if (gh_username = ENV["GH_USERNAME"]?) && (gh_token = ENV["GH_TOKEN"]?)
       GITHUB_CLIENT.basic_auth(gh_username, gh_token)
     else
-      raise "Missing GitHub credentials ENV vars.  Define GH_USERNAME and GH_TOKEN in order to authenticate with the GitHub API.\n\nNOTE: The GH token does not need to have any permissions."
+      raise "Missing GitHub credentials ENV vars. Define GH_USERNAME and GH_TOKEN in order to authenticate with the GitHub API.\n\nNOTE: The GH token does not need to have any permissions."
     end
 
     rm = Readme.new
