@@ -206,6 +206,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
 
 ## Dependency Injection
+ * [Athena Dependency Injection](https://github.com/athena-framework/dependency-injection) - Robust dependency injection service container framework
  * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
  * [HardWire](https://github.com/jerometwell/hardwire) - A compile-time non-intrusive dependency injection system.
  * [syringe](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
@@ -232,6 +233,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [can_use](https://github.com/rodrigopinto/can_use) - It is a minimalist feature toggle/flag for crystal based on yaml
 
 ## Framework Components
+ * [Athena Event Dispatcher](https://github.com/athena-framework/event-dispatcher) - A Mediator and Observer pattern event library
  * [device_detector](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
  * [Exception Page](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) implementation
@@ -310,7 +312,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [callbacks](https://github.com/vladfaust/callbacks.cr) - Expressive callbacks module
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
  * [containerregistry.cr](https://github.com/naqvis/containerregistry.cr) - Library for working with container registries
- * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) - Extensible annotation based serialization/deserialization library
  * [CrSignals](https://github.com/firejox/CrSignals) - Signals/slots notification library
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
@@ -472,7 +473,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
- * [athena](https://github.com/blacksmoke16/athena) - Modular, annotation based, API oriented framework with built in param conversion
+ * [Athena](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
  * [grip](https://github.com/grip-framework/grip) - A microframework for building RESTful web applications, with ease and joy
  * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
