@@ -263,6 +263,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cossack](https://github.com/crystal-community/cossack) - Simple flexible HTTP client
  * [crest](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
  * [crul](https://github.com/porras/crul) - Command line HTTP client
+ * [digest-auth](https://github.com/spider-gazelle/digest-auth) - Digest authentication
  * [halite](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
  * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) - Mounting multiple servers via routes (a.k.a. URL mapping)
  * [http-params-serializable](https://github.com/vladfaust/http-params-serializable) - HTTP params (de)serialization, applicable to URL queries and URL-encoded forms
