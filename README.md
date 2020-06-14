@@ -237,6 +237,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [device_detector](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
  * [Exception Page](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) implementation
+ * [http_cache_handler](https://github.com/jwaldrip/http_cache_handler) - A cache implementation as a HTTP::Handler
  * [kave](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-session](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
  * [mochi](https://github.com/gitlato/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
