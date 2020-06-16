@@ -507,7 +507,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [getgood.at](https://getgood.at/in-a-day/crystal) - Learn Crystal in a Day
  * [Programming Crystal](https://pragprog.com/book/crystal/programming-crystal) - PragProg book to start your Crystal journey
 
-
 ## Official Documentation Translations
  * [br.crystal-lang.org](http://br.crystal-lang.org/) - Brazilian
  * [ja.crystal-lang.org](http://ja.crystal-lang.org/) - Japanese
