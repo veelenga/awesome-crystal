@@ -11,4 +11,5 @@ report.md
 # Libraries don't need dependency lock
 # Dependencies will be locked in application that uses them
 /.deps.lock
+shard.lock
 

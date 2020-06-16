@@ -501,10 +501,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 # Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - Free book to bootstrap your Crystal journey
  * [Crystal Mastery](https://crystalmastery.io/) - Screencasts for learning Crystal
+ * [crystal-koans](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
  * [crystal-lang.org](https://crystal-lang.org) - Official language site
  * [devdocs.io](https://devdocs.io/crystal/) - API Documentation Browser with Crystal support
  * [getgood.at](https://getgood.at/in-a-day/crystal) - Learn Crystal in a Day
  * [Programming Crystal](https://pragprog.com/book/crystal/programming-crystal) - PragProg book to start your Crystal journey
+
 
 ## Official Documentation Translations
  * [br.crystal-lang.org](http://br.crystal-lang.org/) - Brazilian
