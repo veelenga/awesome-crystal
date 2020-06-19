@@ -129,6 +129,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## CLI Utils
  * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
+ * [lff](https://github.com/mkdika/lff-cr) - Simple and straightforward large files finder utility in command line
  * [oq](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq](https://github.com/stedolan/jq) filters to transform the data.
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [tablo](https://github.com/hutou/tablo) - A flexible terminal table generator
