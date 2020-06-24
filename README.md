@@ -35,6 +35,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Feature Flipping](#feature-flipping)
   * [Framework Components](#framework-components)
   * [Game Development](#game-development)
+  * [GUI Development](#gui-development)
   * [HTML Builders](#html-builders)
   * [HTML/XML parsing](#htmlxml-parsing)
   * [HTTP](#http)
@@ -252,6 +253,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) - Bindings for [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
  * [entitas.cr](https://github.com/spoved/entitas.cr) - A Entity Component System Framework for Crystal
  * [glove](https://github.com/ddfreyne/glove) - A library for gaming development
+
+## GUI Development
+ * [Iu](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron](https://github.com/hedron-crystal/hedron)
 
 ## HTML Builders
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
