@@ -410,6 +410,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal_openfaas](https://github.com/TPei/crystal_openfaas/) - Template to enable crystal as first class citizens in OpenFaaS
  * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal.
  * [gcf.cr](https://github.com/sam0x17/gcf.cr) - Managed execution of Crystal in Google Cloud Functions
+ * [secrets-env](https://github.com/place-labs/secrets-env) - Extends ENV module to read values injected by docker / kubernetes secrets and other orchestration tools.
 
 ## System
  * [baked_file_system](https://github.com/schovi/baked_file_system) - Virtual file system implementation
