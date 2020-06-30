@@ -396,6 +396,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [tasker](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ## Science and Data analysis
+ * [alea](https://github.com/nin93/alea) - Repeatable sampling, CDF and other utilities to work with probability distributions
  * [ishi](https://github.com/toddsundsted/ishi) - Graph plotting package with a small API and sensible defaults powered by gnuplot
  * [linalg](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
  * [num.cr](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
