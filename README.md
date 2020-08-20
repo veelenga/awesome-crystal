@@ -240,7 +240,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Athena Event Dispatcher](https://github.com/athena-framework/event-dispatcher) - A Mediator and Observer pattern event library
  * [device_detector](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
  * [Exception Page](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
- * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) implementation
+ * [graphql](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
+ * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
  * [kave](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-session](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
  * [mochi](https://github.com/gitlato/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
