@@ -137,7 +137,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [tablo](https://github.com/hutou/tablo) - A flexible terminal table generator
  * [tallboy](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
  * [terminimal](https://github.com/aca-labs/terminimal) - A tiny CLI toolkit for building terminal apps for humans
- * [todo](https://git.sceptique.eu/Sceptique/todo) - Todo list working in command line
 
 ## Code Analysis and Metrics
  * [ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool
