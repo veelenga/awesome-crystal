@@ -244,8 +244,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
  * [kave](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-session](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
- * [motion.cr](https://github.com/andrewc910/motion.cr) - Object oriented frontend library for Amber
  * [mochi](https://github.com/gitlato/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
+ * [motion.cr](https://github.com/andrewc910/motion.cr) - Object oriented frontend library for Amber
  * [multi-auth](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
  * [praetorian](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
  * [shrine.cr](https://github.com/jetrockets/shrine.cr) - File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby
