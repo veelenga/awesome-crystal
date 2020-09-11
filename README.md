@@ -266,6 +266,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
 
 ## HTML/XML Parsing
+ * [docx_cr_converter](https://github.com/aristotelesbr2014/docx_cr_converter) - parse DOCX Word
  * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - Bindings for [Gumbo](https://github.com/google/gumbo-parser), an HTML5 parsing library made by Google
  * [myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
 
