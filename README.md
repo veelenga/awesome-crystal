@@ -145,6 +145,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Compression
  * [Crystar](https://github.com/naqvis/crystar) - Readers and writers of Tar archive format
  * [Gzip](https://crystal-lang.org/api/Gzip.html) - readers and writers of gzip format (Crystal stdlib)
+ * [polylines.cr](https://github.com/BuonOmo/polylines.cr) — compression of series of coordinates
  * [snappy](https://github.com/naqvis/snappy) -  Snappy compression format reader/writer for Crystal
  * [Zip](https://crystal-lang.org/api/Zip.html) - readers and writers of zip format (Crystal stdlib)
  * [Zlib](https://crystal-lang.org/api/Zlib.html) - readers and writers of zlib format (Crystal stdlib)
