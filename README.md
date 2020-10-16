@@ -495,7 +495,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
  * [Athena](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
- * [grip](https://github.com/grip-framework/grip) - A microframework for building RESTful web applications, with ease and joy
+ * [grip](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
  * [kemal](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
  * [runcobo](https://github.com/runcobo/runcobo) - An api framework with simple, intuitive and consistent DSL, using jbuilder to render json
