@@ -548,7 +548,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
  * [quicktype](https://quicktype.io/) - Generate models and serializers from JSON, JSON Schema, GraphQL, and TypeScript
  * [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub](https://github.com/mamantoha/shards-info)
- * [wikicr](https://git.sceptique.eu/Sceptique/wikicr) - Wiki using git to manage revisions
+ * [wikicr](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
 
 # Tools
  * [ast_helper](https://github.com/bcardiff/crystal-ast-helper) - Helper tool to debug parser and formatter
