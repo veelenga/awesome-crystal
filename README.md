@@ -173,7 +173,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [BinData](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
  * [config.cr](https://github.com/chris-huxtable/config.cr) - Easy to use configuration format parser
  * [crinder](https://github.com/c910335/crinder) - Class based json renderer
- * [Crystalizer](https://github.com/j8r/crystalizer) - (De)serialize any Crystal object - out of the box. Supports JSON, YAML and Byte format.
+ * [Crystalizer](https://github.com/j8r/crystalizer) - (De)serialize any Crystal object; supporting JSON, YAML, and Byte formats out of the box
  * [CSV](https://crystal-lang.org/api/CSV.html) - parsing and generating for comma-separated values (Crystal stdlib)
  * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) - Separates a files front matter from its content
  * [geoip2.cr](https://github.com/delef/geoip2.cr) - GeoIP2 reader
