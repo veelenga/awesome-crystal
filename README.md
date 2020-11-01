@@ -391,6 +391,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [await_async](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
  * [neph](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
  * [promise](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
+ * [werk](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
 
 ## Project Generators
  * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
