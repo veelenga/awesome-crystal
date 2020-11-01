@@ -80,7 +80,7 @@ class Shard
     "elorest/vim-slang",
     "exercism/crystal",
     "g3ortega/vscode-crystal",
-    "https://github.com/will/crystal-pg",
+    "ilmanzo/crystal-koans",
     "jhass/DeBot",
     "juanedi/crystal-spacemacs-layer",
     "marciogm/asdf-crystal",
