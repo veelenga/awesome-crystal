@@ -1,6 +1,6 @@
-version: 1.0
+version: 2.0
 shards:
   markd:
-    github: icyleaf/markd
-    commit: d1456d336f3906474cdd18f8fc14a6aa2671f434
+    git: https://github.com/icyleaf/markd.git
+    version: 0.2.1+git.commit.033aeaf067ddae21ac7872af3a935fc17cd01080
 
