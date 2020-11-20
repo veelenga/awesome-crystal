@@ -285,6 +285,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [sse.cr](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
 
 ## Image processing
+ * [celestine](https://github.com/redcodefinal/celestine) - Create SVG images using a DSL
  * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
 
 ## Implementations/Compilers
