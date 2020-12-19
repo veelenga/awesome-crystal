@@ -71,6 +71,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 * [Tools](#tools)
   * [DevOps](#devops)
   * [Editor Plugins](#editor-plugins)
+  * [LSP Language Server Protocol Implementations](#lsp-language-server-protocol-implementations)
   * [Shell Plugins](#shell-plugins)
 
 ## Algorithms and Data structures
@@ -551,7 +552,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) - Crystal language support in Atom
  * Emacs
    * [emacs-crystal-mode](https://github.com/dotmilk/emacs-crystal-mode) - Crystal language support for Emacs
- * [scry](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+ * Geany
+   * [geany-crystal](https://github.com/crystal-lang-tools/geany-crystal) - Crystal support for the [Geany editor](https://www.geany.org/).
  * Spacemacs
    * [crystal-spacemacs-layer](https://github.com/juanedi/crystal-spacemacs-layer) - Spacemacs contribution layer for Crystal
  * Sublime
@@ -562,9 +564,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
    * [vim-crystal](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
    * [vim-slang](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine
  * Visual Studio Code
-   * [vscode-crystal](https://github.com/g3ortega/vscode-crystal) - Crystal language support in VSCode
-   * [vscode-crystal-ide](https://github.com/crystal-lang-tools/crystal-ide) - Crystal IDE powered by [Language Server Protocol](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol)
    * [vscode-crystal-lang](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
+
+## LSP Language Server Protocol Implementations
+ * [crystalline](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language.
+ * [scry](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## Shell plugins
  * [crun](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
