@@ -437,6 +437,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Water](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## Testing
+ * [Athena Spec](https://github.com/athena-framework/spec) - Common/helpful [Spec](https://crystal-lang.org/api/Spec.html) compliant testing utilities
  * [crotest](https://github.com/emancu/crotest) - A tiny and simple test framework
  * [crytic](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) - Automated browser tests similar to Capybara
