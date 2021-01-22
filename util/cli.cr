@@ -71,6 +71,7 @@ class Shard
     "crystal-community/crystal-patterns",
     "crystal-lang-tools/crystal-ide",
     "crystal-lang-tools/Crystal.tmbundle",
+    "crystal-lang-tools/geany-crystal",
     "crystal-lang-tools/sublime-crystal",
     "crystal-lang-tools/vscode-crystal-lang",
     "crystal-lang/clang.cr",
