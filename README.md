@@ -236,6 +236,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Framework Components
  * [Athena Event Dispatcher](https://github.com/athena-framework/event-dispatcher) - A Mediator and Observer pattern event library
+ * [Athena Negotiation](https://github.com/athena-framework/negotiation) - Framework agnostic content negotiation library
  * [device_detector](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
  * [Exception Page](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
  * [graphql](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
