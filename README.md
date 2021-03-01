@@ -546,7 +546,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Editor Plugins
  * Acme:
-   * [acmecrystal](https://github.com/ilanpillemer/acmecrystal) - Reformats crystal code in acme 
+   * [acmecrystal](https://github.com/ilanpillemer/acmecrystal) - Reformats crystal code in acme
  * Atom
    * [crystal-tools](https://atom.io/packages/crystal-tools) - Enables built in tools in Crystal compiler
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) - Crystal language support in Atom
