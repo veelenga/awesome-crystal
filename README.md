@@ -93,7 +93,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
  * [qr-code](https://github.com/spider-gazelle/qr-code) - QR Code generator
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
- * [splay_tree_map](https://github.com/wyhaines/splay_tree_map.cr) - Splay Tree implementation that conforms to the Hash ducktype.
+ * [splay_tree_map](https://github.com/wyhaines/splay_tree_map.cr) - Splay Tree implementation that conforms to the Hash ducktype
 
 ## Blockchain
  * [Axentro](https://github.com/Axentro/Axentro) - A custom blockchain platform
