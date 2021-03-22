@@ -93,6 +93,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
  * [qr-code](https://github.com/spider-gazelle/qr-code) - QR Code generator
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
+ * [s2_cells](https://github.com/spider-gazelle/s2_cells) - [S2 Geometry](https://s2geometry.io/devguide/s2cell_hierarchy.html) for spatial indexing
 
 ## Blockchain
  * [Axentro](https://github.com/Axentro/Axentro) - A custom blockchain platform
