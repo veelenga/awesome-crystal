@@ -8,4 +8,4 @@ targets:
 development_dependencies:
   markd:
     github: icyleaf/markd
-    branch: master
+    version: ~> 0.4.0
