@@ -207,7 +207,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [queryit](https://github.com/hugopl/queryit) - A setupless terminal based SQL query runner.
 
 ## Debugging
- * [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
+* [backtracer.cr](https://github.com/Sija/backtracer.cr) - Shard aiming to assist with parsing backtraces into a structured form
+* [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
 
 ## Dependency Injection
  * [Athena Dependency Injection](https://github.com/athena-framework/dependency-injection) - Robust dependency injection service container framework
