@@ -94,6 +94,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [qr-code](https://github.com/spider-gazelle/qr-code) - QR Code generator
  * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
  * [s2_cells](https://github.com/spider-gazelle/s2_cells) - [S2 Geometry](https://s2geometry.io/devguide/s2cell_hierarchy.html) for spatial indexing
+ * [splay_tree_map](https://github.com/wyhaines/splay_tree_map.cr) - Splay Tree implementation that conforms to the Hash ducktype
 
 ## Blockchain
  * [Axentro](https://github.com/Axentro/Axentro) - A custom blockchain platform
@@ -334,6 +335,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [pinger](https://github.com/spider-gazelle/pinger) - Ping IP addresses and DNS entries without requiring sudo
  * [port_midi](https://github.com/jimm/crystal_port_midi) - Crystal C bindings for the PortMIDI cross-platform MIDI I/O library
  * [retriable.cr](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
+ * [serf-handler.cr](https://github.com/wyhaines/serf-handler.cr) - Framework for building Serf handlers, with a suite of useful builtin capabilities
  * [simple_retry](https://github.com/spider-gazelle/simple_retry) - Simple tool for retrying failed code blocks
  * [sslscan.cr](https://github.com/NeuraLegion/sslscan.cr) - Crystal shard wrapping the rbsec/sslscan utility
  * [version_tools](https://github.com/anicholson/crystal-version-tools) - Version-dependent behaviour, specified at compile-time
