@@ -130,6 +130,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## CLI Utils
  * [climate](https://github.com/Sija/climate.cr) - Tiny tool to make your CLI output 🌈  coloured
+ * [coin](https://github.com/caian-org/coin) - Command-line application that performs currency conversion via the [Fixer API](https://fixer.io)
  * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
  * [lff](https://github.com/mkdika/lff-cr) - Simple and straightforward large files finder utility in command line
  * [oq](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq](https://github.com/stedolan/jq) filters to transform the data.
