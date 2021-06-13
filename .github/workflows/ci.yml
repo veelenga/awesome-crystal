@@ -1,0 +1,16 @@
+name: CI
+
+on:
+  pull_request:
+    branches:
+      - 'master'
+
+jobs:
+  test_latest:
+    runs-on: ubuntu-latest
+    container:
+      image: crystallang/crystal:latest-alpine
+    steps:
+      - uses: actions/checkout@v2
+      - name: Specs
+        run: crystal spec
