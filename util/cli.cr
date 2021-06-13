@@ -109,6 +109,9 @@ abstract struct CIBuildResolver
     end
 
     CIRun.new self.member, last_built
+  rescue ex : Exception
+    LOGGER.debug { "Failed to determine latest run: #{ex.message.try &.strip}" }
+    return
   end
 
   # Returns the API domain for `self`.
@@ -289,6 +292,7 @@ struct CIResolver
     "elorest/vim-slang",
     "exercism/crystal",
     "g3ortega/vscode-crystal",
+    "ilanpillemer/acmecrystal",
     "ilmanzo/crystal-koans",
     "jhass/DeBot",
     "juanedi/crystal-spacemacs-layer",
