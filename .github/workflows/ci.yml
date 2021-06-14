@@ -12,5 +12,7 @@ jobs:
       image: crystallang/crystal:latest-alpine
     steps:
       - uses: actions/checkout@v2
+      - name: Install Dependencies
+        run: shards install
       - name: Specs
         run: crystal spec
