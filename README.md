@@ -40,6 +40,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [HTTP](#http)
   * [Image Processing](#image-processing)
   * [Implementations/Compilers](#implementationscompilers)
+  * [Internationalization](#internationalization)
   * [Logging and monitoring](#logging-and-monitoring)
   * [Machine Learning](#machine-learning)
   * [Markdown/Text Processors](#markdowntext-processors)
@@ -303,6 +304,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [myst-lang](https://github.com/myst-lang/) - A practical, dynamic language designed to be written and understood as easily and efficiently as possible
  * [runic-lang](https://github.com/runic-lang) - In-design toy language
 
+## Internationalization
+
+ * [crystal-i18n](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
+ * [i18n.cr](https://github.com/vladfaust/i18n.cr) - Internationalization shard
+
 ## Logging and monitoring
  * [crafana](https://github.com/spoved/crafana.cr) - A [Grafana](https://grafana.com/) library to help autogenerate dashboards
  * [Log](https://crystal-lang.org/api/Log.html) - logging utility (Crystal stdlib)
@@ -331,7 +337,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crz](https://github.com/dhruvrajvanshi/crz) - Functional programming library
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - Emoji library
  * [gphoto2-web.cr](https://github.com/Sija/gphoto2-web.cr) - Web API for libgphoto2
- * [i18n.cr](https://github.com/vladfaust/i18n.cr) - Internationalization shard
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [iterm2](https://github.com/toddsundsted/iterm2) - Display images within the terminal using the ITerm2 Inline Images Protocol
  * [monads](https://github.com/alex-lairan/monads) - Monad implementation
