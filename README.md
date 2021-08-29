@@ -266,7 +266,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## HTML Builders
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
- * [markout](https://github.com/GrottoPress/markout) - An awesome, typesafe Crystal DSL for HTML 
+ * [markout](https://github.com/GrottoPress/markout) - An awesome, typesafe Crystal DSL for HTML
 
 ## HTML/XML Parsing
  * [docx_cr_converter](https://github.com/aristotelesbr2014/docx_cr_converter) - parse DOCX Word
