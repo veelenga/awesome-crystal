@@ -309,6 +309,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-i18n](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) - Internationalization shard
  * [Lens](https://github.com/syeopite/lens) - A multiformat internationalization (i18n) shard for Crystal. Supports Gettext, Ruby YAML, etc.
+ * [Rosetta](https://github.com/wout/rosetta) - A blazing fast internationalization (i18n) library with compile-time key lookup supporting YAML and JSON formats
 
 ## Logging and monitoring
  * [crafana](https://github.com/spoved/crafana.cr) - A [Grafana](https://grafana.com/) library to help autogenerate dashboards
