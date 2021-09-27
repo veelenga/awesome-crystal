@@ -376,6 +376,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Networking
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
+ * [mac-address](https://github.com/automatico/mac-address) - Library for working with MAC addresses.
 
 ## ORM/ODM Extensions
  * [avram](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
