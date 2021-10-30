@@ -106,7 +106,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [clang.cr](https://github.com/crystal-lang/clang.cr) - Libclang bindings
  * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
  * [crystal-hunspell](https://github.com/mamantoha/crystal-hunspell) - Bindings for [Hunspell](https://hunspell.github.io/)
- * [curl-crystal](https://github.com/blocknotes/curl-crystal) - Bindings for [libcurl](https://curl.haxx.se/libcurl/)
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
  * [icu.cr](https://github.com/olbat/icu.cr) - Bindings for the [ICU](http://site.icu-project.org/) library
@@ -122,6 +121,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## CLI Builders
  * [admiral](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
+ * [Athena Console](https://github.com/athena-framework/console) - Allows the creation of CLI based commands
  * [clicr](https://github.com/j8r/clicr) -  A simple declarative command line interface builder
  * [clim](https://github.com/at-grandpa/clim) - Slim command line interface builder
  * [commander](https://github.com/mrrooijen/commander) - Command-line interface builder
@@ -165,7 +165,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crunits](https://github.com/spider-gazelle/crunits) - Tool for converting units of measure (miles to kilometers, celsius to fahrenheit etc)
  * [money](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney](https://github.com/RubyMoney/money))
  * [sass.cr](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass](https://github.com/sass/libsass/) binding)
- * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - Bindings / wrapper for libwkhtmltox (HTML to PDF / image converter)
 
 ## Cryptography
  * [cmac](https://github.com/spider-gazelle/cmac) - Crystal implementation of Cipher-based Message Authentication Code (CMAC)
@@ -268,8 +267,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
 
 ## HTML/XML Parsing
- * [docx_cr_converter](https://github.com/aristotelesbr2014/docx_cr_converter) - parse DOCX Word
- * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - Bindings for [Gumbo](https://github.com/google/gumbo-parser), an HTML5 parsing library made by Google
+ * [docx_cr_converter](https://github.com/aristotelesbr/docx_cr_converter) - parse DOCX Word
  * [myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
 
 ## HTTP
@@ -384,7 +382,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crecto](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
  * [granite](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
- * [onyx-sql](https://github.com/onyxframework/sql) - DB-agnostic SQL ORM with beautiful DSL and type-safe Query builder
  * [rethinkdb-orm](https://github.com/spider-gazelle/rethinkdb-orm) - ORM for RethinkDB / RebirthDB
 
 ## Package Management
@@ -480,7 +477,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [host_meta](https://github.com/toddsundsted/host_meta) - A Web Host Metadata (https://tools.ietf.org/html/rfc6415) client
  * [kube-client.cr](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
  * [mixpanel-crystal](https://github.com/petoem/mixpanel-crystal) - A library for sending events to Mixpanel
- * [mollie.cr](https://github.com/tilitribe/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API wrapper (Creditcard, PayPal, Apple Pay, Sofort, Klarna, ...)
+ * [mollie.cr](https://github.com/wout/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API wrapper (Creditcard, PayPal, Apple Pay, Sofort, Klarna, ...)
  * [office365](https://github.com/PlaceOS/office365) - Microsoft Graph API wrapper
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
  * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry](https://github.com/getsentry/sentry)
