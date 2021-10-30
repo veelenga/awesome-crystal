@@ -121,7 +121,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## CLI Builders
  * [admiral](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
- * [Athena Console](https://github.com/athena-framework/console) - Allows the creation of CLI based commands
+ * [Athena Console](https://github.com/athena-framework/console) - Allows for the creation of CLI based commands
  * [clicr](https://github.com/j8r/clicr) -  A simple declarative command line interface builder
  * [clim](https://github.com/at-grandpa/clim) - Slim command line interface builder
  * [commander](https://github.com/mrrooijen/commander) - Command-line interface builder
