@@ -41,12 +41,12 @@ end
 
 # Represents the latest build of a shard for a given `CIBuildResolver`.
 #
-# Exposes what `CI` provider it's related to, when it was last built, and if the shard was transfered.
-record CIRun, provider : CI, built_at : Time? = nil, transfered : Bool = false do
+# Exposes what `CI` provider it's related to, when it was last built, and if the shard was transferred.
+record CIRun, provider : CI, built_at : Time? = nil, transferred : Bool = false, active_workflow_proc : Proc(Bool)? = nil do
   include Comparable(self)
 
   def <=>(other : self) : Int32
-    case {other.transfered, @transfered}
+    case {other.transferred, @transferred}
     when {false, true} then return 1
     when {true, false} then return -1
     end
@@ -62,10 +62,15 @@ record CIRun, provider : CI, built_at : Time? = nil, transfered : Bool = false d
 
     built_at.not_nil! <=> other_last_built.not_nil!
   end
+
+  def active_workflow? : Bool
+    return true unless (callback = @active_workflow_proc)
+    callback.call
+  end
 end
 
 # Attempts to resolve the latest `CIRun`, if possible, for a specific `CI` provider.
-abstract struct CIBuildResolver
+abstract class CIBuildResolver
   private record Build, created_at : Time? do
     include JSON::Serializable
   end
@@ -82,6 +87,8 @@ abstract struct CIBuildResolver
     {{CIBuildResolver.all_subclasses.reject(&.abstract?).size}}
   end
 
+  @latest_run_response : HTTP::Client::Response? = nil
+
   def initialize(@owner : String, @name : String); end
 
   # Returns the `CI` member related to `self`.
@@ -94,7 +101,7 @@ abstract struct CIBuildResolver
     response = self.client.exec self.request
 
     if response.status.redirection?
-      return CIRun.new self.member, transfered: true
+      return CIRun.new self.member, transferred: true
     end
 
     if !response.status.success?
@@ -108,10 +115,18 @@ abstract struct CIBuildResolver
       LOGGER.debug { "Was never built" }
     end
 
-    CIRun.new self.member, last_built
+    @latest_run_response = response
+
+    CIRun.new self.member, last_built, active_workflow_proc: ->active_workflow?
   rescue ex : Exception
     LOGGER.debug { "Failed to determine latest run: #{ex.message.try &.strip}" }
     return
+  end
+
+  # Returns `true` if the related workflow is active.
+  # Can be overridden if a certain provider has additional logic used to determine this.
+  protected def active_workflow? : Bool
+    true
   end
 
   # Returns the API domain for `self`.
@@ -130,10 +145,31 @@ abstract struct CIBuildResolver
 end
 
 # :inherit:
-struct Actions < CIBuildResolver
+class Actions < CIBuildResolver
   # :inherit:
   def member : CI
     CI::Actions
+  end
+
+  protected def active_workflow? : Bool
+    return true unless (response = @latest_run_response)
+
+    workflow_runs = JSON.parse(response.body)["workflow_runs"].as_a
+
+    return true if workflow_runs.empty?
+
+    workflow_id = workflow_runs[0].as_h["workflow_id"].as_i
+
+    LOGGER.debug { "#{@owner}/#{@name} has a workflow_id of #{workflow_id}" }
+
+    response = self.client.exec(self.request "/actions/workflows/#{workflow_id}")
+
+    if !response.status.success?
+      LOGGER.notice { "Workflow status request failed: #{response.body.strip}" }
+      return true
+    end
+
+    "active" == String.from_json response.body, root: "state"
   end
 
   protected def api_domain : String
@@ -144,8 +180,8 @@ struct Actions < CIBuildResolver
     Array(Build).from_json(response.body, root: "workflow_runs").first?.try &.created_at
   end
 
-  protected def request : HTTP::Request
-    HTTP::Request.new "GET", "/repos/#{@owner}/#{@name}/actions/runs", headers: HTTP::Headers{"Accept" => "application/vnd.github.v3+json"}
+  protected def request(path = "/actions/runs") : HTTP::Request
+    HTTP::Request.new "GET", "/repos/#{@owner}/#{@name}#{path}", headers: HTTP::Headers{"Accept" => "application/vnd.github.v3+json"}
   end
 
   protected def client : HTTP::Client
@@ -162,7 +198,7 @@ struct Actions < CIBuildResolver
 end
 
 # :inherit:
-struct Circle < CIBuildResolver
+class Circle < CIBuildResolver
   private record Build, start_time : Time? do
     include JSON::Serializable
   end
@@ -186,7 +222,7 @@ struct Circle < CIBuildResolver
 end
 
 # :inherit:
-struct Drone < CIBuildResolver
+class Drone < CIBuildResolver
   private struct Build
     include JSON::Serializable
 
@@ -213,7 +249,7 @@ struct Drone < CIBuildResolver
 end
 
 # :inherit:
-struct Gitlab < CIBuildResolver
+class Gitlab < CIBuildResolver
   # :inherit:
   def member : CI
     CI::Gitlab
@@ -233,7 +269,7 @@ struct Gitlab < CIBuildResolver
 end
 
 # :inherit:
-abstract struct AbstractTravis < CIBuildResolver
+abstract class AbstractTravis < CIBuildResolver
   private record Build, last_build_started_at : Time? do
     include JSON::Serializable
   end
@@ -248,7 +284,7 @@ abstract struct AbstractTravis < CIBuildResolver
 end
 
 # :inherit:
-struct Travis < AbstractTravis
+class Travis < AbstractTravis
   # :inherit:
   def member : CI
     CI::Travis
@@ -260,7 +296,7 @@ struct Travis < AbstractTravis
 end
 
 # :inherit:
-struct TravisPro < AbstractTravis
+class TravisPro < AbstractTravis
   # :inherit:
   def member : CI
     CI::TravisPro
@@ -363,9 +399,15 @@ class Shard
   # TODO: Make this the last time `self` was _successfully_ built; would be more useful in the future.
   getter last_built : Time?
 
-  # Returns `true` if the shard has been transfered.
+  # Returns `true` if the shard has been transferred.
   # E.g. because of a `#owner` name change.
-  getter? transfered : Bool = false
+  getter? transferred : Bool = false
+
+  # Returns `true` if this shard has an actie CI workflow.
+  #
+  # Will be `true` for all `CI`, but could be `false` for `CI::Actions`
+  # if the shard has went >60 days without activity.
+  getter? active_workflow : Bool
 
   # Try to resolve the `ci` of `self` by looking each shard up via
   # each CI provider's API.
@@ -376,16 +418,18 @@ class Shard
 
     @ci = latest_build.provider
     @last_built = latest_build.built_at
-    @transfered = latest_build.transfered
+    @transferred = latest_build.transferred
+    @active_workflow = latest_build.active_workflow?
 
     if @ci.exempt?
       LOGGER.notice { "#{@owner}/#{@name} is exempt\n".colorize(:light_green).to_s }
     elsif lb = @last_built
-      LOGGER.info { "#{@owner}/#{@name} uses #{@ci} and was last built #{(Time.utc - lb).days} days ago\n" }
-    elsif !@transfered
+      LOGGER.info { "#{@owner}/#{@name} uses #{@ci} and was last built #{(Time.utc - lb).days} days ago#{@active_workflow ? "\n" : ""}" }
+      LOGGER.warn { "#{@owner}/#{@name} #{@ci}'s workflow is inactive!\n".colorize(Colorize::ColorRGB.new(242, 140, 40)).to_s } unless @active_workflow
+    elsif !@transferred
       LOGGER.warn { "#{@owner}/#{@name} was never built!\n".colorize(:red).to_s }
-    elsif @transfered
-      LOGGER.warn { "#{@owner}/#{@name} has been transfered!\n".colorize(:yellow).to_s }
+    elsif @transferred
+      LOGGER.warn { "#{@owner}/#{@name} has been transferred!\n".colorize(:yellow).to_s }
     end
   end
 
@@ -466,30 +510,40 @@ record ShardList, shards : Array(Shard) = [] of Shard do
       self.inactive.join(file) { |s, io| s.to_s io }
       file << '\n'
 
-      file.puts "### Transfered"
-      self.transfered.join(file) { |s, io| s.to_s io }
+      file.puts "### Inactive Workflow"
+      self.inactive_workflow.join(file) { |s, io| s.to_s io }
+      file << '\n'
+
+      file.puts "### Transferred"
+      self.transferred.join(file) { |s, io| s.to_s io }
     end
   end
 
   # Returns an array of shards that do not have CI setup.
   def self.no_ci : Array(Shard)
-    self.shards.select { |s| s.ci.none? && !s.transfered? }
+    self.shards.select { |s| s.ci.none? && !s.transferred? }
   end
 
   # Returns an array of shards that have CI but a built never ran.
   def self.never_built : Array(Shard)
-    self.shards.select { |s| !s.ci.none? && !s.last_built && !s.transfered? }.sort
+    self.shards.select { |s| !s.ci.none? && !s.last_built && !s.transferred? }.sort
   end
 
   # Returns an array of shards that has CI but are no longer considered
-  #  active due to last CI build time being over `TIME_WINDOW` ago.
+  # active due to last CI build time being over `TIME_WINDOW` ago,
+  # excluding those with inactive workflows.
   def self.inactive : Array(Shard)
-    self.shards.select { |s| !s.ci.none? && !s.transfered? && s.inactive? }.sort
+    self.shards.select { |s| !s.ci.none? && !s.transferred? && (s.inactive? && s.active_workflow?) }.sort
   end
 
-  # Returns an array of shards that have been transfered.
-  def self.transfered : Array(Shard)
-    self.shards.select { |s| s.transfered? }
+  # Returns an array of shards that have been transferred.
+  def self.transferred : Array(Shard)
+    self.shards.select { |s| s.transferred? }
+  end
+
+  # Returns an array of shards that have inactive workflows.
+  def self.inactive_workflow : Array(Shard)
+    self.shards.select { |s| !s.active_workflow? }
   end
 
   private def self.shards : Array(Shard)
@@ -506,14 +560,16 @@ private enum ShardReportClass
   NO_CI
   NEVER_BUILT
   NOT_ACTIVE
-  TRANSFERED
+  TRANSFERRED
+  INACTIVE_WORKFLOW
 
   def shards : Array(Shard)
     case self
-    in .no_ci?       then ShardList.no_ci
-    in .never_built? then ShardList.never_built
-    in .not_active?  then ShardList.inactive
-    in .transfered?  then ShardList.transfered
+    in .no_ci?             then ShardList.no_ci
+    in .never_built?       then ShardList.never_built
+    in .not_active?        then ShardList.inactive
+    in .transferred?       then ShardList.transferred
+    in .inactive_workflow? then ShardList.inactive_workflow
     end
   end
 end
