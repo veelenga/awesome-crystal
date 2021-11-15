@@ -1,4 +1,4 @@
-<p align="center"><img src="logo/logotype_horizontal.png" alt="awesome-crystal"></p>
+<p align="center"><img src="logo/logotype_horizontal.jpg" alt="awesome-crystal"></p>
 
 # Awesome Crystal
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
