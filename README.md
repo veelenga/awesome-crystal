@@ -397,6 +397,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Processes and Threads
  * [await_async](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
+ * [concurrent.cr](https://github.com/didactic-drunk/concurrent.cr) - Simplified concurrency using streams/pipelines, waitgroups, semaphores, smores and more
  * [neph](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
  * [promise](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
  * [werk](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
