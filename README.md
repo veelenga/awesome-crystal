@@ -85,6 +85,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystaledge](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
  * [crystalg](https://github.com/tobyapi/crystalg) - A Generic Algorithm Library
  * [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
+ * [csuuid](https://github.com/wyhaines/csuuid.cr) - A Chronologically Sortable UUID
  * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
  * [fzy](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
  * [graphlb](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
