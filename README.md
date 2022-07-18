@@ -404,6 +404,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [neph](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
  * [promise](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
  * [werk](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
+ * [poni](https://github.com/perfecto25/poni) - Active Rsync service based on INotify events
 
 ## Project Generators
  * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
