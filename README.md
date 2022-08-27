@@ -374,8 +374,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [jwt](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
  * [mDNS](https://github.com/spider-gazelle/mdns) - DNS Service Discovery and multicast DNS
- * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
  * [mqtt-client.cr](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
+ * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
  * [OAuth](https://crystal-lang.org/api/OAuth.html) - OAuth consumer (Crystal stdlib)
  * [OAuth2](https://crystal-lang.org/api/OAuth2.html) - OAuth2 client (Crystal stdlib)
  * [OpenSSL](https://crystal-lang.org/api/OpenSSL.html) - bindings to libssl (Crystal stdlib)
