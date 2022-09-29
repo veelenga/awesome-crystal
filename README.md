@@ -273,6 +273,7 @@ described in [RFC 8032]
 
 ## GUI Development
  * [crystal-imgui](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+ * [GTK4.cr](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
  * [Iu](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron](https://github.com/hedron-crystal/hedron)
 
 ## HTML Builders
