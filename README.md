@@ -306,6 +306,7 @@ described in [RFC 8032]
 
 ## Image processing
  * [celestine](https://github.com/celestinecr/celestine) - Create SVG images using a DSL
+ * [ffmpeg](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
  * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
 
 ## Implementations/Compilers
