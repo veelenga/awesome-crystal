@@ -88,6 +88,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [csuuid](https://github.com/wyhaines/csuuid.cr) - A Chronologically Sortable UUID
  * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
  * [fzy](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
+ * [Goban](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
  * [graphlb](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
  * [haversine](https://github.com/geocrystal/haversine) - An Implementation of the Haversine formula
  * [kd_tree](https://github.com/geocrystal/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
