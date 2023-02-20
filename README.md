@@ -475,7 +475,7 @@ described in [RFC 8032]
  * [Athena Spec](https://github.com/athena-framework/spec) - Common/helpful [Spec](https://crystal-lang.org/api/Spec.html) compliant testing utilities
  * [crotest](https://github.com/emancu/crotest) - A tiny and simple test framework
  * [crytic](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
- * [hashr](https://github.com/crystal-china/hashr) - A tiny class makes test on JSON response easier.
+ * [hashr](https://github.com/crystal-china/hashr) - A tiny class makes test on JSON response easier
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) - Automated browser tests similar to Capybara
  * [mass-spec](https://github.com/c910335/mass-spec) - Web API testing library
  * [microtest](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
