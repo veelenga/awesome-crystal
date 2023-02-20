@@ -475,6 +475,7 @@ described in [RFC 8032]
  * [Athena Spec](https://github.com/athena-framework/spec) - Common/helpful [Spec](https://crystal-lang.org/api/Spec.html) compliant testing utilities
  * [crotest](https://github.com/emancu/crotest) - A tiny and simple test framework
  * [crytic](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
+ * [hashr](https://github.com/crystal-china/hashr) - A tiny class makes test on JSON response easier
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) - Automated browser tests similar to Capybara
  * [mass-spec](https://github.com/c910335/mass-spec) - Web API testing library
  * [microtest](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
@@ -573,6 +574,7 @@ described in [RFC 8032]
  * [icr](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
  * [Invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
+ * [procodile](https://github.com/crystal-china/procodile_cr) - Run processes in the background (and foreground) on Mac & Linux from a Procfile (for production and/or development environments)
  * [quicktype](https://quicktype.io/) - Generate models and serializers from JSON, JSON Schema, GraphQL, and TypeScript
  * [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub](https://github.com/mamantoha/shards-info)
 
@@ -580,6 +582,7 @@ described in [RFC 8032]
  * [ast_helper](https://github.com/bcardiff/crystal-ast-helper) - Helper tool to debug parser and formatter
  * [crystal-base](https://github.com/ruivieira/crystal-base) - CentOS base docker image for Crystal development
  * [crystal-dash-docset](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
+ * [port_ruby_to_crystal](https://github.com/crystal-china/port_ruby_to_crystal) - A regex replace ruby script for port ruby code to crystal easier, reduce friction
  * [public_suffix](https://github.com/toddsundsted/public_suffix) - A small library designed to make the Public Suffix List (https://publicsuffix.org/) easier to use
 
 ## DevOps
