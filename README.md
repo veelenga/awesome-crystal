@@ -217,6 +217,7 @@ described in [RFC 8032]
  * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
  * [leveldb](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
  * [rocksdb.cr](https://github.com/maiha/rocksdb.cr) - RocksDB client
+ * [surrealdb.cr](https://github.com/yorci/surrealdb.cr) - Unoffical SurrealDB HTTP & Websocket Client
 
 ## Database Tools
  * [migrate](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
