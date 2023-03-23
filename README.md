@@ -602,7 +602,7 @@ described in [RFC 8032]
  * Geany
    * [geany-crystal](https://github.com/crystal-lang-tools/geany-crystal) - Crystal support for the [Geany editor](https://www.geany.org/)
  * IntelliJ IDEA
-   * [intellij-crystal-lang](https://github.com/asedunov/intellij-crystal-lang) - Crystal support for the JetBrains IDEs  
+   * [intellij-crystal-lang](https://github.com/asedunov/intellij-crystal-lang) - Crystal support for the JetBrains IDEs
  * Lite-XL
    * [lite-plugin-crystal](https://github.com/Tamnac/lite-plugin-crystal) - Crystal support for the [Lite-XL](https://lite-xl.com/en/) editor
  * Spacemacs
