@@ -142,6 +142,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [climate](https://github.com/Sija/climate.cr) - Tiny tool to make your CLI output 🌈  coloured
  * [coin](https://github.com/caian-org/coin) - Command-line application that performs currency conversion via the [Fixer API](https://fixer.io)
  * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
+ * [git-repository](https://github.com/place-labs/git-repository) - A git cli wrapper querying and cloning remote repositories with minimal data transfer
  * [hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to quickly create and manage Kubernetes clusters in Hetzner Cloud
  * [lff](https://github.com/mkdika/lff-cr) - Simple and straightforward large files finder utility in command line
  * [meet](https://github.com/ryanprior/meet) - Start a jitsi meeting quickly from the comfort of your command line
