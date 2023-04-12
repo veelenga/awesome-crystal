@@ -323,6 +323,7 @@ described in [RFC 8032]
  * [LinCAS-lang](https://github.com/LinCAS-lang) - A programming language for scientific computation
  * [mint-lang](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web
  * [myst-lang](https://github.com/myst-lang/) - A practical, dynamic language designed to be written and understood as easily and efficiently as possible
+ * [novika](https://github.com/novika-lang/novika) - A free-form, moldable, interpreted programming language
  * [runic-lang](https://github.com/runic-lang) - In-design toy language
 
 ## Internationalization
