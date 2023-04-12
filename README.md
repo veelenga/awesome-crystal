@@ -110,11 +110,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [augeas.cr](https://github.com/fernandes/augeas.cr) - Bindings for [Augeas](https://augeas.net/)
  * [clang.cr](https://github.com/crystal-lang/clang.cr) - Libclang bindings
  * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
+ * [crystal-gsl](https://github.com/konovod/crystal-gsl) - Bindings for [GNU Scientific Library](https://www.gnu.org/software/gsl/)
  * [crystal-hunspell](https://github.com/mamantoha/crystal-hunspell) - Bindings for [Hunspell](https://hunspell.github.io/)
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape](https://github.com/svaarala/duktape) javascript engine
  * [fftw.cr](https://github.com/firejox/fftw.cr) - Bindings for [FFTW](https://fftw.org/) library
  * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
- * [crystal-gsl](https://github.com/konovod/crystal-gsl) - Bindings for [GNU Scientific Library](https://www.gnu.org/software/gsl/)
  * [icu.cr](https://github.com/olbat/icu.cr) - Bindings for the [ICU](http://site.icu-project.org/) library
  * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
  * [nlopt.cr](https://github.com/konovod/nlopt.cr) - Bindings for [NLOpt](https://nlopt.readthedocs.io/en/latest/)
