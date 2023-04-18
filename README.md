@@ -287,6 +287,7 @@ described in [RFC 8032]
 ## HTML Builders
  * [blueprint](https://github.com/gunbolt/blueprint) - Write reusable and testable HTML templates in plain Crystal
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+ * [Water](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## HTML/XML Parsing
  * [docx_cr_converter](https://github.com/aristotelesbr/docx_cr_converter) - parse DOCX Word
@@ -475,7 +476,6 @@ described in [RFC 8032]
  * [Kilt](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
  * [Slang](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
  * [teeplate](https://github.com/mosop/teeplate) - A library for rendering multiple template files
- * [Water](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## Testing
  * [Athena Spec](https://github.com/athena-framework/spec) - Common/helpful [Spec](https://crystal-lang.org/api/Spec.html) compliant testing utilities
