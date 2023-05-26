@@ -559,7 +559,6 @@ described in [RFC 8032]
  * [crystal-lang.org](https://crystal-lang.org) - Official language site
  * [devdocs.io](https://devdocs.io/crystal/) - API Documentation Browser with Crystal support
  * [Programming Crystal](https://pragprog.com/book/crystal/programming-crystal) - PragProg book to start your Crystal journey
- * [carc.in](https://carc.in/) - An interactive Crystal interpreter in your browser
  * [Crystal Shards for Ruby Gems](https://github.com/crystal-lang/crystal/wiki/Crystal-Shards-for-Ruby-Gems) - A list of Ruby Gems and their Crystal Shards equivalents
 
 ## Official Documentation Translations
