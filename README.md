@@ -555,11 +555,10 @@ described in [RFC 8032]
 
 # Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - Free book to bootstrap your Crystal journey
- * [Crystal Mastery](https://crystalmastery.io/) - Screencasts for learning Crystal
+ * [Crystal Shards for Ruby Gems](https://github.com/crystal-lang/crystal/wiki/Crystal-Shards-for-Ruby-Gems) - A list of Ruby Gems and their Crystal Shards equivalents
  * [crystal-koans](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
  * [crystal-lang.org](https://crystal-lang.org) - Official language site
  * [devdocs.io](https://devdocs.io/crystal/) - API Documentation Browser with Crystal support
- * [getgood.at](https://getgood.at/in-a-day/crystal) - Learn Crystal in a Day
  * [Programming Crystal](https://pragprog.com/book/crystal/programming-crystal) - PragProg book to start your Crystal journey
 
 ## Official Documentation Translations
