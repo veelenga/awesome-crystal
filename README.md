@@ -287,6 +287,7 @@ described in [RFC 8032]
 ## HTML Builders
  * [blueprint](https://github.com/gunbolt/blueprint) - Write reusable and testable HTML templates in plain Crystal
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+ * [to_html](https://github.com/sbsoftware/to_html.cr) - The fastest HTML builder engine for Crystal
  * [Water](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## HTML/XML Parsing
