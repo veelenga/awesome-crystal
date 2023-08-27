@@ -8,8 +8,6 @@
 A curated list of awesome Crystal code and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 The goal is to have projects mostly stable and useful for the community.
 
-Search [Crystal Shards](https://crystalshards.org) or follow announcements [Crystal [ANN]](https://crystal-ann.com) for more.
-
 Contributions are welcome. Please take a quick look at the [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/.github/CONTRIBUTING.md) first.
 
 * [Awesome Crystal](#awesome-crystal)
@@ -311,7 +309,6 @@ described in [RFC 8032]
  * [link-header](https://github.com/spider-gazelle/link-header) - HTTP Link Header Parser
  * [ntlm](https://github.com/spider-gazelle/ntlm) - NTLM authentication
  * [proxy-fetcher.cr](https://github.com/nbulaj/proxy-fetcher.cr) - Proxy lists fetching & validating library
- * [sse.cr](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
 
 ## Image processing
  * [celestine](https://github.com/celestinecr/celestine) - Create SVG images using a DSL
@@ -458,7 +455,6 @@ described in [RFC 8032]
 
 ## Serverless Computing
  * [crystal_openfaas](https://github.com/TPei/crystal_openfaas/) - Template to enable crystal as first class citizens in OpenFaaS
- * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal
  * [secrets-env](https://github.com/spider-gazelle/secrets-env) - Extends ENV module to read values injected by docker / kubernetes secrets and other orchestration tools
 
 ## System
@@ -574,8 +570,6 @@ described in [RFC 8032]
  * [Crank](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
  * [cry](https://github.com/elorest/cry) - Ability to execute crystal code in a fashion similar to Ruby's pry edit
  * [Crystal [ANN]](https://crystal-ann.com) - Announce new project, blog post, version update or any other Crystal work
- * [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
- * [Crystular](http://www.crystular.org) - Regular expression tester
  * [DeBot](https://github.com/jhass/DeBot) - IRC bot written in Crystal
  * [icr](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
  * [Invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
