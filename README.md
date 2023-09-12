@@ -277,8 +277,9 @@ described in [RFC 8032]
  * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
  * [entitas.cr](https://github.com/spoved/entitas.cr) - A Entity Component System Framework for Crystal
  * [MyECS](https://github.com/konovod/myecs) - A Sparse Entity Component System Framework for Crystal
- * [SDL-Crystal-Bindings](https://github.com/Hadeweka/SDL-Crystal-Bindings) - Direct (unsafe) bindings to [SDL2](https://www.libsdl.org/), intended for writing own game libraries
  * [Raylib-cr](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
+ * [SDL-Crystal-Bindings](https://github.com/Hadeweka/SDL-Crystal-Bindings) - Direct (unsafe) bindings to [SDL2](https://www.libsdl.org/), intended for writing own game libraries
+
 
 ## GUI Development
  * [crystal-imgui](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
