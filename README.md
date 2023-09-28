@@ -226,7 +226,6 @@ described in [RFC 8032]
 
 ## Database Tools
  * [migrate](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
- * [queryit](https://github.com/hugopl/queryit) - A setupless terminal based SQL query runner
 
 ## Debugging
 * [backtracer.cr](https://github.com/Sija/backtracer.cr) - Shard aiming to assist with parsing backtraces into a structured form
