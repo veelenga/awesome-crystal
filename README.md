@@ -311,7 +311,7 @@ described in [RFC 8032]
  * [link-header](https://github.com/spider-gazelle/link-header) - HTTP Link Header Parser
  * [ntlm](https://github.com/spider-gazelle/ntlm) - NTLM authentication
  * [proxy-fetcher.cr](https://github.com/nbulaj/proxy-fetcher.cr) - Proxy lists fetching & validating library
- * [sse.cr](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://github.com/y2k2mt/sse.cr) client
+ * [sse.cr](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://html.spec.whatwg.org/multipage/server-sent-events.html) client
 ## Image processing
  * [celestine](https://github.com/celestinecr/celestine) - Create SVG images using a DSL
  * [ffmpeg](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
