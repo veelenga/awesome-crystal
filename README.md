@@ -321,6 +321,7 @@ described in [RFC 8032]
  * [ffmpeg](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
  * [Pluto](https://github.com/phenopolis/pluto) - A fast and convenient image processing library
  * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
+ * [CrystalVips](https://github.com/naqvis/crystal-vips) - Crystal bindings to [libvips](https://github.com/libvips/libvips) image processing library
 
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) - Charly Programming Language
