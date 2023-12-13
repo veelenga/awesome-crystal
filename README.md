@@ -91,6 +91,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Goban](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
  * [graphlb](https://github.com/mettuaditya/graphlb) - Collection of graph datastructure and algorithms
  * [haversine](https://github.com/geocrystal/haversine) - An Implementation of the Haversine formula
+ * [HKDF](https://github.com/spider-gazelle/HKDF) - HMAC-based Extract-and-Expand Key Derivation Function [rfc5869](https://www.rfc-editor.org/rfc/rfc5869)
  * [kd_tree](https://github.com/geocrystal/kd_tree) - An implementation of "K-Dimensional Tree" and "N-Nearest Neighbors"
  * [ksuid.cr](https://github.com/Sija/ksuid.cr) - K-Sortable Globally Unique IDs
  * [markov](https://github.com/mccallofthewild/markov) - Build Markov Chains and run Markov Processes
