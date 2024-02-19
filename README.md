@@ -541,13 +541,10 @@ described in [RFC 8032]
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
 # Community
- * [Chicago Crystal Podcast](https://podcast.chicagocrystal.org)
- * [Chicago Crystal YouTube](https://www.youtube.com/channel/UCI1RvHPG6S9mw4eRoJfH2kA)
  * [Crystal Forum](https://forum.crystal-lang.org/)
- * [Crystal newsletters](https://crystal-lang.org/#newsletter)
+ * [Crystal newsletter](https://crystal-lang.org/#newsletter)
  * [Gitter](https://gitter.im/crystal-lang/crystal)
- * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
- * [IRC](http://irc.lc/freenode/crystal-lang) - #crystal-lang on Freenode
+ * [IRC](ircs://irc.libera.chat:6697#crystal-lang) - #crystal-lang on Libera
  * [Reddit](https://www.reddit.com/r/crystal_programming/)
  * [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
 
