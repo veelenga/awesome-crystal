@@ -543,6 +543,8 @@ described in [RFC 8032]
 # Community
  * [Crystal Forum](https://forum.crystal-lang.org/)
  * [Crystal newsletter](https://crystal-lang.org/#newsletter)
+ * [Gitter](https://gitter.im/crystal-lang/crystal)
+ * [IRC](ircs://irc.libera.chat:6697#crystal-lang) - #crystal-lang on Libera 
  * [Reddit](https://www.reddit.com/r/crystal_programming/)
  * [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
 
