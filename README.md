@@ -436,6 +436,7 @@ described in [RFC 8032]
  * [libgen](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
 
 ## Queues and Messaging
+ * [crafka](https://github.com/BT-OpenSource/crafka) - Apache Kafka library utilizing `librdkafka`
  * [mosquito](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
  * [NATS.io](https://github.com/nats-io/nats.cr) - NATS client
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
