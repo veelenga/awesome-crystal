@@ -373,7 +373,7 @@ described in [RFC 8032]
  * [gphoto2-web.cr](https://github.com/Sija/gphoto2-web.cr) - Web API for libgphoto2
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [iterm2](https://github.com/toddsundsted/iterm2) - Display images within the terminal using the ITerm2 Inline Images Protocol
- * [luce](https://codeberg.org/supercell/luce) - Parse markdown to HTML in a configurable and extendable way. 
+ * [luce](https://codeberg.org/supercell/luce) - Parse markdown to HTML in a configurable and extendable way
  * [monads](https://github.com/alex-lairan/monads) - Monad implementation
  * [observable](https://github.com/TPei/observable) - Implementation of the observer pattern
  * [pinger](https://github.com/spider-gazelle/pinger) - Ping IP addresses and DNS entries without requiring sudo
