@@ -563,6 +563,8 @@ described in [RFC 8032]
  * [crystal-lang.org](https://crystal-lang.org) - Official language site
  * [devdocs.io](https://devdocs.io/crystal/) - API Documentation Browser with Crystal support
  * [Programming Crystal](https://pragprog.com/book/crystal/programming-crystal) - PragProg book to start your Crystal journey
+ * [Usability of Programming Languages](https://gergelyk.github.io/prog-lang-usability/) - Comparison of Python, Rust, Crystal
+ * [Learn X in Y minutes](https://learnxinyminutes.com/docs/crystal/) - Quick tutorial on Crystal
 
 ## Official Documentation Translations
  * [br.crystal-lang.org](http://br.crystal-lang.org/) - Brazilian
