@@ -251,6 +251,7 @@ described in [RFC 8032]
  * [asdf-crystal](https://github.com/marciogm/asdf-crystal) - Plugin for asdf version manager
  * [crenv](https://github.com/crenv/crenv) - Crystal version manager
  * [rcm.cr](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
+ * [vfox-crystal](https://github.com/yanecc/vfox-crystal) - Plugin for vfox version manager
 
 ## Examples and funny stuff
  * [blackjack-cr](https://github.com/gdonald/blackjack-cr) - Console Blackjack
