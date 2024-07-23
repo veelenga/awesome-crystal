@@ -399,6 +399,7 @@ described in [RFC 8032]
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - An SNMP implementation with version 1, 2c and 3 support
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [jwt](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
+ * [knx](https://github.com/spider-gazelle/knx) - KNX protocol implementation supporting multicast, unicast and TCP/IP tunnelling
  * [mDNS](https://github.com/spider-gazelle/mdns) - DNS Service Discovery and multicast DNS
  * [mqtt-client.cr](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
  * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
