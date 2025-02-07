@@ -216,6 +216,7 @@ described in [RFC 8032]
  * [prime](https://github.com/wontruefree/prime) - A prime number generator
 
 ## Database Drivers/Clients
+ * [crystal-duckdb](https://github.com/amauryt/crystal-duckdb) - DuckDB client
  * [couchdb.cr](https://github.com/TechMagister/couchdb.cr) - CouchDB client
  * [cryomongo](https://github.com/elbywan/cryomongo) - MongoDB driver
  * [crystal-db](https://github.com/crystal-lang/crystal-db) - Common db api
