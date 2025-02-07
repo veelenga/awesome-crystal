@@ -300,7 +300,7 @@ described in [RFC 8032]
 
 ## HTML/XML Parsing
  * [docx_cr_converter](https://github.com/aristotelesbr/docx_cr_converter) - parse DOCX Word
- * [myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
+ * [lexbor](https://github.com/kostya/lexbor) - Fast HTML5 Parser that includes CSS selectors
 
 ## HTTP
  * [Cable](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
