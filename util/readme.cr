@@ -27,8 +27,11 @@ class Readme
   def groups
     set = find("//ul[li]").as XML::NodeSet
     set.map do |node|
-      n = XML.parse(node.to_s).xpath("/ul/li/a[1]/text()").as XML::NodeSet
-      n.map { |el| el.text.as String }
+      list_items = node.xpath("./li").as XML::NodeSet
+      list_items.map do |li|
+        first_link = li.xpath("./a[1]").as XML::NodeSet
+        first_link.first?.try(&.content) || ""
+      end.reject(&.empty?)
     end
   end
 
