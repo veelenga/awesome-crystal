@@ -203,6 +203,7 @@ described in [RFC 8032]
  * [geoip2.cr](https://github.com/delef/geoip2.cr) - GeoIP2 reader
  * [HAR](https://github.com/NeuraLegion/har) - HAR (HTTP Archive) parser
  * [INI](https://crystal-lang.org/api/INI.html) - INI file parser (Crystal stdlib)
+ * [jmespath.cr](https://github.com/qequ/jmespath.cr) - Crystal implementation of JMESPath, a query language for JSON
  * [JSON](https://crystal-lang.org/api/JSON.html) - parsing and generating JSON documents (Crystal stdlib)
  * [json-schema](https://github.com/spider-gazelle/json-schema) - convert JSON serializable classes into a [JSON Schema](https://json-schema.org/) representation
  * [JSON::OnSteroids](https://github.com/anykeyh/json_on_steroids) - handle and mutate JSON document easily
