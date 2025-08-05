@@ -213,7 +213,6 @@ described in [RFC 8032]
  * [YAML](https://crystal-lang.org/api/YAML.html) - parsing and generating YAML documents (Crystal stdlib)
 
 ## Data Generators
- * [crygen](https://github.com/tamdaz/crygen) - A library that allows to generate the Crystal code
  * [faker](https://github.com/askn/faker) - A library for generating fake data
  * [hashids.cr](https://github.com/splattael/hashids.cr) - A library to generate YouTube-like ids from one or many numbers
  * [prime](https://github.com/wontruefree/prime) - A prime number generator
@@ -440,6 +439,7 @@ described in [RFC 8032]
  * [werk](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
 
 ## Project Generators
+ * [crygen](https://github.com/tamdaz/crygen) - A library that allows to generate the Crystal code
  * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
  * [fez](https://github.com/jwoertink/fez) - A Kemal application generator
  * [libgen](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
