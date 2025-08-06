@@ -439,6 +439,7 @@ described in [RFC 8032]
  * [werk](https://github.com/marghidanu/werk) - Dead simple task runner with concurrent support, ideal for local CI
 
 ## Project Generators
+ * [crygen](https://github.com/tamdaz/crygen) - A library that allows to generate the Crystal code
  * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
  * [fez](https://github.com/jwoertink/fez) - A Kemal application generator
  * [libgen](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
