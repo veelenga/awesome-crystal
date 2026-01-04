@@ -372,6 +372,7 @@ described in [RFC 8032]
  * [burocracia.cr](https://github.com/vinibrsl/burocracia.cr) - burocracia.cr the dependecyless shard to validate, generate and format Brazilian burocracias such as CPF, CNPJ and CEP
  * [callbacks](https://github.com/vladfaust/callbacks.cr) - Expressive callbacks module
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
+ * [cpf_cnpj](https://codeberg.org/gunbolt/cpf_cnpj) - Provide utilities for validating and formatting CPF and CNPJ identifiers
  * [CrSignals](https://github.com/firejox/CrSignals) - Signals/slots notification library
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
