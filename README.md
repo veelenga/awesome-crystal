@@ -410,6 +410,7 @@ described in [RFC 8032]
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [jwt](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
  * [knx](https://github.com/spider-gazelle/knx) - KNX protocol implementation supporting multicast, unicast and TCP/IP tunnelling
+ * [Matter](https://github.com/Crystal-Matter/matter) - Matter protocol for smart home and Internet of things (IoT) devices
  * [mDNS](https://github.com/spider-gazelle/mdns) - DNS Service Discovery and multicast DNS
  * [mqtt-client.cr](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
  * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
