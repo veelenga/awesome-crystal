@@ -384,6 +384,8 @@ described in [RFC 8032]
  * [gphoto2-web.cr](https://github.com/Sija/gphoto2-web.cr) - Web API for libgphoto2
  * [immutable](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [iterm2](https://github.com/toddsundsted/iterm2) - Display images within the terminal using the ITerm2 Inline Images Protocol
+ * [lua.cr](https://github.com/veelenga/lua.cr) - Bindings to liblua and a wrapper around it
+ * [luajit.cr](https://github.com/mdwagner/luajit.cr) - LuaJIT bindings for Crystal
  * [monads](https://github.com/alex-lairan/monads) - Monad implementation
  * [observable](https://github.com/TPei/observable) - Implementation of the observer pattern
  * [pinger](https://github.com/spider-gazelle/pinger) - Ping IP addresses and DNS entries without requiring sudo
