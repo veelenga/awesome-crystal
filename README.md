@@ -76,6 +76,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Editor Plugins](#editor-plugins)
   * [LSP Language Server Protocol Implementations](#lsp-language-server-protocol-implementations)
   * [Shell Plugins](#shell-plugins)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Crystal development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 
 ## Algorithms and Data structures
  * [bisect](https://github.com/spider-gazelle/bisect) - Inserting values into a sorted array
