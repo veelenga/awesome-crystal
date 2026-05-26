@@ -338,6 +338,7 @@ described in [RFC 8032]
  * [charly](https://github.com/charly-lang) - Charly Programming Language
  * [cltk](https://github.com/ziprandom/cltk) - A crystal port of the Ruby Language Toolkit
  * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+ * [GiavaScript](https://github.com/memburg/GiavaScript) - Open-source, cross-platform JavaScript runtime
  * [LinCAS-lang](https://github.com/LinCAS-lang) - A programming language for scientific computation
  * [mint-lang](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web
  * [myst-lang](https://github.com/myst-lang/) - A practical, dynamic language designed to be written and understood as easily and efficiently as possible
