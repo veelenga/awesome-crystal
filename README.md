@@ -134,6 +134,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [x_do.cr](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool`](https://github.com/jordansissel/xdotool))
 
 ## Caching
+ * [apt-larder](https://github.com/jbox-web/apt-larder) - An HTTP caching proxy for APT package repositories
  * [cache](https://github.com/crystal-cache/cache) - A key/value store where pairs can expire after a specified interval
  * [crystal-memcached](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
 
