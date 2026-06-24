@@ -412,6 +412,7 @@ described in [RFC 8032]
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-mqtt](https://github.com/spider-gazelle/crystal-mqtt) - A MQTT client
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - An SNMP implementation with version 1, 2c and 3 support
+ * [crystal-swim](https://github.com/alumna/crystal-swim) - Decentralized cluster discovery and eventually consistent failure detection using SWIM
  * [dns](https://github.com/spider-gazelle/dns) - DNS protocol implementation and resolver
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [jwt](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
