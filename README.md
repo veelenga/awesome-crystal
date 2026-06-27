@@ -276,6 +276,7 @@ described in [RFC 8032]
  * [motion.cr](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
  * [multi-auth](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
  * [praetorian](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
+ * [rbacr](https://github.com/systatum/rbacr) - Role-Based Access Control system with a clean, type-safe DSL for roles, privileges, and authorization logic
  * [Shield](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
  * [shrine.cr](https://github.com/jetrockets/shrine.cr) - File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby
  * [tourmaline](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
