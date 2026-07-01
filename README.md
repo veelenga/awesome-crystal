@@ -182,6 +182,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [envyable](https://github.com/philnash/envyable.cr) -  A simple YAML to ENV config loader
  * [habitat](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
  * [totem](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
+ * [ucl.cr](https://github.com/jbox-web/ucl.cr) - Bindings to [libucl](https://github.com/vstakhov/libucl), load, dump and validate UCL/JSON configuration
 
 ## Converters
  * [base62.cr](https://github.com/Sija/base62.cr) - Base62 encoder/decoder, well suited for url-shortening
