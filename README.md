@@ -64,6 +64,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Template Engine](#template-engine)
   * [Testing](#testing)
   * [Third-party APIs](#third-party-apis)
+  * [TUI](#tui)
   * [Validation](#validation)
   * [Web Frameworks](#web-frameworks)
 * [Community](#community)
@@ -551,6 +552,9 @@ described in [RFC 8032]
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
  * [web_finger](https://github.com/toddsundsted/web_finger) - A WebFinger (https://tools.ietf.org/html/rfc7033) client
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) - A library to interact with your YNAB data
+
+## TUI
+ * [termisu](https://github.com/omarluq/termisu) - Minimalistic API for writing text-based user interfaces
 
 ## Validation
  * [accord](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
