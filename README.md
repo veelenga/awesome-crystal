@@ -656,6 +656,7 @@ described in [RFC 8032]
    * [vscode-crystal-lang](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
 
 ## LSP Language Server Protocol Implementations
+ * [ameba-ls](https://github.com/crystal-ameba/ameba-ls) - Language Server for the [Ameba](https://github.com/crystal-ameba/ameba) linter
  * [crystalline](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
  * [scry](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
