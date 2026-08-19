@@ -474,6 +474,7 @@ described in [RFC 8032]
  * [router.cr](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
 
 ## Scheduling
+ * [cronaute](https://github.com/jbox-web/cronaute) - Cron daemon for containers, shipped as a single static binary with a read-only dashboard
  * [crystime](https://gitlab.com/crystallabs/crystime) - Advanced time, calendar, schedule, and remind library
  * [schedule.cr](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
  * [tasker](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
