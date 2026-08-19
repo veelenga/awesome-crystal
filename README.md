@@ -131,6 +131,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [syslog.cr](https://github.com/chris-huxtable/syslog.cr) - Bindings for `syslog`
  * [v4l2.cr](https://github.com/spider-gazelle/v4l2.cr) - Bindings for [Video4Linux2](https://en.wikipedia.org/wiki/Video4Linux)
  * [wasmer-crystal](https://github.com/naqvis/wasmer-crystal) - Bindings for the `wasmer` WebAssembly runtime
+ * [wgpu-cr](https://github.com/raj/wgpu-cr) - Bindings for [wgpu-native](https://github.com/gfx-rs/wgpu-native) (WebGPU)
  * [win32cr](https://github.com/mjblack/win32cr) - Bindings for Win32 API
  * [x_do.cr](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool`](https://github.com/jordansissel/xdotool))
 
