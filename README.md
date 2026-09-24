@@ -223,6 +223,7 @@ described in [RFC 8032]
 
 ## Data Generators
  * [faker](https://github.com/askn/faker) - A library for generating fake data
+ * [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) - Checksum-valid financial and identity test data generator (IBAN MOD-97, Luhn cards, TCKN, ISIN), plus real registered BIC/SWIFT codes. No native Crystal shard, but usable via its REST API.
  * [hashids.cr](https://github.com/splattael/hashids.cr) - A library to generate YouTube-like ids from one or many numbers
  * [prime](https://github.com/wontruefree/prime) - A prime number generator
 
