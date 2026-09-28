@@ -279,6 +279,7 @@ described in [RFC 8032]
  * [Exception Page](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
  * [graphql](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
+ * [kemal-identity](https://github.com/urunsiyabend/kemal-identity) - Authentication and identity primitives with first-class Kemal integration
  * [kemal-session](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
  * [mochi](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
  * [motion.cr](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
