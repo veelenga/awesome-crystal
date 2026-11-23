@@ -632,6 +632,7 @@ described in [RFC 8032]
 
 ## DevOps
  * [ansible-crystal](https://github.com/CorbanR/ansible-crystal) - Ansible playbook for installing crystal
+ * [crystalreleaser](https://github.com/jbox-web/crystalreleaser) - GoReleaser-style release automation: multi-platform builds, archives, checksums, changelog, GitHub release, .deb/.rpm packages and Homebrew formula
  * [DPPM](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
  * [krikri](https://github.com/weirdbricks/krikri) - Fast Ansible-compatible automation engine
 
